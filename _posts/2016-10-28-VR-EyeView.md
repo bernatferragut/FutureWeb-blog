@@ -26,4 +26,3 @@ Inducing targeted behaviour in an organism by using ‘artificial sensory stimul
    1. EAR> 3 DOF translation + 3 DOF rotation
    2. EYE> 6 DOF of the head + 2 DOF rotation (...)
    
-![1-tofooltheworld](https://cloud.githubusercontent.com/assets/17754060/19825363/2e8f9888-9d46-11e6-9308-18ed7b68f7b2.png)
