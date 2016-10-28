@@ -9,9 +9,9 @@ name:               "Bernat Ferragut"
 
 author:
   name:             Bernat Ferragut
-  facebook:         bernat.ferragut.5
   github:           bernatferragut
-  linkedin:         in/bernat-ferragut-1972163
+  facebook:         bernat.ferragut.5
+  linkedin:         bernat-ferragut-1972163
   email:            your-elbernat@gmail.com
 
 # Google-analytics
@@ -23,7 +23,7 @@ disqus:
   id:               "http://disqus.com/by/bernatferragut"
 
 # URL
-#url:                "https://bernatferragut.github.io/vr-blog/" # the base hostname & protocol for your site
+#url:               "https://bernatferragut.github.io/vr-blog/" # the base hostname & protocol for your site
 url:                "https://bernatferragut.github.io" # use this url when develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
