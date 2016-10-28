@@ -3,19 +3,16 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "Bernat Ferragut"
 
 
 
 author:
-  name:             your-name
+  name:             Bernat Ferragut
   facebook:         your-id
-  twitter:          your-id
   github:           your-id
   linkedin:         your-id
-  medium:           your-id
-  tumblr:           your-id
-  email:            your-id@your-email.com
+  email:            your-elbernat@gmail.com
 
 # Google-analytics
 google-analytics:
@@ -32,7 +29,7 @@ baseurl:            "" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Seoul
+timezone:           America/Montreal
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
