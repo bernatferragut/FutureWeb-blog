@@ -20,11 +20,11 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "your-id"
+  id:               "http://disqus.com/by/bernatferragut"
 
 # URL
 #url:                "https://bernatferragut.github.io/vr-blog/" # the base hostname & protocol for your site
-url:                "https://bernatferragut.github.io/vr-blog/" # use this url when develop
+url:                "https://bernatferragut.github.io" # use this url when develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
 
