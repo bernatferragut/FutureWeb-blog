@@ -2,7 +2,7 @@
 layout: post
 title: "Virtual Reality Bird's Eye View 2"
 description: "VR Illinois University Class"
-date: 2016-10-28
+date: 2016-10-29
 tags: [VR, Engineering]
 comments: true
 share: true
