@@ -51,7 +51,7 @@ A.IMU (Inertial Measurement Unit)
    4. Today becane really affordable because of the smartphones usage and mass production.
    5. Magnetometer ( To measure the magnetic fields )
 
-### CAMREAS
+### CAMERAS
 
 A.INSIDE / OUT
    1. The head moves and the distance is tracked to outside fixed dots.
@@ -60,7 +60,8 @@ A.INSIDE / OUT
 A.OUTSIDE / IN
    1. The head moves with dots in it and there is a fixed camera ourside to track.
    2. Depth INFO ( RGBD )
-
+   
+# SOFTWARE REVIEW
 
 INPUTS // Head Tracker, Game Tracker, Keyboard --> ALTERNATE WORLD GENERATOR (AWG) --> Visual and Audio Render -->
           Visual and Audio Display --> Output sensor Organs --> Fool the Brain to Fool your Body.
