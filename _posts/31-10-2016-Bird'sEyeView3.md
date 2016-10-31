@@ -90,5 +90,3 @@ B. Uncomfortable
 
 > The entire experience needs to be redesigned because game engines were created for games not for VR.
 > We need to design a VR Engine, a new AWG - Alternate World Generator specific for the new specifications needed.
-
-![bew3](https://cloud.githubusercontent.com/assets/17754060/19860259/75f03f4c-9f5e-11e6-8c1a-79655046c775.jpg
