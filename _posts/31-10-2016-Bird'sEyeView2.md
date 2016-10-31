@@ -22,7 +22,7 @@ B.AUDIO
    1. Speakers, Earphones
    2. Bone Conduction
 
-B.TOUCH
+C.TOUCH
    1. Haptic devices
    2. Cuaneous vs Kinestesia
 
@@ -37,7 +37,7 @@ D.SMELL
 2. KEYBOARD / MOUSE
 3. DATA GLOVES > A lot of research right now
 
- # Questions
+# Questions
 
 > Tracking is key -  The closer to the eye the more complex has to be.
 > Problem about how to see your body inside the game > Either a lot of tracking required...or simply use a 'cave system'.
@@ -65,12 +65,12 @@ A.OUTSIDE / IN
 
 INPUTS // Head Tracker, Game Tracker, Keyboard --> ALTERNATE WORLD GENERATOR (AWG) --> Visual and Audio Render -->
           Visual and Audio Display --> Output sensor Organs --> Fool the Brain to Fool your Body.
----
+          
 # Super Imposing Alternate and Local Real Worlds
 
 > Decide the Physics ruleset and the Ruleset of the World we are creating
 
-### 2 Kinds of SELF MOTION
+### Two Kinds of SELF MOTION
 
 A. Comfortable
    1. The user moves and its motion is matched in the alternate world
@@ -86,9 +86,9 @@ B. Uncomfortable
 2. UNREAL
 3. YOUR OWN ( with Python for example tailored to your exact VR needs ).
    
- # Questions
+# Questions
 
 > The entire experience needs to be redesigned because game engines were created for games not for VR.
->  We need to design a VR Engine, a new AWG - Alternate World Generator specific for the new specifications needed.
+> We need to design a VR Engine, a new AWG - Alternate World Generator specific for the new specifications needed.
    
 ![img_20161029_093615](https://cloud.githubusercontent.com/assets/17754060/19830032/b8ce0bca-9dbd-11e6-86f2-2d208196f2c9.jpg)
