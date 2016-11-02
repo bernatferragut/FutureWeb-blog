@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VR - Sensation & Perception"
-description: "Test post for style"
+description: "VR Illinois University Class"
 date: 2016-11-01
 tags: [virtual reality, ingeneering]
 comments: true
