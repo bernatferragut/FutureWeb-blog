@@ -59,7 +59,7 @@ Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.Powered by [Jekyll](http
 
 * Design - Art
 * Virtual Reality - Philosophical implications
-* Mditation - Focuse and Presence from classical traditions
+* Mditation - Focus and Presence from classical traditions
 
 
 
