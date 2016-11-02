@@ -55,6 +55,12 @@ Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.Powered by [Jekyll](http
 * Catalan
 * German
 
+## INTEREST
+
+* Philosophy and Design
+* Virtual Reality
+* Mditaion - From all the classical traditions
+
 
 
 
