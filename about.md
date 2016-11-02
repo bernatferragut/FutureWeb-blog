@@ -57,9 +57,9 @@ Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.Powered by [Jekyll](http
 
 ## INTEREST
 
-* Philosophy and Design
-* Virtual Reality
-* Mditaion - From all the classical traditions
+* Design - Art
+* Virtual Reality - Philosophical implications
+* Mditation - Focuse and Presence from classical traditions
 
 
 
