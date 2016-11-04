@@ -61,7 +61,7 @@ Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.Powered by [Jekyll](http
 * Virtual Reality - Philosophical implications
 * Meditation - Focus and Presence from classical traditions
 
-## INTEREST
+## CONTACT
 
 * Contact: elbernat@gmail.com
 
