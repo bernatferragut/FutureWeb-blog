@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VR - vr user interface design Manifesto"
-description: "VR Illinois University Class"
+description: "R&D of VR User Intetface"
 date: 2016-11-04
 tags: [virtual reality, ingeneering]
 comments: true
@@ -9,27 +9,43 @@ share: true
 ---
 
 # Notes on Alger's Manifesto 
-*. HMD (Head Mounted Display)
-   *. Eyes's think the object is moving - example of being in a stationary train and another starting to move.
+### HMD (Head Mounted Display) 
+> Everything will happen throught HMD. They are the new headphones.
 
-2. VESTIBULO OCULAR REFLEX
-   1. Affects stationary perception - example of moving head with a fixed pencil in fron of your eyes.
-   
-> If you have a bad set of VR Headset your head compensates for it without you knowing it. Dangerous.
-   
-# Psychophysics
-PHYSICAL STIMULATION TO PERCEPTION PHENOMENA.
+### Invent things that are 'Natural' to use
+> We should design natural things that we can recognize naturally.
 
-> There are many studies of psychophysics on different inputs with 'probability of detection' charts.
+### 'Interaction Design' is the Key
+> It's the glue that binds Graphic and Motion Design in the VR world.
 
-# Steven's Power laws (1961)
-P=CM^x
-> Where is demonstrated that human behaviout tends to ADAPT over time.
+### Good inventions are 'Technology Independent'
+> Drag and Drop, blue hyperlink, clickwheel, pinchzoom.
 
-# Optical Illusions
-> Check and Study the classic to see how there are 'rules' to trick the vision percieved by the brain
+### Ideas to TRY
+> environnement attention cues, holophonic notification sounds, pointing,
+viewports, shadows, day and night cycles, weather, interpersonal UI icons.
 
-Engineering Planet, Videos about Engineering VR [YOUTUBE LINK](https://www.youtube.com/playlist?list=PLnrQYulaS3_75MlCYVoKftnMQlFd5iGG-)  
+### The job of the future will look quite different than now. 
+> The 'normal' will be to work inside the HMD with different screens (spherical and not reactangular as an example)
 
-![optical](https://cloud.githubusercontent.com/assets/17754060/19907964/7d4286d4-a057-11e6-9531-94c786d584b8.png)
+### Graphic and Web Designers will have to readapt.
+> They will have to approach the Interior and Architecture designer more and more. They will have to study 'space'.
+
+### Which will be the future of Keyboards and Desktop
+> different approaches to have a new 'office space' adapted to your imagination.
+
+### The Operatios System has to be redisgned for productivity and Multitasking
+> a new whole approach has to be studied because the technology allows a new paradigm.
+
+### We do it For the better
+> It can change the world
+> Education can be more engaging
+> Training more effective
+> Things can be better designed if you can live inside them before building them for real.
+> Freedom to visit and go whatever you wish whenever you want.
+> The Internet does not have to be in 2D anymore
+> We want to relax and enjoy our imagination.
+
+(...)
+
 
