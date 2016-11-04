@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VR - user interface design Manifesto"
+title: "VR - User interface design Manifesto"
 description: "R&D of VR User Intetface"
 date: 2016-11-04
 tags: [virtual reality, ux design]
