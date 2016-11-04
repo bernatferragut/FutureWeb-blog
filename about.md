@@ -18,7 +18,7 @@ Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.Powered by [Jekyll](http
 ## WORK
 
 * UX / Graphical Designer - Freelance -  [Bernat Ferragut](http://bernatferragut.co/)
-* 3D / Layout / Previz Designer / Steroscopic AAA Films and Documentaries - [DamnFX Montreal](#)
+* 3D / Layout / Previz Designer / Steroscopic AAA Films - [DamnFX Montreal](#)
 * 3D / Graphic Designer / Engineering Marketing Dept - [Simulare](#)
 * 3D Maya Instructor - Teacher and Project Manager - [Image and Sound High School](http://www.cev.com/)
 
