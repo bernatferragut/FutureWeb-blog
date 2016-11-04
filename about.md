@@ -43,6 +43,7 @@ Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.Powered by [Jekyll](http
 ###PROGRAMMING LANGUAGES
 
 * General
+  * Python
   * C#
 * Internet
   * HTML / CSS / Javascript
