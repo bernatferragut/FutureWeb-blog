@@ -3,7 +3,7 @@ layout: post
 title: "VR - vr user interface design Manifesto"
 description: "R&D of VR User Intetface"
 date: 2016-11-04
-tags: [virtual reality, ingeneering]
+tags: [virtual reality, ux design]
 comments: true
 share: true
 ---
@@ -22,7 +22,7 @@ share: true
 > Drag and Drop, blue hyperlink, clickwheel, pinchzoom.
 
 ### Ideas to TRY
-> environnement attention cues, holophonic notification sounds, pointing,
+> Environnement attention cues, holophonic notification sounds, pointing,
 viewports, shadows, day and night cycles, weather, interpersonal UI icons.
 
 ### The job of the future will look quite different than now. 
@@ -32,10 +32,10 @@ viewports, shadows, day and night cycles, weather, interpersonal UI icons.
 > They will have to approach the Interior and Architecture designer more and more. They will have to study 'space'.
 
 ### Which will be the future of Keyboards and Desktop
-> different approaches to have a new 'office space' adapted to your imagination.
+> Different approaches to have a new 'office space' adapted to your imagination.
 
 ### The Operatios System has to be redisgned for productivity and Multitasking
-> a new whole approach has to be studied because the technology allows a new paradigm.
+> A new whole approach has to be studied because the technology allows a new paradigm.
 
 ### We do it For the better
 > It can change the world
@@ -46,6 +46,6 @@ viewports, shadows, day and night cycles, weather, interpersonal UI icons.
 > The Internet does not have to be in 2D anymore
 > We want to relax and enjoy our imagination.
 
-(...)
+>LINK to Alger's YOUTUBE VIDEO 
 
 
