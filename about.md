@@ -24,7 +24,7 @@ Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.Powered by [Jekyll](http
 
 ## KNOWHOW
 
-###SOFTWARE
+>SOFTWARE
 
 * Game Engines
   * UNITY
@@ -40,7 +40,7 @@ Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.Powered by [Jekyll](http
   * InDesign/
   * Premiere
   
-###PROGRAMMING LANGUAGES
+>PROGRAMMING LANGUAGES
 
 * General
   * Python
@@ -48,7 +48,7 @@ Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.Powered by [Jekyll](http
 * Internet
   * HTML / CSS / Javascript
   
-###NATURAL LANGUAGES
+>NATURAL LANGUAGES
 
 * English
 * Spanish
