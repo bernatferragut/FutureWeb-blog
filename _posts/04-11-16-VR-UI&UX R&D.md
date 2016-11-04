@@ -46,6 +46,5 @@ viewports, shadows, day and night cycles, weather, interpersonal UI icons.
 > The Internet does not have to be in 2D anymore
 > We want to relax and enjoy our imagination.
 
->LINK to Alger's YOUTUBE VIDEO 
-
+>[LINK to Alger's YOUTUBE VIDEO ](https://www.youtube.com/watch?v=n3b8hZ5NV2E) 
 
