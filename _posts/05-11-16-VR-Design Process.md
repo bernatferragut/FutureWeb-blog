@@ -48,7 +48,7 @@ share: true
 * SOUND AT THE END SO TIMINGS ARE PERFECT
   
 ### Building VR design Team
-> Is like buildin a product
+> Is like building a product
 
 * WHAT is needed:
   * Designers wear different hats
@@ -76,12 +76,12 @@ share: true
   * Web and Mobile 
   * Design Schools
   
-* WHAT to look for, Aside from the obvious of great 3D Renders and Images:
+> WHAT to look for, Aside from the obvious of great 3D Renders and Images:
   * Experience of Deigning in VR - Are they thinking daily in VR ?
   * Diverse skillsets - 
   * Passion for VR
 
-* BUILD a culture based on:
+> BUILD a culture based on:
   * Value skills over roles
   * Keep an open mind for new talent
   * Cast a wide net
