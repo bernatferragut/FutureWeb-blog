@@ -11,6 +11,8 @@ share: true
 
 > Google's Daydream Labs guidelines for the best possible approach to VR Design
 
+![vr design pipeline](https://cloud.githubusercontent.com/assets/17754060/20030750/c3aa4aca-a341-11e6-8a6b-43e3016bf750.png)
+
 ### Design process 1
 > Rapid, exploratory prototyping
 
@@ -54,7 +56,7 @@ share: true
   * Focus on skills not in roles
   * diverse skills
 
-*SKILLS needed:
+* SKILLS needed:
   * 3D
   * Prototype
   * Interaction design
@@ -63,28 +65,28 @@ share: true
   * Audio
   * Research
   
-*START with at least 2 Designers with the following skills:
+* START with at least 2 Designers with the following skills:
   * 3D
   * Prototype
   * Interaction design
   
-*WHERE to find them:
+* WHERE to find them:
   * Gaming
   * VFX
   * Web and Mobile 
   * Design Schools
   
-*WHAT to look for, Aside from the obvious of great 3D Renders and Images:
+* WHAT to look for, Aside from the obvious of great 3D Renders and Images:
   * Experience of Deigning in VR - Are they thinking daily in VR ?
   * Diverse skillsets - 
   * Passion for VR
 
-*BUILD a culture based on:
+* BUILD a culture based on:
   * Value skills over roles
   * Keep an open mind for new talent
   * Cast a wide net
   * Get help from a design Studio
   
-  ![vr design pipeline](https://cloud.githubusercontent.com/assets/17754060/20030750/c3aa4aca-a341-11e6-8a6b-43e3016bf750.png)
+
 
 
