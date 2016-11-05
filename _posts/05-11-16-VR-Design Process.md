@@ -45,7 +45,6 @@ share: true
 * MOTION AS AN ENGAGING ONLY WHEN NEEDED
 * SOUND AT THE END SO TIMINGS ARE PERFECT
   
-
 ### Building VR design Team
 > Is like buildin a product
 
@@ -75,8 +74,7 @@ share: true
   * Web and Mobile 
   * Design Schools
   
->WHAT to look for:
-***Aside from the obvious of great 3D Renders and Images
+*WHAT to look for, Aside from the obvious of great 3D Renders and Images:
   * Experience of Deigning in VR - Are they thinking daily in VR ?
   * Diverse skillsets - 
   * Passion for VR
@@ -86,4 +84,7 @@ share: true
   * Keep an open mind for new talent
   * Cast a wide net
   * Get help from a design Studio
+  
+  ![vr design pipeline](https://cloud.githubusercontent.com/assets/17754060/20030750/c3aa4aca-a341-11e6-8a6b-43e3016bf750.png)
+
 
