@@ -78,20 +78,20 @@ Standalone InputModule (Script)
 
 1. Google Cardboard
 
-> Player Settings> Virtual Reality support disabled
-> GvrMain> GvrViewer (Script)> VR Mode enabled -> this split the camera for Card Board only
-> GvrMain> Head> GvrHead (Script)> Track position enabled -> this track position for Card Board only
-> GvrMain> Head> GvrHead (Script)> Track rotation enabled -> this track rotation for Card Board only
+ > Player Settings> Virtual Reality support disabled
+ > GvrMain> GvrViewer (Script)> VR Mode enabled -> this split the camera for Card Board only
+ > GvrMain> Head> GvrHead (Script)> Track position enabled -> this track position for Card Board only
+ > GvrMain> Head> GvrHead (Script)> Track rotation enabled -> this track rotation for Card Board only
 
 2. Build Settings: Player settings
-> Company Name: MyCompany
-> Product Name: CardBoardTest
-> Default orientation: Landscape Left
-> Multithreaded Rendering: on
-> Bundle Identifier: com.mycompany.cardboardtest
-> Minimum API Level: Android 4.1 (API Level 16)
-> Device Filter: ARMv7
-> Android TV Compatibility: off
+ > Company Name: MyCompany
+ > Product Name: CardBoardTest
+ > Default orientation: Landscape Left
+ > Multithreaded Rendering: on
+ > Bundle Identifier: com.mycompany.cardboardtest
+ > Minimum API Level: Android 4.1 (API Level 16)
+ > Device Filter: ARMv7
+ > Android TV Compatibility: off
 
 3. Add the corrent scene to build
 
