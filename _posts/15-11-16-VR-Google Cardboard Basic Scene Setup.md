@@ -7,6 +7,8 @@ tags: [design, virtual reality, googleVR]
 comments: true
 share: true
 ---
+![camerasetup](https://cloud.githubusercontent.com/assets/17754060/20304637/c3c276cc-ab07-11e6-8fa7-ffc7c0845071.png)
+
 # SOFTWARE SETUP
 
 1. Download Java SE Development Kit 8 [link](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
