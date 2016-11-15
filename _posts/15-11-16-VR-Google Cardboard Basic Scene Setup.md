@@ -17,26 +17,17 @@ Install using the “SDK Tools Only” option.
 On some Windows systems, the launcher script does not find where the JDK is installed. If you encounter this problem, you need to set an environment variable indicating the correct location.
 Select Start menu > Computer > System Properties > Advanced System Properties. Then open Advanced tab > Environment Variables and add a new system variable JAVA_HOME that points to your JDK folder, for example C:\Program Files\Java\jdk1.8.0_77.
 
-![vr design pipeline](https://cloud.githubusercontent.com/assets/17754060/20030750/c3aa4aca-a341-11e6-8a6b-43e3016bf750.png)
+3. Download the Google VR SDK for Unity [link](https://developers.google.com/vr/unity/)
 
-> **A-FIRST INTERACTION DESIGN PROTOTYPING**
+4. Open Unity (working with the Google VR SDK for Unity requires Unity 5.2.1 or later)
+Assets> Import Package> ‘GoogleVRForUnity.unitypackage’, uncheck Plugins/iOS and ‘Import’.
+Under Project window we will see Assets/GogleVR and Assets/Plugin.
 
-  * WHO ARE WE BUILDING FOR - INFORMATION ARCHITECTURE DESIGN - LIKE MOBILE FRAMEWORK
-  * FLOWS TO GOALS TO THE USER TO ACCOMPLISH
+> NOTICE: if the Unity console write about a script error, ignore it and Switch Platform to Android
 
-> **B-HAND SKETCHING - ONLY 2D STAGE OF DESIGN PROCESS**
+5. Unity> Build Settings> Android and Texture Compression ETC2 (GLES 3.0)
 
-  * Easiest and fastest way to share your ideas - faster than Photoshop.
-  
-> **C-VOLUMETRIC LAYOUTING** - in 3D immediately see how it look in VR
-
-  * In 3D immediately see how it looks in VR / SPACIAL DESIGN
-  * SCALE - EYE TRAVEL -HEAD MOVEMENT - MORE
-  * ADD TEXT - IMAGES - INTERACTIVE ELEMENTS (it has depth and distortion in 3D)
-  * POSITIONING IN 3D - OVER a CYLINDRICAL MAKES MORE SENSE AND IS EASIER TO SEE
-  * INCREASE LEGIBILITY - DECREASE THE LAYOUT SIZE (so it's less claustrophobic)
-  * ADD HIGHER FIDELITY FILLER CONTENT
-  * ADD HIGHER FIDELITY FILLER CONTENT
+# UNITY CAMERA BASIC SETUP
 
 > **D-START USER SETTING AND ENVIRONMENT DESIGN**
 
