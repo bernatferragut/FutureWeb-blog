@@ -29,15 +29,72 @@ Under Project window we will see Assets/GogleVR and Assets/Plugin.
 
 # UNITY CAMERA BASIC SETUP
 
-> **D-START USER SETTING AND ENVIRONMENT DESIGN**
+1. Create a New Scene
 
-  * START USER SETTING AND ENVIRONMENT DESIGN
-  * WE INTRODUCE ENVIRONMENT DESIGN
-  * WE INTRODUCE 3D MODELLING - DISCOVERY POSTERS - VISUAL DESIGN
-  * ELEGANT FLATTENING WINDOW WHEN 3D NOT NEEDED - INCREASE PARALLAX WHEN NEEDED
-  * TRANSITIONS + INTERACTIVITY + 3D MODELS
-  * MOTION DESIGN
-  * LIGHTING + MATERIALS
-  * SOUND DESIGN
+2. Create a Plane and a Cube
 
-> **VR FIRST PROCESS WORKFLOW**
+3. Project> Assets> GoogleVR> Prefabs> GvrMain DRAG AND DROP in Hierarchy
+
+4. Hierarchy> GvrMain > Head> Main Camera> Inspector> Add Component> Physics Raycaster (NOT THE Physics 2D Raycaster!!!)
+The Raycaster raycasts against 3D objects in the scene. This allows messages to be sent to 3D physics objects that implement event interfaces.
+
+5. Delete the old ‘Main Camera’
+
+6. Project> Assets> GoogleVR> Prefabs> UI> GvrReticle, DRAG AND DROP in Hiearchy over Main Camera.
+
+7. Press Play and rotate the camera using ALT + move the mouse without clicking.
+
+# UNITY INPUT SETUP
+
+1. RMB on a empty area in Hierarchy> UI> add an ‘Event System’
+
+2. Event System> Inspector> Add Component> GazeInputModule.cs, gear icon> ‘Move Up’ the component, the correct order is:
+
+Transform
+EventSystem (Script)
+GazeInputModule (Script)
+Standalone InputModule (Script)
+
+3. Cube> Inspector> assign a Green material
+
+4. Cube> Inspector> Add Component> EventTrigger (Script)> ‘Add New Event Type’> Pointer Enter> +> in the Empty Slot DRAG Cube, No Function> MeshRenderer> Material> DRAG a Red material
+
+5. Cube> Inspector> Add Component> EventTrigger (Script)> ‘Add New Event Type’> Pointer Exit> +> in the Empty Slot DRAG Cube, No Function> MeshRenderer> Material> DRAG a Green material
+
+6. Play
+ 6.1– pointer Enter material changes to Red
+ 6.2– pointer Exit material changes to Green
+
+7. The interactions detection system flow is:
+
+ a) main Camera/Physics Raycaster + CardboardReticle send rays
+ b) rays casts Cube/Box Collider
+ c) Cube/Event Trigger sends data to Hierarchy/EventSystem
+ d) Hierarchy/EventSystem + Gaze Input Module manages data
+
+> If it does not work check the ‘Physics Raycaster (Script)’ attached to the Main Camera or the Box Collider of the Cube.
+
+# CARDBOARD BUILDING SETUP
+
+1. Google Cardboard
+
+> Player Settings> Virtual Reality support disabled
+> GvrMain> GvrViewer (Script)> VR Mode enabled -> this split the camera for Card Board only
+> GvrMain> Head> GvrHead (Script)> Track position enabled -> this track position for Card Board only
+> GvrMain> Head> GvrHead (Script)> Track rotation enabled -> this track rotation for Card Board only
+
+2. Build Settings: Player settings
+> Company Name: MyCompany
+> Product Name: CardBoardTest
+> Default orientation: Landscape Left
+> Multithreaded Rendering: on
+> Bundle Identifier: com.mycompany.cardboardtest
+> Minimum API Level: Android 4.1 (API Level 16)
+> Device Filter: ARMv7
+> Android TV Compatibility: off
+
+3. Add the corrent scene to build
+
+4. Build and Play!
+
+5. Assets> Plugins> Android> create a folder ‘assets’, copy here your oculus signature file, generate it using [link](https://developer.oculus.com/osig/)
