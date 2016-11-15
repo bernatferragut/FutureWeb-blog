@@ -33,9 +33,9 @@ Under Project window we will see Assets/GogleVR and Assets/Plugin.
 
 2. Create a Plane and a Cube
 
-3. Project> Assets> GoogleVR> Prefabs> GvrMain DRAG AND DROP in Hierarchy
+3. Project> Assets> GoogleVR> Prefabs> GvrViewerMain DRAG AND DROP in Hierarchy
 
-4. Hierarchy> GvrMain > Head> Main Camera> Inspector> Add Component> Physics Raycaster (NOT THE Physics 2D Raycaster!!!)
+4. Hierarchy> GvrViewerMain > Head> Main Camera> Inspector> Add Component> Physics Raycaster (NOT THE Physics 2D Raycaster!!!)
 The Raycaster raycasts against 3D objects in the scene. This allows messages to be sent to 3D physics objects that implement event interfaces.
 
 5. Delete the old ‘Main Camera’
