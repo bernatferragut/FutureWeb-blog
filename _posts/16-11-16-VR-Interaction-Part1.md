@@ -3,6 +3,8 @@
 > From all the parts a VR Project can be built, Interaction is the central spine of any VR Project.
 > It's crucial to get it right and to investigate to use it the best possible way.
 
+![vrinteraction](https://cloud.githubusercontent.com/assets/17754060/20348478/fa83a120-abdb-11e6-8b65-d7e0a3fcbb73.png)
+
 ## Interaction in VR
 > A different way of interacting with virtual objects.
 
@@ -49,5 +51,5 @@
 ### B.2 Google VR > Unity > Class Reference > Interfaces > 
 1. IgvrGazePointer
 2. IGvrGazeResponder
-=================================
+
 > In the next post we will study **Look Around** and **Gaze** in depth
