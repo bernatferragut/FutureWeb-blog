@@ -1,3 +1,13 @@
+---
+layout: post
+title: "VR - Google VR Interaction part1"
+description: "Interaction as the VR Spine"
+date: 2016-11-16
+tags: [design, virtual reality, googleVR]
+comments: true
+share: true
+---
+
 ### Introduction
 
 > From all the parts a VR Project can be built, Interaction is the central spine of any VR Project.
