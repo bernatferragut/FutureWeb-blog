@@ -40,37 +40,35 @@ D. Because they are so basic there is still a lot to experiment and study about
 
 Here as an example the code to change the color of a cube on Enter/Exit and Playing an animation on Tigger"
 
-'''
 
-public class MovingBolido : MonoBehaviour {
+	public class MovingBolido : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {}
+		// Use this for initialization
+		void Start () {}
 
-	// Update is called once per frame
-	void Update () {}
+		// Update is called once per frame
+		void Update () {}
 
-	// My Functions
-	public void OnGazeEnter() {
-		//Debug.Log ("Gaze Enter");
+		// My Functions
+		public void OnGazeEnter() {
+			//Debug.Log ("Gaze Enter");
 
-		this.GetComponent<Renderer>().material.color = Color.blue;
+			this.GetComponent<Renderer>().material.color = Color.blue;
+		}
+
+		public void OnGazeExit() {
+			//Debug.Log ("Gaze Exit");
+			this.GetComponent<Renderer>().material.color = Color.red;
+
+		}
+
+		public void OnGazeTrigger() {
+			/*Animator anim = GetComponent<Animator>();
+			anim.Play("Clip1", -1, 0.0f);*/
+
+			this.GetComponent<Animator>().Play("Clip1", -1, 0.0f);
+
+		} 
+
 	}
 
-	public void OnGazeExit() {
-		//Debug.Log ("Gaze Exit");
-		this.GetComponent<Renderer>().material.color = Color.red;
-
-	}
-
-	public void OnGazeTrigger() {
-		/*Animator anim = GetComponent<Animator>();
-		anim.Play("Clip1", -1, 0.0f);*/
-
-		this.GetComponent<Animator>().Play("Clip1", -1, 0.0f);
-
-	} 
-		
-}
-  
-'''
