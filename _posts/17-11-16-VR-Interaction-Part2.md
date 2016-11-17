@@ -10,6 +10,8 @@ share: true
 
 ### THE CENTER OF VR INTERACTION
 
+![interaction](https://cloud.githubusercontent.com/assets/17754060/20390726/822801fa-aca6-11e6-94d4-781800a38f9b.jpg)
+
 > If we try to achieve de Maximum interaction with the Minimum Input 2 are the main subjects of Study:
 
 1. **HEAD ROTATION**
@@ -23,7 +25,7 @@ share: true
 
 > These Inputs achieve the following objectives:
 
-A. They are relaively easy to program
+A. They are relatively easy to program
 B. They are available
 C. They work on MOBILE and rea CHEAP
 D. Because they are so basic there is still a lot to experiment and study about
