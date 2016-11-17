@@ -52,7 +52,6 @@ Here as an example the code to change the color of a cube on Enter/Exit and Play
 		// My Functions
 		public void OnGazeEnter() {
 			//Debug.Log ("Gaze Enter");
-
 			this.GetComponent<Renderer>().material.color = Color.blue;
 		}
 
