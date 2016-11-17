@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-### THE CENTER OF VR INTERACTION
+## THE CENTER OF VR INTERACTION
 
 ![interaction](https://cloud.githubusercontent.com/assets/17754060/20390726/822801fa-aca6-11e6-94d4-781800a38f9b.jpg)
 
@@ -30,7 +30,7 @@ B. They are available
 C. They work on MOBILE and rea CHEAP
 D. Because they are so basic there is still a lot to experiment and study about
 
-## GAZE INPUT
+### GAZE INPUT
 
 > When using Gaze we mean the IGvrGazeResponder System which incorporates the following functions:
 
