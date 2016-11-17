@@ -29,3 +29,13 @@ A. They are relatively easy to program
 B. They are available
 C. They work on MOBILE and rea CHEAP
 D. Because they are so basic there is still a lot to experiment and study about
+
+## GAZE INPUT
+
+> When using Gaze we mean the IGvrGazeResponder System which incorporates the following functions:
+
+1. OnGazeEnter()
+2. OnGazeExit()
+3. OnGazeTrigger()
+
+Here as an example the code to change the color of a cube on Enter/Exit and Playing an animation on Tigger.
