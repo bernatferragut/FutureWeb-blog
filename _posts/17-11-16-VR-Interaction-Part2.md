@@ -118,3 +118,13 @@ Here as an example the code to change the color of a cube on Enter/Exit and Play
 		}
 	}
 
+### Timed Input Handler
+
+	using UnityEngine;
+	using System.Collections;
+	using UnityEngine.EventSystems;
+
+	public interface TimedInputHandler : IEventSystemHandler {
+		// >>TIMED INPUT<<
+		void HandleTimedInput();
+	}
