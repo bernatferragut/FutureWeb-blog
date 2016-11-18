@@ -89,21 +89,21 @@ Here as an example the code to change the color of a cube on Enter/Exit and Play
 	private GameObject gazedAt;
 
 	void Start () {
-    	CreateReticleVertices();
+		CreateReticleVertices();
 
-    	materialComp = gameObject.GetComponent<Renderer>().material;
+		materialComp = gameObject.GetComponent<Renderer>().material;
 
-	// >>TIMED INPUT<<
-	gazeStartTime = -1;
-	gazedAt = null;
+		// >>TIMED INPUT<<
+		gazeStartTime = -1;
+		gazedAt = null;
   	}
 
 	public void OnGazeStart(Camera camera, GameObject targetObject, Vector3 intersectionPosition,bool isInteractive) {
-    	SetGazeTarget(intersectionPosition, isInteractive);
+		SetGazeTarget(intersectionPosition, isInteractive);
 
-	// >>TIMED INPUT<<
-	gazedAt = targetObj;
-	gazeStartTime = Time.time;
+		// >>TIMED INPUT<<
+		gazedAt = targetObj;
+		gazeStartTime = Time.time;
     	}
 
 	public void OnGazeStay(Camera camera, GameObject targetObject, Vector3 intersectionPosition,bool isInteractive) {
@@ -111,7 +111,7 @@ Here as an example the code to change the color of a cube on Enter/Exit and Play
 
 		// >>TIMED INPUT<<
 		if (gazedAt != null && gazeStartTime > 0f) {
-			if (Time.time - gazeStartTime > 3.0f && ExecuteEvents.CanHandleEvent <TimedInputHandler> (gazedAt)) 		{
+			if (Time.time - gazeStartTime > 3.0f && ExecuteEvents.CanHandleEvent <TimedInputHandler> (gazedAt)) 			{
 				gazeStartTime = -1f;
 				ExecuteEvents.Execute (gazedAt, null, (TimedInputHandler handler, BaseEventData data) => 	handler.HandleTimedInput ());
 			}
