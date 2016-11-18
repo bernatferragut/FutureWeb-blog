@@ -128,3 +128,25 @@ Here as an example the code to change the color of a cube on Enter/Exit and Play
 		// >>TIMED INPUT<<
 		void HandleTimedInput();
 	}
+
+### Timed Input Object
+
+	using UnityEngine;
+	using System.Collections;
+
+	public class TimedInputObject : MonoBehaviour, TimedInputHandler {
+
+		// Use this for initialization
+		void Start () {
+			GetComponent<Renderer> ().material.color = Color.black;
+		}
+		
+		// Update is called once per frame
+		void Update () {}
+
+		// We inherit from the Interface
+		public void HandleTimedInput(){
+			GetComponent<Renderer> ().material.color = Color.red;
+		}
+
+	}
