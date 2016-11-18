@@ -150,3 +150,11 @@ Here as an example the code to change the color of a cube on Enter/Exit and Play
 		}
 
 	}
+
+> Altough a very simple method to use, the potential for it is hughe:
+
+1. You do not need a 'controller'
+2. It's very intuitive
+3. Once understood you can do more things than imagined.
+4. Still open to experimentation
+
