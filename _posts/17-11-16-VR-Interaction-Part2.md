@@ -49,8 +49,10 @@ share: true
 ## 2.THROUGH CUSTOM SCRIPTING > on the script
 
 1. We inherit from ‘MonoBehaviour’ and ‘IGvrGazeResponder'
-2. Add to the Camera a ‘GvrGaze’ Script where we plug the GvrReticle we have on the Rig.
+2. Add to the Camera a ‘GvrGaze’ Script where we plug the GvrReticle we have on the Rig. ( See attached Image )
 3. Now we can normally start to script the Behaviours OnGazeEnter, OnGazeExit, OnGazeTrigger.
+
+![gvrgaze](https://cloud.githubusercontent.com/assets/17754060/20456144/fec45386-ae44-11e6-8e66-c61cab848770.png)
 
 ### USING IGvrGazeResponder
 
@@ -92,4 +94,5 @@ Here as an example the code to change the color of a cube on Enter/Trigger/Exit:
 		} 
 
 	}
+	
 
