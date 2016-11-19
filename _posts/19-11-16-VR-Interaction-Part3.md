@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VR - Google VR Interaction part3”
-description: "Gaze + Timer"
+description: "GAZE + TIMER"
 date: 2016-11-19
 tags: [design, virtual reality, googleVR]
 comments: true
