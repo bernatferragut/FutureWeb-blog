@@ -30,7 +30,29 @@ B. They are available
 C. They work on MOBILE and rea CHEAP
 D. Because they are so basic there is still a lot to experiment and study about
 
-### GAZE INPUT
+
+### USING Google VR INTERACTION MODULE
+
+> We can achieve Interaction over objects in two different ways:
+
+A. With the Event System and Event Trigger Interface
+B. Through Scripting
+
+## A.EVENT SYSTEM > GAZE INPUT MODULE
+
+1. Use the Prefab ‘GvrCameraMain’ after deleting the ‘MainCamera’.
+2. Add a ‘Physical RayCast’ to the Camera
+3. Add the GvrReticle to Camera Rig.
+4. ADD an EVENT SYSTEM to the scene ( so we can interact with Event Triggers ).
+5. ADD an EVENT TRIGGER to the GamObject we want to interact with.
+
+## B.THROUGH CUSTOM SCRIPTING > on the script
+
+1. We inherit from ‘MonoBehaviour’ and ‘IGvrGazeResponder'
+2. Add to the Camera a ‘GvrGaze’ Script where we plug the GvrReticle we have on the Rig.
+3. Now we can normally start to script the Behaviours OnGazeEnter, OnGazeExit, OnGazeTrigger.
+
+### USING IGvrGazeResponder
 
 > When using Gaze we mean the IGvrGazeResponder System which incorporates the following functions:
 
@@ -70,91 +92,4 @@ Here as an example the code to change the color of a cube on Enter/Exit and Play
 		} 
 
 	}
-
-### GAZE + DELAY (seconds)
-
-> We will have to create 3 different scripts to achieve the results we want
-
-1. GvrReticle > We will add to variables and affect two different functions
-2. TimedInputHandler > We will add a new event
-3. TimedInputObject > We will fire this event to the object our choice
-
-### GvrReticle Script
-
-	using UnityEngine;
-	using UnityEngine.EventSystems;	
-
-	// >>TIMED INPUT<<
-	private float gazeStartTime;
-	private GameObject gazedAt;
-
-	void Start () {
-		CreateReticleVertices();
-
-		materialComp = gameObject.GetComponent<Renderer>().material;
-
-		// >>TIMED INPUT<<
-		gazeStartTime = -1;
-		gazedAt = null;
-  	}
-
-	public void OnGazeStart(Camera camera, GameObject targetObject, Vector3 intersectionPosition,bool isInteractive) {
-		SetGazeTarget(intersectionPosition, isInteractive);
-
-		// >>TIMED INPUT<<
-		gazedAt = targetObj;
-		gazeStartTime = Time.time;
-    	}
-
-	public void OnGazeStay(Camera camera, GameObject targetObject, Vector3 intersectionPosition,bool isInteractive) {
-		SetGazeTarget (intersectionPosition, isInteractive);
-
-		// >>TIMED INPUT<<
-		if (gazedAt != null && gazeStartTime > 0f) {
-			if (Time.time - gazeStartTime > 3.0f && ExecuteEvents.CanHandleEvent <TimedInputHandler> (gazedAt)) 			{
-				gazeStartTime = -1f;
-				ExecuteEvents.Execute (gazedAt, null, (TimedInputHandler handler, BaseEventData data) => 	handler.HandleTimedInput ());
-			}
-		}
-	}
-
-### Timed Input Handler
-
-	using UnityEngine;
-	using System.Collections;
-	using UnityEngine.EventSystems;
-
-	public interface TimedInputHandler : IEventSystemHandler {
-		// >>TIMED INPUT<<
-		void HandleTimedInput();
-	}
-
-### Timed Input Object
-
-	using UnityEngine;
-	using System.Collections;
-
-	public class TimedInputObject : MonoBehaviour, TimedInputHandler {
-
-		// Use this for initialization
-		void Start () {
-			GetComponent<Renderer> ().material.color = Color.black;
-		}
-		
-		// Update is called once per frame
-		void Update () {}
-
-		// We inherit from the Interface
-		public void HandleTimedInput(){
-			GetComponent<Renderer> ().material.color = Color.red;
-		}
-
-	}
-
-> Altough a very simple method to use, the potential for it is hughe:
-
-1. You do not need a 'controller'
-2. It's very intuitive
-3. Once understood you can do more things than imagined.
-4. Still open to experimentation
 
