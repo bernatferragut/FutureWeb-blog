@@ -7,6 +7,7 @@ tags: [design, virtual reality, googleVR]
 comments: true
 share: true
 ---
+
 ## GAZE + DELAY (seconds)
 
 > We will have to create 3 different scripts to achieve the results we want
