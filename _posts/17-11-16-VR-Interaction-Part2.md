@@ -25,20 +25,20 @@ share: true
 
 > These Inputs achieve the following objectives:
 
-A. They are relatively easy to program
-B. They are available
-C. They work on MOBILE and rea CHEAP
-D. Because they are so basic there is still a lot to experiment and study about
+1. They are relatively easy to program
+2. They are available
+3. They work on MOBILE and rea CHEAP
+4. Because they are so basic there is still a lot to experiment and study about
 
 
 ### USING Google VR INTERACTION MODULE
 
 > We can achieve Interaction over objects in two different ways:
 
-A. With the Event System and Event Trigger Interface
-B. Through Scripting
+1. With the Event System and Event Trigger Interface
+2. Through Scripting
 
-## A.EVENT SYSTEM > GAZE INPUT MODULE
+## 1.EVENT SYSTEM > GAZE INPUT MODULE
 
 1. Use the Prefab ‘GvrCameraMain’ after deleting the ‘MainCamera’.
 2. Add a ‘Physical RayCast’ to the Camera
@@ -46,7 +46,7 @@ B. Through Scripting
 4. ADD an EVENT SYSTEM to the scene ( so we can interact with Event Triggers ).
 5. ADD an EVENT TRIGGER to the GamObject we want to interact with.
 
-## B.THROUGH CUSTOM SCRIPTING > on the script
+## 2.THROUGH CUSTOM SCRIPTING > on the script
 
 1. We inherit from ‘MonoBehaviour’ and ‘IGvrGazeResponder'
 2. Add to the Camera a ‘GvrGaze’ Script where we plug the GvrReticle we have on the Rig.
@@ -60,7 +60,7 @@ B. Through Scripting
 2. OnGazeExit()
 3. OnGazeTrigger()
 
-Here as an example the code to change the color of a cube on Enter/Exit and Playing an animation on Tigger"
+Here as an example the code to change the color of a cube on Enter/Trigger/Exit:
 
 
 	public class MovingBolido : MonoBehaviour {
