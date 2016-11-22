@@ -9,7 +9,7 @@ share: true
 ---
 ## GvrView and AutoWalk Setup
 
-![interaction](https://cloud.githubusercontent.com/assets/17754060/20390726/822801fa-aca6-11e6-94d4-781800a38f9b.jpg)
+![maze2](https://cloud.githubusercontent.com/assets/17754060/20543151/3747bc5a-b0db-11e6-9a4f-7d9e558dc318.png)
 
 > There are several way we can achieve the AutoWalk behaviour inside the Google VR SDK.
 
