@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VR-Interaction-Part4"
+title: "VR - Google VR Interaction part4"
 description: "AutoWalk"
 date: 2016-11-22
 tags: [design, virtual reality, googleVR]
