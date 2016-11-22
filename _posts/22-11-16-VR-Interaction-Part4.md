@@ -13,9 +13,10 @@ share: true
 
 > There are several way we can achieve the AutoWalk behaviour inside the Google VR SDK.
 
-1. **Method 1**
+1. **Method 1** 
 
-      // AutoWalk any direction your head is heading
+> Autowalks follows the head movement and stops when it looks at the floor.
+
       using UnityEngine;
       using Syste.Collections;
 
@@ -49,7 +50,7 @@ share: true
                   } 
                   else 
                   {
-                      walking = true;x
+                      walking = true;
                   }
               }
 
