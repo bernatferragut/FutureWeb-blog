@@ -37,7 +37,7 @@ share: true
                   transform.position = transform.position + Camera.main.transform.forward * .5f * Time.deltaTime;
               }
 
-              if (transform.position < -10f)
+              if (transform.position.y < -10f)
               {
                   Ray ray = Camera.main.ViewportPointToRay ( new vector3(.5f, .5f, 0));
                   RayCastHit hit;
