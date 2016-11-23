@@ -18,7 +18,7 @@ share: true
 > Autowalk follows the head movement and stops when it looks at the floor.( Tilted position )
 
       using UnityEngine;
-      using Syste.Collections;
+      using System.Collections;
 
       public class WalkController : MonoBehaviour
       {
@@ -57,6 +57,7 @@ share: true
           }
 
       }
+      
 2. **Method 2** 
 
 > Autowalk on/off switch when looking into an object. (  Gazing for several seconds into an object )
