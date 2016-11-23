@@ -11,13 +11,11 @@ share: true
 
 ![maze2](https://cloud.githubusercontent.com/assets/17754060/20543151/3747bc5a-b0db-11e6-9a4f-7d9e558dc318.png)
 
-> There are several way we can achieve the AutoWalk behaviour inside the Google VR SDK.
+> There are several ways we can achieve the AutoWalk behaviour inside the Google VR SDK.
 
 1. **Method 1** 
 
-> Autowalks follows the head movement and stops when it looks at the floor.
-
-> Autowalk on/off switch when looking into an object.
+> Autowalk follows the head movement and stops when it looks at the floor.( Tilted position )
 
       using UnityEngine;
       using Syste.Collections;
@@ -61,7 +59,7 @@ share: true
       }
 2. **Method 2** 
 
-> Autowalk on/off switch when looking into an object.
+> Autowalk on/off switch when looking into an object. (  Gazing for several seconds into an object )
       
       using UnityEngine;
       using System.Collections;
