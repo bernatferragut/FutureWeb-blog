@@ -5,7 +5,7 @@ permalink: /about/
 
 >A brief description of Bernat Ferragut
 
-![bernatferragut](https://cloud.githubusercontent.com/assets/17754060/20560935/37ddbfb2-b152-11e6-81fd-e11cb315daf6.png)
+![bernatferragut200](https://cloud.githubusercontent.com/assets/17754060/20561006/910a3a16-b152-11e6-9219-fb614ee86870.png)
 
 Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.Powered by [Jekyll](http://jekyllrb.com).Hosted on [Github Pages](https://pages.github.com).
 
