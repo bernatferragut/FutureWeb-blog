@@ -22,7 +22,7 @@ share: true
 
 ### WAYPOINTS
 
-![interaction](https://cloud.githubusercontent.com/assets/17754060/20390726/822801fa-aca6-11e6-94d4-781800a38f9b.jpg)
+![waypoint](https://cloud.githubusercontent.com/assets/17754060/20609515/10c534d8-b264-11e6-95e3-cb3284fb9fa3.png)
 
 1. They represent the bes way to move in VR in a simple way from Point to Point in the same scene.
 2. Easy to customize, they provide a clickable geometry surface to move between points.
