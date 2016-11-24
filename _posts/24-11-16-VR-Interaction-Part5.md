@@ -13,12 +13,12 @@ share: true
 > We have seen so far:
 
 1. GAZE ( In/Out/Trigger )
-2. AUTOWALK ‘?’
+2. AUTOWALK ( Stopping OnTilt )
 
 > We take a look to:
 
 3. WAYPOINTS
-4. TELETPORT
+4. TELEPORT
 
 ### WAYPOINTS
 
