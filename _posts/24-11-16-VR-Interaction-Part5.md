@@ -201,7 +201,7 @@ Here an example of Code that achieves the results of moving through WayPoints in
 
 ### TELEPORT
 
-![interaction](https://cloud.githubusercontent.com/assets/17754060/20390726/822801fa-aca6-11e6-94d4-781800a38f9b.jpg)
+![teleport](https://cloud.githubusercontent.com/assets/17754060/20609582/c6a1cf28-b264-11e6-963c-e02bdf8e8fbd.jpg)
 
 1. A way to move to another point of the Scene with simple code. ( Normally in a Spherical Random way ).
 2. Easy to customize, they provide a clickable geometry surface to move between points.
