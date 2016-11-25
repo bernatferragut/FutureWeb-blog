@@ -259,3 +259,21 @@ Here an example of Code that achieves the results of a Random Teleport Object:
 4. Easy to implement.
 
 Here an example of Code that uses the GoToScene property:
+
+
+    using UnityEngine;
+    using System.Collections;
+    using UnityEngine.SceneManagement;
+
+    public interface GeneralAnimationScript : MonoBehaviour
+    {
+        public void GoToScene (string sceneName))
+        {
+            //Debug.Log("My method was called");
+            SceneManagement.LoadScene("MyOtherScene");
+        }
+
+        GoToScene("TheSceneWhereIwantToGo");
+    }
+
+
