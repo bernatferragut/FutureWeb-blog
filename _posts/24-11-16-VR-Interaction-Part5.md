@@ -251,7 +251,7 @@ Here an example of Code that achieves the results of a Random Teleport Object:
 
 ### GOTOSCENE
 
-![interaction](https://cloud.githubusercontent.com/assets/17754060/20390726/822801fa-aca6-11e6-94d4-781800a38f9b.jpg)
+![gotoscene](https://cloud.githubusercontent.com/assets/17754060/20625874/44e45220-b2ec-11e6-9739-7256ef1987a0.png)
 
 1. A way to move to another Scene of the different Scenes you might have. 
 2. Easy to customize, you need access to the Unity Engine Scene Management.
@@ -259,7 +259,6 @@ Here an example of Code that achieves the results of a Random Teleport Object:
 4. Easy to implement.
 
 Here an example of Code that uses the GoToScene property:
-
 
     using UnityEngine;
     using System.Collections;
