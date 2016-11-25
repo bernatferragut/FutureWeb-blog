@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VR - Google VR Interaction part5"
-description: "Advanced Interaction: WayPoints & Teleport"
+description: "Advanced Interaction: WayPoints & Teleport & GoToScene"
 date: 2016-11-24
 tags: [design, virtual reality, googleVR]
 comments: true
