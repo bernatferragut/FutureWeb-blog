@@ -12,20 +12,19 @@ share: true
 
 ![screen shot 2016-11-26 at 9 49 49 am](https://cloud.githubusercontent.com/assets/17754060/20641842/3a7ee854-b3d7-11e6-84eb-c162c507b70f.png)
 
-> One of
+> One of the interestinf things we can do when Gazing Objects is Attaching them to the Head Object. This simple action 
+will allow us to translate or move objects! Also when depositing them we can do it smoothly or 'throw' them to the outer space affecting other objects through the laws of physics. ( we can invent the physics too )
 
 1. **HEAD ROTATION**
 2. **GAZE**
 
-> We will add the follwing to complete the Minimum Interaction with Google VR
+> We achieve
 
-3. GAZE + TIMER
-4. TELETRANSPORT
-5. AUTOWALK
+1. ATTACH OBJECT TO THE HEAD
+2. MOVE OBJECTS
+5. RELEASE OBJECTS SMOOTHLY OR AS PROJECTILES
 
-> These Inputs achieve the following objectives:
+> Here the code to achieve it:
 
-1. They are relatively easy to program
-2. They are available
-3. They work on MOBILE and rea CHEAP
-4. Because they are so basic there is still a lot to experiment and study about
+
+
