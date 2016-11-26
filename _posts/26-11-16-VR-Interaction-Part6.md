@@ -10,7 +10,7 @@ share: true
 
 ## OnGaze - Attach / Release Objects
 
-![interaction](https://cloud.githubusercontent.com/assets/17754060/20390726/822801fa-aca6-11e6-94d4-781800a38f9b.jpg)
+![screen shot 2016-11-26 at 9 49 49 am](https://cloud.githubusercontent.com/assets/17754060/20641842/3a7ee854-b3d7-11e6-84eb-c162c507b70f.png)
 
 > One of
 
