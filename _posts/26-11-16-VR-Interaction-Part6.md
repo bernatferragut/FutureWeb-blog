@@ -33,8 +33,8 @@ will allow us to translate or move objects! When depositing them we can do it sm
 
     public class Attach : MonoBehaviour
     {
-      public GvrHead GV;
-      Transform Head; 
+      public GvrHead GV; // We create a public var that will allocate the GvrHead
+      Transform Head;  // 
       bool secondClick;
       Rigidbody RB;
 
@@ -43,7 +43,7 @@ will allow us to translate or move objects! When depositing them we can do it sm
 
       void Start()
       {
-        Head = GV.transform.GetChild (0);
+        Head = GV.transform.GetChild (0); // Here we get the camera transform ( The Child's Head )
         RB = GetComponent <Rigidbody>();
       }
 
@@ -52,7 +52,7 @@ will allow us to translate or move objects! When depositing them we can do it sm
       {
         if (secondClick == false) 
         {
-          transform.parent = Head;
+          transform.parent = Head; // // Here we pass the cube's parent transform to the Camera one 
           secondClick = true;
         }
         else 
