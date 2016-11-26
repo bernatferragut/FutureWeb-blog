@@ -33,7 +33,6 @@ will allow us to translate or move objects! When depositing them we can do it sm
 
     public class Attach : MonoBehaviour
     {
-      private Vector3 startingPosition;
       public GvrHead GV;
       Transform Head; 
       bool secondClick;
@@ -44,11 +43,8 @@ will allow us to translate or move objects! When depositing them we can do it sm
 
       void Start()
       {
-        startingPosition = transform.localPosition;
-        this.GetComponent<Renderer> ().material.color = Color.black;
         Head = GV.transform.GetChild (0);
         RB = GetComponent <Rigidbody>();
-
       }
 
       //Attach
