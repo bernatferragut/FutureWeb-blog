@@ -9,7 +9,7 @@ share: true
 ---
 ## THE SINGLETON PATTERN
 
-![interaction](https://cloud.githubusercontent.com/assets/17754060/20390726/822801fa-aca6-11e6-94d4-781800a38f9b.jpg)
+![singleton pattern](https://cloud.githubusercontent.com/assets/17754060/20667173/4c6f59c8-b53e-11e6-9706-b020ea2d26d0.png)
 
 ### Context
 
