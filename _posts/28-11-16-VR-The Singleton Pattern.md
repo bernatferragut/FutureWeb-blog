@@ -24,3 +24,33 @@ and you need to provide a global point of access to the instance. The Singleton 
 
 > Even though Singleton is a comparatively simple pattern, there are various tradeoffs and options, 
 depending upon the implementation. 
+
+The following implementation of the Singleton design pattern follows the solution presented in Design Patterns: Elements of Reusable Object-Oriented Software [Gamma95] but modifies it to take advantage of language features available in C#, such as properties:
+ 
+
+    using System;
+
+    public class Singleton
+    {
+       private static Singleton instance;
+
+       private Singleton() {}
+
+       public static Singleton Instance
+       {
+          get 
+          {
+             if (instance == null)
+             {
+                instance = new Singleton();
+             }
+             return instance;
+          }
+       }
+    }
+ 
+### This implementation has two main advantages:
+
+Because the instance is created inside the Instance property method, the class can exercise additional functionality (for example, instantiating a subclass), even though it may introduce unwelcome dependencies.
+The instantiation is not performed until an object asks for an instance; this approach is referred to as lazy instantiation. Lazy instantiation avoids instantiating unnecessary singletons when the application starts.
+The main disadvantage of this implementation, however, is that it is not safe for multithreaded environments. If separate threads of execution enter the Instance property method at the same time, more that one instance of the Singleton object may be created. Each thread could execute the following statement and decide that a new instance has to be created:
