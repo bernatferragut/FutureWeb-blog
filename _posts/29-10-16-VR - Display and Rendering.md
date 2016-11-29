@@ -15,7 +15,7 @@ Therefore the need to understand in depth how raycasting works in Unity.
 
 # Physics.Raycast
 
-### Description
+### Description 1
 
 > Casts a ray, from point origin, in direction direction, of length maxDistance, against all colliders in the scene.
 
@@ -61,7 +61,7 @@ If you move Colliders from scripting or by animation, you need to allow at least
 
 > bool True when the ray intersects any collider, otherwise false.
 
-### Description
+### Description 2
 
 Casts a ray against all colliders in the scene and returns detailed information on what was hit.
 
@@ -81,3 +81,72 @@ This example reports the distance between the current object and the reported Co
                   print("Found an object - distance: " + hit.distance);
           }
       }
+
+### Description 3
+
+Same as above using ray.origin and ray.direction instead of origin and direction.
+
+This example draws a line along the length of the Ray whenever a collision is detected:
+
+      using UnityEngine;
+
+      public class ExampleClass : MonoBehaviour 
+      {
+          void Update() 
+          {
+              Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+              RaycastHit hit;
+
+              if (Physics.Raycast(ray, out hit, 100)) 
+                  Debug.DrawLine(ray.origin, hit.point);
+          }
+      }
+
+### Description 4
+
+In this case, the when the ray hits an object, we take the name of the collided object and make it appear 
+in a 3D TextMesh for Visual representation. ( This example is made by myself for the Planets .apk VR game )
+
+      using UnityEngine;
+      using System.Collections;
+
+      public class RayCasting2 : MonoBehaviour {
+
+            // Initialize varaibles
+
+            public string objectCollided;
+            public TextMesh textMessage;
+
+            void Start () 
+            {
+                  textMessage = GameObject.Find("TextPanel").GetComponent<TextMesh> ();
+                  textMessage.text = "nothing";
+            }
+
+            // We RayCast
+
+            public void FixedUpdate() 
+            {
+                  RaycastHit hit; // the one who stores hit info - very important !!!
+                  Vector3 origin = transform.position;
+                  Vector3 direction = transform.TransformDirection(Vector3.forward);
+                  Ray myRay = new Ray (origin, direction);
+
+                  //If we collide we announce the object collided to the Console and to a 3DText
+
+                  if (Physics.Raycast (myRay, out hit, 100f)) 
+                  {
+                        objectCollided = hit.collider.gameObject.name;
+
+                        print (objectCollided); // == Debug.Log in Console
+
+                        textMessage.text = objectCollided; // printing to the 3D Text.TextMesh.text
+                  } 
+                  else 
+                  {
+                        textMessage.text = "nothing"; // printing to the 3D Text.TextMesh.text
+                  }
+            }
+
+      }
+
