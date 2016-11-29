@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "VR - Display and Rendering"
-description: "VR Illinois University Class"
-date: 2016-10-29
-tags: [VR, Engineering]
+title: "VR - Raycasting"
+description: "The Key to Interction in Unity"
+date: 2016-11-29
+tags: [design, virtual reality, googleVR, Unity]
 comments: true
 share: true
 ---
