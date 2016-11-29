@@ -57,3 +57,27 @@ If you move Colliders from scripting or by animation, you need to allow at least
 **QueryTriggerInteraction**:      Specifies whether this query should hit Triggers. 
 
 
+### Returns
+
+> bool True when the ray intersects any collider, otherwise false.
+
+### Description
+
+Casts a ray against all colliders in the scene and returns detailed information on what was hit.
+
+This example reports the distance between the current object and the reported Collider:
+
+      using UnityEngine;
+
+      public class RaycastExample : MonoBehaviour
+      {
+          public Missile missile;
+
+          void FixedUpdate()
+          {
+              RaycastHit hit;
+
+              if (Physics.Raycast(transform.position, -Vector3.up, out hit))
+                  print("Found an object - distance: " + hit.distance);
+          }
+      }
