@@ -13,6 +13,8 @@ share: true
 
 Therefore the need to understand in depth how raycasting works in Unity.
 
+![raycast](https://cloud.githubusercontent.com/assets/17754060/20708944/cbe4bde0-b608-11e6-998e-a75763118da7.png)
+
 # Physics.Raycast
 
 ### Description 1
