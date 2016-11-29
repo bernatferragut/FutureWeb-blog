@@ -38,3 +38,22 @@ This example creates a simple Raycast, projecting forwards from the position of 
           }
       }
 
+### Notes
+
+If you move Colliders from scripting or by animation, you need to allow at least one FixedUpdate to be executed so that the physics library can update before a Raycast will hit the Collider at its new position.
+
+### Parameters
+
+**Origin**:                       The starting point of the ray in world coordinates. 
+
+**Direction**:                    The direction of the ray. 
+
+**HitInfo**:                      If true is returned, hitInfo will contain more information about where the collider was hit (See Also: RaycastHit).
+
+**MaxDistance**:                  The max distance the ray should check for collisions.  
+
+**LayerMask**:                    A Layer mask that is used to selectively ignore colliders when casting a ray. 
+
+**QueryTriggerInteraction**:      Specifies whether this query should hit Triggers. 
+
+
