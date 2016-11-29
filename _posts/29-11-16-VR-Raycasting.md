@@ -111,10 +111,6 @@ in a 3D TextMesh for Visual representation. ( This example is made by myself for
 
 ```css
 #container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-  
   using UnityEngine;
       using System.Collections;
 
