@@ -7,30 +7,34 @@ tags: [VR, Engineering]
 comments: true
 share: true
 ---
-# VR Display
+# Raycasting in Unity: The Key to any sort of Interaction
 
-As a general term we will use DISPLAY as any sort of input available to the ORGANISM ( visual, audio...etc )
+> When facing interaction everythig boills down to one thing: Colliding with something so the interaction can start happening.
 
----
-# Display and Rendering
+Therefore the need to understand in depth how raycasting works in Unity.
 
-> The cycle of display sense input and the rendered signal output provides the manin cycle of study.
+# Physics.Raycast
 
-### Compare 2 AUDIO or VISUAL SYSTEMS
+### Description
 
-1. AUDIO
-   1. Inside a 7.2 Surround 3D System Audio room VS Regular used Headphones. 
-   2. Factor the Distance from the source in both systems.
-   3. When we move the effect on both how different it is.
-   
-2. VISUAL
-   1. Inside a visual 'Cave System' VS phone headset 'glued' to the head.
-   2. Factor the Distance from the source in both systems.
-   3. When we move the effect on both how different it is.
-   
- # Questions
+> Casts a ray, from point origin, in direction direction, of length maxDistance, against all colliders in the scene.
 
-> Why we like to have the music as Static inside our head vs the Visual movile to achieve good VR?
-> Seems we like to have this source of sound from within constantly and the more detailed sense of vision in movement.
-   
-![img_20161029_093615](https://cloud.githubusercontent.com/assets/17754060/19830032/b8ce0bca-9dbd-11e6-86f2-2d208196f2c9.jpg)
+You may optionally provide a LayerMask, to filter out any Colliders you aren't interested in generating collisions with. 
+
+Specifying queryTriggerInteraction allows you to control whether or not Trigger colliders generate a hit, or whether to use the global Physics.queriesHitTriggers setting.
+
+This example creates a simple Raycast, projecting forwards from the position of the object's current position, extending for 10 units.
+
+      using UnityEngine;
+
+      public class ExampleClass : MonoBehaviour 
+      {
+          void FixedUpdate() 
+          {
+              Vector3 fwd = transform.TransformDirection(Vector3.forward);
+
+              if (Physics.Raycast(transform.position, fwd, 10)) 
+                  print("There is something in front of the object!");
+          }
+      }
+
