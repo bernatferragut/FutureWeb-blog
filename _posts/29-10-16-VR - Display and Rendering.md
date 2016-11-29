@@ -7,6 +7,7 @@ tags: [VR, Engineering]
 comments: true
 share: true
 ---
+
 # VR Display
 
 As a general term we will use DISPLAY as any sort of input available to the ORGANISM ( visual, audio...etc )
