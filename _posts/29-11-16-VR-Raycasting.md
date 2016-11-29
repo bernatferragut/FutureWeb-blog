@@ -109,7 +109,13 @@ This example draws a line along the length of the Ray whenever a collision is de
 In this case, the when the ray hits an object, we take the name of the collided object and make it appear 
 in a 3D TextMesh for Visual representation. ( This example is made by myself for the Planets .apk VR game )
 
-      using UnityEngine;
+```css
+#container {
+  float: left;
+  margin: 0 -240px 0 0;
+  width: 100%;
+  
+  using UnityEngine;
       using System.Collections;
 
       public class RayCasting2 : MonoBehaviour {
@@ -151,3 +157,7 @@ in a 3D TextMesh for Visual representation. ( This example is made by myself for
             }
 
       }
+
+}
+```
+
