@@ -35,3 +35,4 @@ public class ExampleBehaviourScript : MonoBehaviour
     }
 }
 ```
+> **02. Variables and Functions**
