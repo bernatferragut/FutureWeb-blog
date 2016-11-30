@@ -12,7 +12,7 @@ share: true
 
 > **01. Scripts as Behaviours Components**
 
-```C#
+```ruby
 using UnityEngine;
 using System.Collections;
 
