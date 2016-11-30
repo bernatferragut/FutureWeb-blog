@@ -12,26 +12,26 @@ share: true
 
 > **01. Scripts as Behaviours Components**
 
-'''C#
-    using UnityEngine;
-    using System.Collections;
+```C#
+using UnityEngine;
+using System.Collections;
 
-    public class ExampleBehaviourScript : MonoBehaviour
+public class ExampleBehaviourScript : MonoBehaviour
+{
+    void Update()
     {
-        void Update()
+        if (Input.GetKeyDown(KeyCode.R))
         {
-            if (Input.GetKeyDown(KeyCode.R))
-            {
-                GetComponent<Renderer>().material.color = Color.red;
-            }
-            if (Input.GetKeyDown(KeyCode.G))
-            {
-                GetComponent<Renderer>().material.color = Color.green;
-            }
-            if (Input.GetKeyDown(KeyCode.B))
-            {
-                GetComponent<Renderer>().material.color = Color.blue;
-            }
+            GetComponent<Renderer>().material.color = Color.red;
+        }
+        if (Input.GetKeyDown(KeyCode.G))
+        {
+            GetComponent<Renderer>().material.color = Color.green;
+        }
+        if (Input.GetKeyDown(KeyCode.B))
+        {
+            GetComponent<Renderer>().material.color = Color.blue;
         }
     }
-'''
+}
+```
