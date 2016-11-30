@@ -10,31 +10,28 @@ share: true
 
 ## Scripting Basics Snippets Guide in C#
 
-> ***01. Scripts as Behaviours Components***
+> **01. Scripts as Behaviours Components**
 
 '''C#
-using UnityEngine;
-using System.Collections;
+    using UnityEngine;
+    using System.Collections;
 
-public class ExampleBehaviourScript : MonoBehaviour
-{
-    void Update()
+    public class ExampleBehaviourScript : MonoBehaviour
     {
-        if (Input.GetKeyDown(KeyCode.R))
+        void Update()
         {
-            GetComponent<Renderer>().material.color = Color.red;
-        }
-        if (Input.GetKeyDown(KeyCode.G))
-        {
-            GetComponent<Renderer>().material.color = Color.green;
-        }
-        if (Input.GetKeyDown(KeyCode.B))
-        {
-            GetComponent<Renderer>().material.color = Color.blue;
+            if (Input.GetKeyDown(KeyCode.R))
+            {
+                GetComponent<Renderer>().material.color = Color.red;
+            }
+            if (Input.GetKeyDown(KeyCode.G))
+            {
+                GetComponent<Renderer>().material.color = Color.green;
+            }
+            if (Input.GetKeyDown(KeyCode.B))
+            {
+                GetComponent<Renderer>().material.color = Color.blue;
+            }
         }
     }
-}
-
-
-
 '''
