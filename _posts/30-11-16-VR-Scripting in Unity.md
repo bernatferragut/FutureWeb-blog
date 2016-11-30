@@ -36,3 +36,38 @@ public class ExampleBehaviourScript : MonoBehaviour
 }
 ```
 > **02. Variables and Functions**
+
+```ruby
+using UnityEngine;
+using System.Collections;
+
+public class VariablesAndFunctions : MonoBehaviour
+{
+    int myInt = 5;
+
+    void Start()
+    {
+       myInt = MultiplyByTwo(myInt);
+       print(myInt);
+    }
+
+    int MultiplyByTwo(int number)
+    {
+        int res;
+        res = number * 2;
+        return res;
+    }
+}
+```
+
+> **03. Conventions and Syntax**
+
+```ruby
+using UnityEngine;
+using System.Collections;
+
+public class ConventionsAndSyntax : MonoBehaviour
+{
+    //...
+}
+```
