@@ -79,3 +79,41 @@ public class ConventionsAndSyntax : MonoBehaviour
     }
 }
 ```
+
+> **04. IF Statements**
+
+```ruby
+using UnityEngine;
+using System.Collections;
+
+public class IfStatements : MonoBehaviour
+{
+    float coffeTemperature = 85.0 f;
+    float hotLimitTemperature = 70.0 f;
+    float coldLimitTemperature = 40.0 f;
+
+    void Update()
+    {
+        if(Input.GetKeyDown(KeyCode.Space))
+            TemperatureTest();
+
+        coffeTemperature -= Time.deltaTime * 5f;
+    }
+
+    TemperatureTest()
+    {
+        if(coffeTemperature > hotLimitTemperature)
+        {
+            print("Coffee is too hot!");
+        }
+         if(coffeTemperature < coldLimitTemperature)
+        {
+            print("Coffee is too cold");
+        }
+         else
+        {
+            print("just right!");
+        }
+    }
+}
+```
