@@ -27,18 +27,20 @@ Specifying queryTriggerInteraction allows you to control whether or not Trigger 
 
 This example creates a simple Raycast, projecting forwards from the position of the object's current position, extending for 10 units.
 
-      using UnityEngine;
+```ruby
+using UnityEngine;
 
-      public class ExampleClass : MonoBehaviour 
+public class ExampleClass : MonoBehaviour 
+{
+      void FixedUpdate() 
       {
-          void FixedUpdate() 
-          {
-              Vector3 fwd = transform.TransformDirection(Vector3.forward);
+            Vector3 fwd = transform.TransformDirection(Vector3.forward);
 
-              if (Physics.Raycast(transform.position, fwd, 10)) 
+            if (Physics.Raycast(transform.position, fwd, 10)) 
                   print("There is something in front of the object!");
-          }
       }
+}
+```
 
 ### Notes
 
@@ -69,20 +71,22 @@ Casts a ray against all colliders in the scene and returns detailed information 
 
 This example reports the distance between the current object and the reported Collider:
 
-      using UnityEngine;
+```ruby
+using UnityEngine;
 
-      public class RaycastExample : MonoBehaviour
+public class RaycastExample : MonoBehaviour
+{
+      public Missile missile;
+
+      void FixedUpdate()
       {
-          public Missile missile;
+            RaycastHit hit;
 
-          void FixedUpdate()
-          {
-              RaycastHit hit;
-
-              if (Physics.Raycast(transform.position, -Vector3.up, out hit))
-                  print("Found an object - distance: " + hit.distance);
-          }
+            if (Physics.Raycast(transform.position, -Vector3.up, out hit))
+            print("Found an object - distance: " + hit.distance);
       }
+}
+```
 
 ### Description 3
 
@@ -90,70 +94,71 @@ Same as above using ray.origin and ray.direction instead of origin and direction
 
 This example draws a line along the length of the Ray whenever a collision is detected:
 
-      using UnityEngine;
+```ruby
+using UnityEngine;
 
-      public class ExampleClass : MonoBehaviour 
+public class ExampleClass : MonoBehaviour 
+{
+      void Update() 
       {
-          void Update() 
-          {
-              Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-              RaycastHit hit;
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            RaycastHit hit;
 
-              if (Physics.Raycast(ray, out hit, 100)) 
+            if (Physics.Raycast(ray, out hit, 100)) 
                   Debug.DrawLine(ray.origin, hit.point);
-          }
       }
+}
+```
 
 ### Description 4
 
 In this case, the when the ray hits an object, we take the name of the collided object and make it appear 
 in a 3D TextMesh for Visual representation. ( This example is made by myself for the Planets .apk VR game )
 
-```c#
-#container {
-  using UnityEngine;
-      using System.Collections;
+```ruby
+using UnityEngine;
+using System.Collections;
 
-      public class RayCasting2 : MonoBehaviour {
+public class RayCasting2 : MonoBehaviour {
 
-            // Initialize varaibles
+// Initialize varaibles
 
-            public string objectCollided;
-            public TextMesh textMessage;
+public string objectCollided;
+public TextMesh textMessage;
 
-            void Start () 
-            {
-                  textMessage = GameObject.Find("TextPanel").GetComponent<TextMesh> ();
-                  textMessage.text = "nothing";
-            }
-
-            // We RayCast
-
-            public void FixedUpdate() 
-            {
-                  RaycastHit hit; // the one who stores hit info - very important !!!
-                  Vector3 origin = transform.position;
-                  Vector3 direction = transform.TransformDirection(Vector3.forward);
-                  Ray myRay = new Ray (origin, direction);
-
-                  //If we collide we announce the object collided to the Console and to a 3DText
-
-                  if (Physics.Raycast (myRay, out hit, 100f)) 
-                  {
-                        objectCollided = hit.collider.gameObject.name;
-
-                        print (objectCollided); // == Debug.Log in Console
-
-                        textMessage.text = objectCollided; // printing to the 3D Text.TextMesh.text
-                  } 
-                  else 
-                  {
-                        textMessage.text = "nothing"; // printing to the 3D Text.TextMesh.text
-                  }
-            }
-
-      }
-
+void Start () 
+{
+      textMessage = GameObject.Find("TextPanel").GetComponent<TextMesh> ();
+      textMessage.text = "nothing";
 }
+
+// We RayCast
+
+public void FixedUpdate() 
+{
+    RaycastHit hit; // the one who stores hit info - very important !!!
+    Vector3 origin = transform.position;
+    Vector3 direction = transform.TransformDirection(Vector3.forward);
+    Ray myRay = new Ray (origin, direction);
+
+    //If we collide we announce the object collided to the Console and to a 3DText
+
+    if (Physics.Raycast (myRay, out hit, 100f)) 
+    {
+        objectCollided = hit.collider.gameObject.name;
+
+        print (objectCollided); // == Debug.Log in Console
+
+        textMessage.text = objectCollided; // printing to the 3D Text.TextMesh.text
+    } 
+    else 
+    {
+        textMessage.text = "nothing"; // printing to the 3D Text.TextMesh.text
+    }
+}
+}
+
 ```
+
+
 
