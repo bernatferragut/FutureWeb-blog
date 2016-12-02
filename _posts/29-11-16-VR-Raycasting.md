@@ -20,6 +20,8 @@ We now know (?) off course, that the eye does not emit light (Except as reflecti
 
 Issues concerning the nature of light itself have taxed some of the greatest minds in the history of science, including Isaac Newton, Christian Huygens, Max Planck and Albert Einstein.
 
+For us, in Unity, when we are Raycasting is like emitting a beam of light which bounces back to us with a bunch of super useful information about the world we are interacting with.
+
 # Raycasting in Unity: The Key to any sort of Interaction
 
 > When facing interaction everythig boills down to one thing: Colliding with something so the interaction can start happening.
