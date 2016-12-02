@@ -7,6 +7,19 @@ tags: [design, virtual reality, googleVR, Unity]
 comments: true
 share: true
 ---
+
+# Historical Perspective
+
+The pshysical nature of light has puzz;ed philosophers and scientists throughout history, and still not completely understood. The ancient Geeks believed that vision was the result of a 'fire' that is emitted by the eyes to strike objects and so reveal their shape. Plato distinguished three kinds of 'fire'. 
+
+1. Daylight from the Sun
+2. Fire of the same kinf emitted by the eye
+3. Fire streaming off objects to interact withe the fire emitted  by the eye.
+
+We now know (?) off course, that the eye does not emit light (Except as reflection), but only recieves it. 
+
+Issues concerning the nature of light itself have taxed some of the greatest minds in the history of science, including Isaac Newton, Christian Huygens, Max Planck and Albert Einstein.
+
 # Raycasting in Unity: The Key to any sort of Interaction
 
 > When facing interaction everythig boills down to one thing: Colliding with something so the interaction can start happening.
