@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-## Scripting Basics Snippets Guide in C#
+## Scripting Basics Snippets Guide in 'C#' ##
 
 > **01. Scripts as Behaviours Components**
 
