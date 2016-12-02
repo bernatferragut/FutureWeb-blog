@@ -117,3 +117,88 @@ public class IfStatements : MonoBehaviour
     }
 }
 ```
+
+> **05a. For Loop**
+
+```ruby
+using UnityEngine;
+using System.Collections;
+
+public class ForLoop : MonoBehaviour
+{
+    int numEntities = 3;
+
+    void Start()
+    {
+        for (int i=0; i<numEntities; i++)
+        {
+            print("Creating number: " + i);
+        }
+    }
+}
+```
+
+> **05b. While Loop**
+
+```ruby
+using UnityEngine;
+using System.Collections;
+
+public class While : MonoBehaviour
+{
+    int cupInTheSink = 4;
+
+    void Start()
+    {
+        while(cupInTheSink > 0) 
+        {
+            print("I've washed a cup!");
+            cupInTheSink--;
+        }
+    }
+}
+```
+
+> **05c. DoWhile Loop**
+
+```ruby
+using UnityEngine;
+using System.Collections;
+
+public class DoWhile : MonoBehaviour // it will execute only the first time
+{
+    void Start()
+    {
+        bool shouldContinue = false;
+
+        do{
+            print("Hello World!");
+        }
+        while( shouldContinue == true);
+    }
+}
+```
+
+> **05d. ForEach Loop**
+
+```ruby
+using UnityEngine;
+using System.Collections;
+
+public class Foreach : MonoBehaviour // Foreach in
+{
+    void Start()
+    {
+        string[] strings = new string[3];
+
+        string[0] = "First string";
+        string[1] = "Second string";
+        string[2] = "Third string";
+
+        Foreach(string item in string)
+        {
+            print("item");
+        }
+    }
+}
+```
