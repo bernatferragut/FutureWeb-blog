@@ -10,11 +10,13 @@ share: true
 
 # Historical Perspective
 
-The pshysical nature of light has puzz;ed philosophers and scientists throughout history, and still not completely understood. The ancient Geeks believed that vision was the result of a 'fire' that is emitted by the eyes to strike objects and so reveal their shape. Plato distinguished three kinds of 'fire'. 
+The pshysical nature of light has puzzled philosophers and scientists throughout history, and still not completely understood. The ancient Geeks believed that vision was the result of a **'fire'** that is emitted by the eyes to strike objects and so reveal their shape. 
 
-1. Daylight from the Sun
-2. Fire of the same kinf emitted by the eye
-3. Fire streaming off objects to interact withe the fire emitted  by the eye.
+Plato distinguished three kinds of **'fire'**. 
+
+1. **Daylight from the Sun**
+2. **Fire of the same kinf emitted by the eye**
+3. **Fire streaming off objects to interact withe the fire emitted  by the eye.**
 
 We now know (?) off course, that the eye does not emit light (Except as reflection), but only recieves it. 
 
