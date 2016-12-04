@@ -12,7 +12,7 @@ share: true
 
 > **01. Scripts as Behaviours Components**
 
-```ruby
+```c#
 using UnityEngine;
 using System.Collections;
 
@@ -37,7 +37,7 @@ public class ExampleBehaviourScript : MonoBehaviour
 ```
 > **02. Variables and Functions**
 
-```ruby
+```c#
 using UnityEngine;
 using System.Collections;
 
@@ -62,7 +62,7 @@ public class VariablesAndFunctions : MonoBehaviour
 
 > **03. Conventions and Syntax**
 
-```ruby
+```c#
 using UnityEngine;
 using System.Collections;
 
@@ -82,7 +82,7 @@ public class ConventionsAndSyntax : MonoBehaviour
 
 > **04. IF Statements**
 
-```ruby
+```c#
 using UnityEngine;
 using System.Collections;
 
@@ -120,7 +120,7 @@ public class IfStatements : MonoBehaviour
 
 > **05a. For Loop**
 
-```ruby
+```c#
 using UnityEngine;
 using System.Collections;
 
@@ -140,7 +140,7 @@ public class ForLoop : MonoBehaviour
 
 > **05b. While Loop**
 
-```ruby
+```c#
 using UnityEngine;
 using System.Collections;
 
@@ -161,7 +161,7 @@ public class While : MonoBehaviour
 
 > **05c. DoWhile Loop**
 
-```ruby
+```c#
 using UnityEngine;
 using System.Collections;
 
@@ -181,7 +181,7 @@ public class DoWhile : MonoBehaviour // it will execute only the first time
 
 > **05d. ForEach Loop**
 
-```ruby
+```c#
 using UnityEngine;
 using System.Collections;
 
@@ -205,7 +205,7 @@ public class Foreach : MonoBehaviour // Foreach in
 
 > **06. ScopeAndAccessModifiers**
 
-```ruby
+```c#
 using UnityEngine;
 using System.Collections;
 
