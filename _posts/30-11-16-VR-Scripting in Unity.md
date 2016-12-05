@@ -290,3 +290,24 @@ public class AwakeAndStart : MonoBehaviour
     }
 }
 ```
+
+> **08. UpdateAndFixedUpdate**
+
+```c#
+using UnityEngine;
+using System.Collections;
+
+public class UpdateAndFixedUpdate : MonoBehaviour
+{
+    void FixedUpdate() // Called every pshysics Step
+    {
+        Debug.Log("FixedUpdate time: + Time.deltaTime");
+    }
+
+    void Update() // Called update frame
+    {
+        Debug.Log("Update time: + Time.deltaTime");
+    }
+}
+```
+
