@@ -472,4 +472,19 @@ public class TransformFunctions : MonoBehaviour
     }
 }
 ```
+> **13. CameraLookAt**
 
+```c#
+using UnityEngine;
+using System.Collections;
+
+public class CameraLookAt : MonoBehaviour 
+{
+    public Transform target;
+
+    void Uppdate()
+    {
+        transform.LookAt(target);
+    }
+}
+```
