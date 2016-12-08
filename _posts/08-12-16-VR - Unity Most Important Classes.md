@@ -439,5 +439,18 @@ tag	The tag of this game object.
 
 > Clones the object original and returns the clone.
 
+### Operators
+
+1.bool	
+
+> Does the object exist?
+
+2.operator !=	
+
+> Compares if two objects refer to a different object.
+
+3.operator ==	
+
+> Compares two object references to see if they refer to the same object.
 
 
