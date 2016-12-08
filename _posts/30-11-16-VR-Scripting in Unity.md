@@ -526,3 +526,43 @@ public class LinearInterpolation : MonoBehaviour
         light.intensity = Mathf.Lerp(light.intesity, 8f, 0.5f * Time.deltaTime);
     }
 ```
+
+> **15. Destroy**
+
+```c#
+using UnityEngine;
+using System.Collections;
+
+public class DestroyBasic : MonoBehaviour 
+{
+    void Update()
+    {
+        if(Input.GetKey(KeyCode.Space))
+        {
+            Destroy(gameObject);
+        }
+    }
+}
+
+public class DestroyOther : MonoBehaviour 
+{
+    void Update()
+    {
+        if(Input.GetKey(KeyCode.Space))
+        {
+            Destroy(other);
+        }
+    }
+}
+
+public class DestroyComponent : MonoBehaviour 
+{
+    void Update()
+    {
+        if(Input.GetKey(KeyCode.Space))
+        {
+            Destroy(GetComponent<MeshRenderer>());
+        }
+    }
+}
+```
