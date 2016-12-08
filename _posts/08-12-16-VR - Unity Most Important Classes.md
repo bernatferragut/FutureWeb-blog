@@ -80,3 +80,135 @@ not display the checkbox.
 
 2. useGUILayout
 > Disabling this lets you skip the GUI layout phase.
+
+### Static Functions
+
+1. print	
+>Logs message to the Unity Console (identical to Debug.Log).
+
+### Messages
+
+1. Awake	
+> Awake is called when the script instance is being loaded.
+2. FixedUpdate	
+> This function is called every fixed framerate frame, if the MonoBehaviour is enabled.
+3. LateUpdate	
+> LateUpdate is called every frame, if the Behaviour is enabled.
+4. OnAnimatorIK	
+> Callback for setting up animation IK (inverse kinematics).
+5. OnAnimatorMove	
+> Callback for processing animation movements for modifying root motion.
+6. OnApplicationFocus	
+> Sent to all game objects when the player gets or loses focus.
+7. OnApplicationPause	
+> Sent to all game objects when the player pauses.
+8. OnApplicationQuit	
+> Sent to all game objects before the application is quit.
+9. OnAudioFilterRead	
+> If OnAudioFilterRead is implemented, Unity will insert a custom filter into the audio DSP chain.
+10. OnBecameInvisible	
+> OnBecameInvisible is called when the renderer is no longer visible by any camera.
+11. OnBecameVisible	
+> OnBecameVisible is called when the renderer became visible by any camera.
+12. **OnCollisionEnter**
+> OnCollisionEnter is called when this collider/rigidbody has begun touching another rigidbody/collider.
+13. OnCollisionEnter2D	
+> Sent when an incoming collider makes contact with this object's collider (2D physics only).
+14. OnCollisionExit	
+> OnCollisionExit is called when this collider/rigidbody has stopped touching another rigidbody/collider.
+15 OnCollisionExit2D	
+> Sent when a collider on another object stops touching this object's collider (2D physics only).
+16. OnCollisionStay	
+>OnCollisionStay is called once per frame for every collider/rigidbody that is touching rigidbody/collider.
+17. OnCollisionStay2D	
+> Sent each frame where a collider on another object is touching this object's collider (2D physics only).
+18. OnConnectedToServer	
+> Called on the client when you have successfully connected to a server.
+19. OnControllerColliderHit	
+> OnControllerColliderHit is called when the controller hits a collider while performing a Move.
+20. OnDestroy	
+> This function is called when the MonoBehaviour will be destroyed.
+21. OnDisable	
+This function is called when the behaviour becomes disabled () or inactive.
+22. OnDisconnectedFromServer	
+> Called on the client when the connection was lost or you disconnected from the server.
+23. OnDrawGizmos	
+> Implement OnDrawGizmos if you want to draw gizmos that are also pickable and always drawn.
+24. OnDrawGizmosSelected	
+> Implement this OnDrawGizmosSelected if you want to draw gizmos only if the object is selected.
+25. OnEnable	
+> This function is called when the object becomes enabled and active.
+26. OnFailedToConnect	
+> Called on the client when a connection attempt fails for some reason.
+27. OnFailedToConnectToMasterServer	
+> Called on clients or servers when there is a problem connecting to the MasterServer.
+28. OnGUI	
+> OnGUI is called for rendering and handling GUI events.
+29. OnJointBreak	
+> Called when a joint attached to the same game object broke.
+30. OnLevelWasLoaded	
+> This function is called after a new level was loaded.
+31. OnMasterServerEvent	
+> Called on clients or servers when reporting events from the MasterServer.
+32. OnMouseDown	
+> OnMouseDown is called when the user has pressed the mouse button while over the GUIElement or Collider.
+33. OnMouseDrag	
+> OnMouseDrag is called when the user has clicked on a GUIElement or Collider and is still holding down the mouse.
+34. OnMouseEnter	
+> Called when the mouse enters the GUIElement or Collider.
+35. OnMouseExit	
+> Called when the mouse is not any longer over the GUIElement or Collider.
+36. OnMouseOver	
+> Called every frame while the mouse is over the GUIElement or Collider.
+37. OnMouseUp	
+> OnMouseUp is called when the user has released the mouse button.
+38. OnMouseUpAsButton	
+> OnMouseUpAsButton is only called when the mouse is released over the same GUIElement or Collider as it was pressed.
+39. OnNetworkInstantiate	
+> Called on objects which have been network instantiated with Network.Instantiate.
+40. OnParticleCollision	
+> OnParticleCollision is called when a particle hits a collider.
+41. OnPlayerConnected	
+> Called on the server whenever a new player has successfully connected.
+42. OnPlayerDisconnected	
+> Called on the server whenever a player disconnected from the server.
+43. OnPostRender	
+> OnPostRender is called after a camera finished rendering the scene.
+44. OnPreCull	
+> OnPreCull is called before a camera culls the scene.
+45. OnPreRender	
+> OnPreRender is called before a camera starts rendering the scene.
+46. OnRenderImage	
+> OnRenderImage is called after all rendering is complete to render image.
+47. OnRenderObject	
+> OnRenderObject is called after camera has rendered the scene.
+48. OnSerializeNetworkView	
+> Used to customize synchronization of variables in a script watched by a network view.
+49. OnServerInitialized	
+> Called on the server whenever a Network.InitializeServer was invoked and has completed.
+50. OnTransformChildrenChanged	
+> This function is called when the list of children of the transform of the GameObject has changed.
+51. OnTransformParentChanged	
+> This function is called when the parent property of the transform of the GameObject has changed.
+52. OnTriggerEnter	
+> OnTriggerEnter is called when the Collider other enters the trigger.
+53. OnTriggerEnter2D	
+> Sent when another object enters a trigger collider attached to this object (2D physics only).
+54. OnTriggerExit	
+> OnTriggerExit is called when the Collider other has stopped touching the trigger.
+55. OnTriggerExit2D	
+> Sent when another object leaves a trigger collider attached to this object (2D physics only).
+56. OnTriggerStay	
+> OnTriggerStay is called once per frame for every Collider other that is touching the trigger.
+57. OnTriggerStay2D	
+> Sent each frame where another object is within a trigger collider attached to this object (2D physics only).
+58. OnValidate	
+> This function is called when the script is loaded or a value is changed in the inspector (Called in the editor only).
+59. OnWillRenderObject	
+> OnWillRenderObject is called once for each camera if the object is visible.
+60. Reset	
+> Reset to default values.
+61. Start	
+> Start is called on the frame when a script is enabled just before any of the Update methods is called the first time.
+62. Update	
+> Update is called every frame, if the MonoBehaviour is enabled.
