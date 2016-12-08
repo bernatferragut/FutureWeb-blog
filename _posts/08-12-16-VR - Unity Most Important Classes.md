@@ -212,3 +212,31 @@ This function is called when the behaviour becomes disabled () or inactive.
 > Start is called on the frame when a script is enabled just before any of the Update methods is called the first time.
 62. Update	
 > Update is called every frame, if the MonoBehaviour is enabled.
+
+### Variables
+
+1. enabled	
+
+> Enabled Behaviours are Updated, disabled Behaviours are not.
+
+2. isActiveAndEnabled	
+
+> Has the Behaviour had enabled called.
+
+3. gameObject	
+
+> The game object this component is attached to. A component is always attached to a game object.
+tag	The tag of this game object.
+
+4.transform	
+
+> The Transform attached to this GameObject (null if there is none attached).
+
+5. hideFlags	
+
+> Should the object be hidden, saved with the scene or modifiable by the user?
+
+
+6. name	
+
+> The name of the object.
