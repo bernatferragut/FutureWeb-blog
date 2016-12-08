@@ -488,3 +488,41 @@ public class CameraLookAt : MonoBehaviour
     }
 }
 ```
+> **14. LinearInterpolation**
+
+```c#
+using UnityEngine;
+using System.Collections;
+
+public class LinearInterpolation : MonoBehaviour 
+{
+    void Uppdate()
+    {
+        // interpolate between 3 and 5 for 50%
+        float result = Mathf.Lerp(3f, 5f, 0.5f);
+
+        Vector3 from = new Vector3(1f, 2f, 3f);
+        Vector3 to = new Vector3(5f, 6f, 7f);
+    }
+
+    void Uppdate()
+    {
+        Vector3 from = new Vector3(1f, 2f, 3f);
+        Vector3 to = new Vector3(5f, 6f, 7f);
+
+        //Here the result = (4,5,6) > the 75% between points
+        Vector3 result = Vector3.Lerp(from, to, 0.75f);
+    }
+
+        void Uppdate()
+    {
+        // from 0f tp 8f by 0.5f - frame depenent ( every frame goes 0.5 closer)
+        light.intensity = Mathf.Lerp(light.intesity, 8f, 0.5f);
+    }
+
+     void Uppdate()
+    {
+        // from 0f tp 8f by 0.5f - frame indepenent ( every second goes 0.5 closer)
+        light.intensity = Mathf.Lerp(light.intesity, 8f, 0.5f * Time.deltaTime);
+    }
+```
