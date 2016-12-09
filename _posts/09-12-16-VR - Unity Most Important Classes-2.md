@@ -135,4 +135,14 @@ containers for Components, which implement the real functionality.
 
 > The name of the object.
 
+### Public Functions
+
+1.GetInstanceID	
+
+> Returns the instance id of the object.
+
+2.ToString	
+
+> Returns the name of the game object.
+
 
