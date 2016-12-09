@@ -141,6 +141,8 @@ containers for Components, which implement the real functionality.
 
 > Returns the instance id of the object.
 
+
+
 2.ToString	
 
 > Returns the name of the game object.
@@ -170,5 +172,19 @@ containers for Components, which implement the real functionality.
 6.Instantiate	
 
 > Clones the object original and returns the clone.//which is ab Object
+
+### Operators
+
+1.bool	
+
+> Does the object exist?
+
+2.operator !=	
+
+> Compares if two objects refer to a different object.
+
+3.operator ==	
+
+> Compares two object references to see if they refer to the same object.
 
 
