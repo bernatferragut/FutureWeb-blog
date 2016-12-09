@@ -51,3 +51,53 @@ containers for Components, which implement the real functionality.
 1.GameObject	
 
 > Creates a new game object, named name.
+
+### Public Functions
+
+1.AddComponent	
+
+> Adds a component class named className to the game object.
+
+2.BroadcastMessage	
+
+> Calls the method named methodName on every MonoBehaviour in this game object or any of its children.
+
+3.CompareTag	
+
+> Is this game object tagged with tag ?
+
+4.GetComponent	
+
+> Returns the component of Type type if the game object has one attached, null if it doesn't.
+
+5.GetComponentInChildren	
+
+> Returns the component of Type type in the GameObject or any of its children using depth first search.
+
+6.GetComponentInParent	
+
+> Returns the component of Type type in the GameObject or any of its parents.
+
+7.GetComponents	
+
+> Returns all components of Type type in the GameObject.
+
+8.GetComponentsInChildren	
+
+> Returns all components of Type type in the GameObject or any of its children.
+
+9.GetComponentsInParent	
+
+> Returns all components of Type type in the GameObject or any of its parents.
+
+10.SendMessage	
+
+> Calls the method named methodName on every MonoBehaviour in this game object.
+
+11.SendMessageUpwards	
+
+> Calls the method named methodName on every MonoBehaviour in this game object and on every ancestor of the behaviour.
+
+12.SetActive	
+
+> Activates/Deactivates the GameObject.
