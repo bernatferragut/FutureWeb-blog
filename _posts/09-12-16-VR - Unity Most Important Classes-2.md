@@ -135,7 +135,7 @@ containers for Components, which implement the real functionality.
 
 > The name of the object.
 
-### Public Functions
+#### Public Functions
 
 1.GetInstanceID	
 
@@ -144,5 +144,31 @@ containers for Components, which implement the real functionality.
 2.ToString	
 
 > Returns the name of the game object.
+
+#### Static Functions
+
+1.Destroy	
+
+> Removes a gameobject, component or asset.
+
+2.DestroyImmediate	
+
+> Destroys the object obj immediately. You are strongly recommended to use Destroy instead.
+
+3.DontDestroyOnLoad	
+
+> Makes the object target not be destroyed automatically when loading a new scene.
+
+4.FindObjectOfType	
+
+> Returns the first active loaded object of Type type.
+
+5.FindObjectsOfType	
+
+> Returns a list of all active loaded objects of Type type.
+
+6.Instantiate	
+
+> Clones the object original and returns the clone.//which is ab Object
 
 
