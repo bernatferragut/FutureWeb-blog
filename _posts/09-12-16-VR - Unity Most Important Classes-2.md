@@ -18,30 +18,30 @@ containers for Components, which implement the real functionality.
 
 ### Variables
 
-1. activeInHierarchy
+1.activeInHierarchy
 
 > Is the GameObject active in the scene?
 
-2. activeSelf	
+2.activeSelf	
 
 > The local active state of this GameObject. (Read Only)
 
-3. isStatic	
+3.isStatic	
 
 > Editor only API that specifies if a game object is static.
 
-4. layer	
+4.layer	
 
 > The layer the game object is in. A layer is in the range [0...31].
 
-5. scene	
+5.scene	
 
 > Scene that the GameObject is part of.
 
-6. tag	
+6.tag	
 
 > The tag of this game object.
 
-7. transform	
+7.transform	
 
 > The Transform attached to this GameObject. (null if there is none attached).
