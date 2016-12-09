@@ -16,6 +16,7 @@ GameObjects are the fundamental objects in Unity that represent characters,
 props and scenery. They do not accomplish much in themselves but they act as 
 containers for Components, which implement the real functionality.
 
+
 ### Variables
 
 1.activeInHierarchy
@@ -46,11 +47,13 @@ containers for Components, which implement the real functionality.
 
 > The Transform attached to this GameObject. (null if there is none attached).
 
+
 ### Constructors
 
 1.GameObject	
 
 > Creates a new game object, named name.
+
 
 ### Public Functions
 
@@ -101,3 +104,24 @@ containers for Components, which implement the real functionality.
 12.SetActive	
 
 > Activates/Deactivates the GameObject.
+
+
+### Static Functions
+
+1.CreatePrimitive	
+
+> Creates a game object with a primitive mesh renderer and appropriate collider.
+
+2.Find	
+
+> Finds a game object by name and returns it.
+
+3.FindGameObjectsWithTag	
+
+> Returns a list of active GameObjects tagged tag. Returns empty array if no GameObject was found.
+
+4.FindWithTag	
+
+> Returns one active GameObject tagged tag. Returns null if no GameObject was found.
+
+
