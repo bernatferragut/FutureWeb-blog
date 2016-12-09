@@ -124,4 +124,15 @@ containers for Components, which implement the real functionality.
 
 > Returns one active GameObject tagged tag. Returns null if no GameObject was found.
 
+### Inherited members
+#### Variables
+
+1.hideFlags	
+
+> Should the object be hidden, saved with the scene or modifiable by the user?
+
+2.name	
+
+> The name of the object.
+
 
