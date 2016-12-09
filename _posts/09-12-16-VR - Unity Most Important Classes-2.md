@@ -45,3 +45,9 @@ containers for Components, which implement the real functionality.
 7.transform	
 
 > The Transform attached to this GameObject. (null if there is none attached).
+
+### Constructors
+
+1.GameObject	
+
+> Creates a new game object, named name.
