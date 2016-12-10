@@ -103,3 +103,80 @@ public class ExampleClass : MonoBehaviour {
 
 > Matrix that transforms a point from world space into local space (Read Only).
 
+### Public Functions
+
+1.DetachChildren
+
+> Unparents all children.
+
+2.Find	
+
+> Finds a child by name and returns it.
+
+3.GetChild	
+
+> Returns a transform child by index.
+
+4.GetSiblingIndex	
+
+> Gets the sibling index.
+
+5.InverseTransformDirection	
+
+> Transforms a direction from world space to local space. The opposite of Transform.TransformDirection.
+
+6.InverseTransformPoint	
+
+> Transforms position from world space to local space.
+
+7.InverseTransformVector	
+
+> Transforms a vector from world space to local space. The opposite of Transform.TransformVector.
+
+8.IsChildOf	
+
+> Is this transform a child of parent?
+
+9.LookAt	
+
+> Rotates the transform so the forward vector points at /target/'s current position.
+
+10.Rotate	
+
+> Applies a rotation of eulerAngles.z degrees around the z axis, eulerAngles.x degrees around the x axis, and eulerAngles.y degrees around the y axis (in that order).
+
+11.RotateAround	
+
+> Rotates the transform about axis passing through point in world coordinates by angle degrees.
+
+12.SetAsFirstSibling	
+
+> Move the transform to the start of the local transform list.
+
+13.SetAsLastSibling	
+
+> Move the transform to the end of the local transform list.
+
+14.SetParent	
+
+> Set the parent of the transform.
+
+15.SetSiblingIndex	
+
+> Sets the sibling index.
+
+16.TransformDirection	
+
+> Transforms direction from local space to world space.
+
+17.TransformPoint	
+
+> Transforms position from local space to world space.
+
+18.TransformVector	
+
+> Transforms vector from local space to world space.
+
+19.Translate	
+
+> Moves the transform in the direction and distance of translation.
