@@ -21,7 +21,8 @@ rotation and scale hierarchically.
 This is the hierarchy seen in the Hierarchy pane. 
 They also support enumerators so you can loop through children using:
 
-```ruby
+```
+ruby
 using UnityEngine;
 using System.Collections;
 
@@ -33,6 +34,7 @@ public class ExampleClass : MonoBehaviour {
     }
 }
 ```
+
 ### Variables
 
 1.childCount
