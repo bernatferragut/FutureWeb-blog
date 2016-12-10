@@ -180,3 +180,103 @@ public class ExampleClass : MonoBehaviour {
 19.Translate	
 
 > Moves the transform in the direction and distance of translation.
+
+### Inherited members
+
+#### Variables
+
+1.gameObject	
+
+> The game object this component is attached to. A component is always attached to a game object.
+
+2.tag	
+
+> The tag of this game object.
+
+3.transform	
+
+> The Transform attached to this GameObject (null if there is none attached).
+
+4.hideFlags	
+
+> Should the object be hidden, saved with the scene or modifiable by the user?
+
+5.name	
+
+> The name of the object.
+
+#### Public Functions
+
+1.BroadcastMessage	
+
+> Calls the method named methodName on every MonoBehaviour in this game object or any of its children.
+
+2.CompareTag	
+
+> Is this game object tagged with tag ?
+
+3.GetComponent	
+
+> Returns the component of Type type if the game object has one attached, null if it doesn't.
+
+4.GetComponentInChildren	
+
+> Returns the component of Type type in the GameObject or any of its children using depth first search.
+
+5.GetComponentInParent	
+
+> Returns the component of Type type in the GameObject or any of its parents.
+
+6.GetComponents	
+
+> Returns all components of Type type in the GameObject.
+
+7.GetComponentsInChildren	
+
+> Returns all components of Type type in the GameObject or any of its children.
+
+8.GetComponentsInParent	
+
+> Returns all components of Type type in the GameObject or any of its parents.
+
+9.SendMessage	
+
+> Calls the method named methodName on every MonoBehaviour in this game object.
+
+10.SendMessageUpwards	
+
+> Calls the method named methodName on every MonoBehaviour in this game object and on every ancestor of the behaviour.
+
+11.GetInstanceID	
+
+Returns the instance id of the object.
+
+12.ToString	
+
+> Returns the name of the game object.
+
+#### Static Functions
+
+1.Destroy	
+
+> Removes a gameobject, component or asset.
+
+2.DestroyImmediate	
+
+> Destroys the object obj immediately. You are strongly recommended to use Destroy instead.
+
+3.DontDestroyOnLoad	
+
+> Makes the object target not be destroyed automatically when loading a new scene.
+
+4.FindObjectOfType	
+
+> Returns the first active loaded object of Type type.
+
+5.FindObjectsOfType	
+
+> Returns a list of all active loaded objects of Type type.
+
+6.Instantiate	
+
+> Clones the object original and returns the clone.
