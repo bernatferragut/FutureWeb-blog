@@ -696,4 +696,23 @@ public class AxisRawExample : MonoBehaviour
     }
 }
 
+using UnityEngine;
+using System.Collections;
+
+public class DualAxisExample : MonoBehaviour
+{
+    public float range;
+    public guiText textOutput;
+
+    void Update()
+    {
+        float h = Input.GetRaw("Horizontal");
+        float v = Input.GetRaw("Vertical");
+        float xPos = h * range;
+        float yPos = v * range;
+
+        transform.position = new Vector3 (xPos, 2f, 0);
+        textOutput.text = "Horizontal Value Returned: " + h.ToString("F2") + +"\nVertical Value Returned: "+v.ToString("F2");
+    }
+}
 ```
