@@ -657,4 +657,25 @@ public class ButtonInput : MonoBehaviour
 }
 ```
 
+> **17. GetAxis** // mainly dor joysticks
 
+```ruby
+using UnityEngine;
+using System.Collections;
+
+public class AxisSimple : MonoBehaviour
+{
+    public float range;
+    public guiText textOutput;
+
+    void Update()
+    {
+        float h = Input.GetAxis("Horizontal");
+        float xPos = h * range;
+
+        transform.position = new Vector3 (xPos, 2f, 0);
+        textOutput.text = "Value Returned: " + h.ToString("F2");
+    }
+}
+
+```
