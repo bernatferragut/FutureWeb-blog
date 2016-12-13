@@ -716,3 +716,43 @@ public class DualAxisExample : MonoBehaviour
     }
 }
 ```
+> **19. UsingOtherComponents**
+
+```ruby
+using UnityEngine;
+using System.Collections;
+
+public class UsingOtherComponents : MonoBehaviour
+{
+    public GameObject otherGameObject;
+
+    private AnotherScript anotherScript;
+    private YetAnotherScript yetAnotherScript;
+    private BoxCollider boxCol;
+
+    void Awake()
+    {
+        anotherScript = GetComponent<AnotherScript>();
+        yetAnotherScript = otherGameObject.GetComponent<YetAnotherScript>();
+        boxCol = otherGameObject.GetComponent<BoxCollider>();
+    }
+
+    void Start()
+    {
+        boxCol.size = new Vector3(3,3,3);
+        Debug.Log("The Player's score is" + anotherScript.playerScore);
+        Debug.Log("The player is alive" + yetAnotherScript.numberOfPlayersAlive + "times");
+    }
+}
+
+public class AnotherScript : MonoBehaviour
+{
+    public int playerSocre = 9001;
+}
+
+public class YetAnotherScript : MonoBehaviour
+{
+    publuc int numberOfPlayersAlive = 3;
+}
+```
+
