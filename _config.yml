@@ -1,6 +1,6 @@
-# # # # # # # # # # # # # # # # #
-#   B E R N A T - C o n f i g   #
-# # # # # # # # # # # # # # # # #
+# # # # # # # # # # # # # 
+#   K I K O - B l o g   #
+# # # # # # # # # # # # #
 
 # Basic
 name:               "Bernat Ferragut"
@@ -24,8 +24,8 @@ disqus:
 
 # URL
 #url:               "https://bernatferragut.github.io/vr-blog/" # the base hostname & protocol for your site
-url:                "http://bernatferragut.co" # use this url when develop
-baseurl:            "http://bernatferragut.co/blog" # the subpath of your site, e.g. /blog
+url:                "https://bernatferragut.co" # use this url when develop
+baseurl:            "https://bernatferragut.co/blog" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -50,7 +50,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "http://bernatferragut.co"
+    url:            "https://bernatferragut.co"
 
 
 
