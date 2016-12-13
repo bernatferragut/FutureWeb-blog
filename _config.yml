@@ -25,7 +25,7 @@ disqus:
 # URL
 #url:               "https://bernatferragut.github.io/vr-blog/" # the base hostname & protocol for your site
 url:                "https://bernatferragut.co" # use this url when develop
-baseurl:            "https://bernatferragut.co" # the subpath of your site, e.g. /blog
+baseurl:            "" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
