@@ -716,7 +716,7 @@ public class DualAxisExample : MonoBehaviour
     }
 }
 ```
-> **19. UsingOtherComponents**
+> **18. UsingOtherComponents**
 
 ```ruby
 using UnityEngine;
@@ -755,7 +755,7 @@ public class YetAnotherScript : MonoBehaviour
     publuc int numberOfPlayersAlive = 3;
 }
 ```
-> **18. UsingDeltaTime**
+> **19. UsingDeltaTime**
 
 ```c#
 using UnityEngine;
