@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "VR - Games:  Conclusions about the first 3 Experiences in VR"
-description: "What have we learned with GoogleVr first Experiences"
+title: "VR : Thoughts about the first 3 VR Experiences"
+description: "What have we learned playing with GoogleVr so far"
 date: 2016-12-13
 tags: [design, virtual reality, googleVR, unity]
 comments: true
