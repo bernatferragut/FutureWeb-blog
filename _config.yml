@@ -24,7 +24,7 @@ disqus:
 
 # URL
 #url:               "https://bernatferragut.github.io/vr-blog/" # the base hostname & protocol for your site
-url:                "https://bernatferragut.co" # use this url when develop
+url:                "http://bernatferragut.co" # use this url when develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
 
@@ -50,7 +50,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://bernatferragut.co"
+    url:            "http://bernatferragut.co"
 
 
 
