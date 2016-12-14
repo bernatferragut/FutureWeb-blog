@@ -5,13 +5,13 @@ permalink: /works/
 
 >A short selection of Visual Design Works
 
-[1.design](#design)
+[design](#design)
 
-[2.vfx](#vfx)
+[vfx](#vfx)
 
-[3.publicity](#publicity)
+[publicity](#publicity)
 
-[4.art](#art)
+[art](#art)
 
 
 
