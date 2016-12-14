@@ -44,16 +44,16 @@ share: true
 
 > Effects with realistic physics in 3D like rain, wind sound, lights work very well but use just when they really can help.
 
-**7.Jumping, if you know you are going to jump, can work (It’s like the head prepares for it in advance)
+**7.Jumping, if you know you are going to jump, can work (It’s like the head prepares for it in advance)**
 (*NOT RECOMMENDED because different kind of people can get motion sickness)**
 
 > Although Jumping / going upstairs still being a big no in the VR community. Depending how is designed maybe can work
 > I've been 'jumping' quite a lot in VR recently and more experimentation has to be done. It's about to find the 'right' settings.
 
-**8.Music is very important in 2D and 3D it puts the personality and immersion to the game.
+**8.Music is very important in 2D and 3D it puts the personality and immersion to the game**
 
 > 2D and 3D Music are super important, they give the other 50% into the Experience. More experimentation with 3D effects needed.
 
-**9.Colors and textures can be very simple (flat shadding with occlusion ) / Harmonious color palettes can simply work
+**9.Colors and textures can be very simple (flat shadding with occlusion ) / Harmonious color palettes can simply work**
 
 > Flat, simple, well balanced color scales work very well instead of heavy textured areas.
