@@ -7,8 +7,6 @@ permalink: /about/
 
 ![bernatferragut200](https://cloud.githubusercontent.com/assets/17754060/20561006/910a3a16-b152-11e6-9219-fb614ee86870.png)
 
-Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.Powered by [Jekyll](http://jekyllrb.com).Hosted on [Github Pages](https://pages.github.com).
-
 ## INTRO
 
 Hi, I'm Bernat. 
@@ -78,6 +76,8 @@ in New Technologies focusing in VR, their impact in our society and the way we c
 
 * Contact by mail: [Bernat Ferragut] (mailto: elbernat@gmail.com)
 * Follow any of the contacts down the page - Nice to meet you!
+
+Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.Powered by [Jekyll](http://jekyllrb.com).Hosted on [Github Pages](https://pages.github.com).
 
 
 
