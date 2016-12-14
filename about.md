@@ -29,9 +29,9 @@ in New Technologies focusing in VR, their impact in our society and the way we c
 
 ## WORK
 
-* UX / Graphical Designer - Freelance -  [Bernat Ferragut](http://bernatferragut.co/)
+* UX / Visual Designer - Freelance -  [Bernat Ferragut](http://bernatferragut.co/)
 * 3D / Layout / Previz Designer / Steroscopic AAA Films - [DamnFX Montreal](#)
-* 3D / Graphic Designer / Engineering Marketing Dept - [Simulare](#)
+* 3D / Visual Designer / Engineering Marketing Dept - [3TControl](http://3tcontrol.com/en/company.php)
 * 3D Maya Instructor - Teacher and Project Manager - [Image and Sound High School](http://www.cev.com/)
 
 ## KNOWHOW
@@ -49,7 +49,7 @@ in New Technologies focusing in VR, their impact in our society and the way we c
 * 2D Design
   * Photoshop
   * Illustrator
-  * InDesign/
+  * In Design
   * Premiere
   
 >PROGRAMMING LANGUAGES
@@ -76,7 +76,8 @@ in New Technologies focusing in VR, their impact in our society and the way we c
 
 ## CONTACT
 
-* Contact: elbernat@gmail.com
+* Contact by mail: [Bernat Ferragut] (mailto: elbernat@gmail.com)
+* Follow any of the contacts down the page - Nice to meet you!
 
 
 
