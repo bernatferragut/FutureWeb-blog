@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-## 3 First Projects
+## 3 VR Experimental Projects with GoogleVR SDK
 
 **1.Distances Project**
 
