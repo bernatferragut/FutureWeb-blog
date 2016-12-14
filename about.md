@@ -15,13 +15,17 @@ Hi, I'm Bernat.
 I'm a Freelance Visual Designer-Programmer-Teacher. I have a BSc in Eng. and a passion for Design 
 in New Technologies focusing in VR, their impact in our society and the way we can use them for a better change.
 
+## SPECIALIZATIONS
+
+* VR Nanodegree in UX/VR - [Udacity](https://www.udacity.com/course/vr-developer-nanodegree--nd017)
+* Python Programming - [Universisty of Michigan](https://www.coursera.org/specializations/python)
+* UX Design - [Interaction Design Foundation](https://www.interaction-design.org)
+* 3D Design & Animation - [Image and Sound High School](http://www.cev.com/)
+
 ## STUDIES
 
-* Mainly selftaught VR Nanodegree focusing in UX/VR - [Udacity](https://www.udacity.com/course/vr-developer-nanodegree--nd017)
-* Specialization: Python for Everybody - [Universisty of Michigan](https://www.coursera.org/specializations/python)
-* UX Design - [Interaction Design Foundation](https://www.interaction-design.org)
-* 3D Designer - [Image and Sound High School](http://www.cev.com/)
 * MSc.Clean Technologies - [Newcastle University](http://www.ncl.ac.uk/postgraduate/courses/degrees/clean-technology-msc-pgdip/#profile)
+* BSc. Eng - [Barcelona Tech](https://www.euetib.upc.edu/)
 
 ## WORK
 
