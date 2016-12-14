@@ -9,6 +9,10 @@ permalink: /about/
 
 Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.Powered by [Jekyll](http://jekyllrb.com).Hosted on [Github Pages](https://pages.github.com).
 
+## INTRO
+
+Hi, I'm Bernat, I'm a Freelance Visual Designer / Programmer / NewTech Teacher. I have a background in Eng. and a passion for Design in New Technologies focused in VR, their impact in our society and the way we can use them for a better change.
+
 ## STUDIES
 
 * Mainly selftaught VR Nanodegree focusing in UX/VR - [Udacity](https://www.udacity.com/course/vr-developer-nanodegree--nd017)
