@@ -9,7 +9,8 @@ permalink: /about/
 
 ## Intro
 
-Hi, I'm Bernat. 
+Hi, I'm Bernat.
+
 I'm a Freelance Visual Designer-Programmer-Teacher. I have a BSc in Eng. and a passion for Design 
 in New Technologies focusing in VR, their impact in our society and the way we can use them for a better change.
 
