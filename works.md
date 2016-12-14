@@ -19,7 +19,7 @@ permalink: /works/
 
 # DESIGN
 
-![IMAGE](images/BASE.png)
+![IMAGE](/images/BASE.jpg)
 
 lorem ipsum
 lorem ipsum
@@ -35,7 +35,7 @@ lorem ipsum
 
 # VFX
 
-![IMAGE](/images/BASE.png)
+![IMAGE](/images/BASE.jpg)
 
 lorem ipsum
 lorem ipsum
@@ -51,7 +51,7 @@ lorem ipsum
 
 # PUBLICITY
 
-![IMAGE](/images/BASE.png)
+![IMAGE](/images/BASE.jpg)
 
 lorem ipsum
 lorem ipsum
@@ -67,7 +67,7 @@ lorem ipsum
 
 # ART
 
-![IMAGE](/images/BASE.png)
+![IMAGE](/images/BASE.jpg)
 
 lorem ipsum
 lorem ipsum
