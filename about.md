@@ -75,8 +75,8 @@ in New Technologies focusing in VR, their impact in our society and the way we c
 
 ## CONTACT
 
-* Contact by mail: [Bernat Ferragut] (mailto: elbernat@gmail.com)
-* Follow any of the contacts down the page - Nice to meet you!
+* Contact by mail: [Bernat Ferragut](mailto: elbernat@gmail.com)
+* Follow any of the contacts down the page (^-^)
 
 Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.Powered by [Jekyll](http://jekyllrb.com).Hosted on [Github Pages](https://pages.github.com).
 
