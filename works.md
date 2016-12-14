@@ -17,7 +17,7 @@ permalink: /works/
 
 
 
-(#design)
+#design
 
 lorem ipsum
 lorem ipsum
@@ -59,7 +59,7 @@ lorem ipsum
 lorem ipsum
 lorem ipsum
 
-(#art)
+#art
 
 lorem ipsum
 lorem ipsum
