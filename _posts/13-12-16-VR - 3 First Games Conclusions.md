@@ -54,6 +54,6 @@ share: true
 
 > 2D and 3D Music are super important, they give the other 50% into the Experience. More experimentation with 3D effects needed.
 
-**9.Colors and textures can be very simple (flat shadding with occlusion ) / Harmonious color palettes can simply work**
+**9.Colors and textures can be very simple (flat shadding with occlusion) / Harmonious color palettes can simply work**
 
 > Flat, simple, well balanced color scales work very well instead of heavy textured areas.
