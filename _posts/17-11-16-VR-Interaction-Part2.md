@@ -104,6 +104,7 @@ Here as an example the code to change the color of a cube on Enter/Trigger/Exit:
 2. TimedInputHandler > We will add a new event
 3. TimedInputObject > We will fire this event to the object our choice
 
+### GvrReticle Script
 
 	using UnityEngine;
 	using UnityEngine.EventSystems;	
@@ -141,4 +142,37 @@ Here as an example the code to change the color of a cube on Enter/Trigger/Exit:
 			}
 		}
 	}
-	
+
+### Timed Input Handler
+
+	using UnityEngine;
+	using System.Collections;
+	using UnityEngine.EventSystems;
+
+	public interface TimedInputHandler : IEventSystemHandler {
+		// >>TIMED INPUT<<
+		void HandleTimedInput();
+	}
+
+### Timed Input Object
+
+	using UnityEngine;
+	using System.Collections;
+
+	public class TimedInputObject : MonoBehaviour, TimedInputHandler {
+
+		// Use this for initialization
+		void Start () {
+			GetComponent<Renderer> ().material.color = Color.black;
+		}
+		
+		// Update is called once per frame
+		void Update () {}
+
+		// We inherit from the Interface
+		public void HandleTimedInput(){
+			GetComponent<Renderer> ().material.color = Color.red;
+		}
+
+	}
+
