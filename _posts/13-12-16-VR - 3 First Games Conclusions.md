@@ -10,11 +10,11 @@ share: true
 
 ## 3 First Projects
 
-**1.DISTANCES PROJECT**
+**1.Distances Project**
 
-**2.PLANETS PROJECT**
+**2.Planets Project**
 
-**3.MAZE PROJECT**
+**3.Maze Project**
 
 ### Things I have learned building the first 3 VR Projects
 
