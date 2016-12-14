@@ -70,13 +70,13 @@ in New Technologies focusing in VR, their impact in our society and the way we c
 
 * Design - Art
 * Virtual Reality - Philosophical implications
-* Eco-Builder - I have actually build 2 StrawBale Houses !
+* Eco Building Design - I have actually built 2 Strawbale Houses!
 * Meditation - Focus and Presence from classical traditions
 
 ## CONTACT
 
-* Contact by mail: [Bernat Ferragut](mailto: elbernat@gmail.com)
-* Follow any of the contacts down the page (^-^)
+* By mail: [Bernat Ferragut](mailto: elbernat@gmail.com)
+* Any of the contacts down the page (^-^)
 
 Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.Powered by [Jekyll](http://jekyllrb.com).Hosted on [Github Pages](https://pages.github.com).
 
