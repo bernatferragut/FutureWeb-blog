@@ -10,7 +10,7 @@ permalink: /about/
 ## Intro
 
 I'm a Freelance Visual Designer-Programmer-Teacher. I have a BSc in Eng. and a passion for Design 
-on New Technologies focusing in VR, their impact in our society and the way we can use them to obtain a better change.
+in New Technologies focusing in VR, their impact in our society and the way we can use them to obtain a better change.
 
 ## Specializations
 
