@@ -3,7 +3,7 @@ title: Works
 permalink: /works/
 ---
 
->A short selection of Visual Design Works
+>Visual Design Works Selection
 
 [design](#design)
 
@@ -31,7 +31,7 @@ lorem ipsum
 lorem ipsum
 lorem ipsum
 
-(#vfx)
+# vfx
 
 lorem ipsum
 lorem ipsum
@@ -45,7 +45,7 @@ lorem ipsum
 lorem ipsum
 lorem ipsum
 
-(#publicity)
+# publicity
 
 lorem ipsum
 lorem ipsum
