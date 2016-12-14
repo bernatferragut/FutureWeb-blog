@@ -68,11 +68,11 @@ in New Technologies focusing in VR, their impact in our society and the way we c
 
 ## INTEREST
 
-* Design > [Art & Architecture](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD)
-* Virtual Reality > [Philosophical implications](https://github.com/bernatferragut/vr-100-questions)
-* Eco Building Design > [I have actually built 2 Strawbale Houses!](http://www.terracines.ca/)
-* Meditation > [Focus and Presence from classical traditions](http://www.suttama.dhamma.org/Dhamma-Suttama.4045.0.html?&L=0)
-* Ramon Llull > [The Father of Computer Thinking](http://quisestlullus.narpan.net/eng/611_info_eng.html)
+* Design - [Art & Architecture](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD)
+* Virtual Reality - [Philosophical implications](https://github.com/bernatferragut/vr-100-questions)
+* Eco Building Design - [I have actually built 2 Strawbale Houses!](http://www.terracines.ca/)
+* Meditation - [Focus and Presence from classical traditions](http://www.suttama.dhamma.org/Dhamma-Suttama.4045.0.html?&L=0)
+* Ramon Llull - [The Father of Computer Thinking](http://quisestlullus.narpan.net/eng/611_info_eng.html)
 
 ## CONTACT
 
