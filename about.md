@@ -7,32 +7,32 @@ permalink: /about/
 
 ![bernatferragut200](https://cloud.githubusercontent.com/assets/17754060/20561006/910a3a16-b152-11e6-9219-fb614ee86870.png)
 
-## INTRO
+## Intro
 
 Hi, I'm Bernat. 
 I'm a Freelance Visual Designer-Programmer-Teacher. I have a BSc in Eng. and a passion for Design 
 in New Technologies focusing in VR, their impact in our society and the way we can use them for a better change.
 
-## SPECIALIZATIONS
+## Specializations
 
 * VR Nanodegree in UX/VR - [Udacity](https://www.udacity.com/course/vr-developer-nanodegree--nd017)
 * Python Programming - [Universisty of Michigan](https://www.coursera.org/specializations/python)
 * UX Design - [Interaction Design Foundation](https://www.interaction-design.org)
 * 3D Design & Animation - [Image and Sound High School](http://www.cev.com/)
 
-## STUDIES
+## Studies
 
 * MSc.Clean Technologies - [Newcastle University](http://www.ncl.ac.uk/postgraduate/courses/degrees/clean-technology-msc-pgdip/#profile)
 * BSc. Eng - [Barcelona Tech](https://www.euetib.upc.edu/)
 
-## WORK
+## Work
 
 * UX / Visual Designer - Freelance -  [Bernat Ferragut](http://bernatferragut.co/)
 * 3D / Layout / Previz Designer / Steroscopic AAA Films - [DamnFX Montreal](#)
 * 3D / Visual Designer / Engineering Marketing Dept - [3TControl](http://3tcontrol.com/en/company.php)
 * 3D Maya Instructor - Teacher and Project Manager - [Image and Sound High School](http://www.cev.com/)
 
-## KNOWHOW
+## Knowhow
 
 >SOFTWARE
 
@@ -70,6 +70,7 @@ in New Technologies focusing in VR, their impact in our society and the way we c
 
 * Design - Art
 * Virtual Reality - Philosophical implications
+* Eco-Builder - I have actually build 2 StrawBale Houses !
 * Meditation - Focus and Presence from classical traditions
 
 ## CONTACT
