@@ -5,7 +5,7 @@ permalink: /works/
 
 >Visual Design Works Selection
 
-[1.VFX](#vfx)|[2.DESIGN](#design)|[3.ARCH](#Arch)|[4.PRODUCT](#product)| [5.ART](#art)
+[Vfx](#vfx)|[Design](#design)|[Arch](#Arch)|[Product](#product)| [Art](#art)
 
 # Vfx
 
