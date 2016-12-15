@@ -896,6 +896,29 @@ public class Inventory : MonoBehaviour
         Debug.Log(myStuff.bullets);
     }
 }
+
+using UnityEngine;
+using System.Collections;
+
+public class MovementControls : MonoBehaviour
+{
+    public float speed;
+    public float turnSpeed;
+
+    void Update()
+    {
+        Movement();
+    }
+
+    voidMovement()
+    {
+        float forwardMovement = Input.GetAxis("Vertical")*speed*Time.deltaTime;
+        float turnMovement = Input.GetAxis("Horizontal")*turnSpeed*time.deltaTime;
+
+        transform.Translate(Vector3.forward*forwardMovement);
+        transform.Rotate(Vector3.up*turnMovement);
+    }
+}
 ```
 
 
