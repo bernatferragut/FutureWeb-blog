@@ -5,12 +5,11 @@ permalink: /works/
 
 >Visual Design Works Selection
 
-[VFX](#vfx) 
-[DESIGN](#design) 
-[INNERARCH](#innerarch) 
-[FUTURA](#futura) 
-[PRODUCT](#product) 
-[ART](#art)
+[1.VFX](#vfx) 
+[2.DESIGN](#design) 
+[3.INNERARCH](#innerarch) 
+[4.PRODUCT](#product) 
+[5.ART](#art)
 
 # Vfx
 
