@@ -5,35 +5,19 @@ permalink: /works/
 
 >Visual Design Works Selection
 
-[DESIGN](#design)
+[Design](#design)
 
-[VFX](#vfx)
+[Vfx](#vfx)
 
-[PUBLICITY](#publicity)
+[Media](#publicity)
 
-[ART](#art)
-
-
+[Art](#art)
 
 
 
-# DESIGN
 
-![IMAGE](/images/BASE.jpg)
 
-lorem ipsum
-lorem ipsum
-lorem ipsum
-lorem ipsum
-lorem ipsum
-lorem ipsum
-lorem ipsum
-lorem ipsum
-lorem ipsum
-lorem ipsum
-lorem ipsum
-
-# VFX
+# Design
 
 ![IMAGE](/images/BASE.jpg)
 
@@ -49,7 +33,7 @@ lorem ipsum
 lorem ipsum
 lorem ipsum
 
-# PUBLICITY
+# Vfx
 
 ![IMAGE](/images/BASE.jpg)
 
@@ -65,7 +49,23 @@ lorem ipsum
 lorem ipsum
 lorem ipsum
 
-# ART
+# Media
+
+![IMAGE](/images/BASE.jpg)
+
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+
+# Art
 
 ![IMAGE](/images/BASE.jpg)
 
