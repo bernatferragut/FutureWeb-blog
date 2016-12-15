@@ -5,17 +5,7 @@ permalink: /works/
 
 >Visual Design Works Selection
 
-[Design](#design)
-
-[Vfx](#vfx)
-
-[Media](#publicity)
-
-[Art](#art)
-
-
-
-
+[DESIGN](#design) ||  [VFX](#vfx) ||  [MEDIA](#media) || [ART](#art)  || [ARCHITECTURE](#architecture)
 
 # Design
 
@@ -36,6 +26,22 @@ lorem ipsum
 # Vfx
 
 ![IMAGE](/images/VFX1.jpg)
+
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum
+
+# Architecture
+
+![IMAGE](/images/ARCHITECTURE.jpg)
 
 lorem ipsum
 lorem ipsum
