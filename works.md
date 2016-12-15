@@ -5,11 +5,11 @@ permalink: /works/
 
 >Visual Design Works Selection
 
-[1.VFX](#vfx) 
-[2.DESIGN](#design) 
-[3.INNERARCH](#innerarch) 
-[4.PRODUCT](#product) 
-[5.ART](#art)
+[1.VFX](#vfx)     |
+[2.DESIGN](#design)      |
+[3.ARCH](#Arch)     |
+[4.PRODUCT](#product)      |
+[5.ART](#art)     |
 
 # Vfx
 
@@ -23,7 +23,7 @@ lorem ipsum
 
 lorem ipsum
 
-# Innerarch
+# Arch
 
 ![IMAGE](/images/INNER1.jpeg)
 
