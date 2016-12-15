@@ -5,14 +5,7 @@ permalink: /works/
 
 >Visual Design Works Selection
 
-[DESIGN](#design) | [VFX](#vfx) | [MEDIA](#media) | [3D](#3D) | [INNERARCHITECTURE](#inner) | [ART](#art)
-
-# Design
-
-![IMAGE](/images/DESIGN1.jpg)
-
-lorem ipsum
-
+[VFX](#vfx) | [DESIGN](#design) | [INNERARCH](#innerarch) | [3D](#3D) | [MEDIA](#media) | [ART](#art)
 
 # Vfx
 
@@ -20,10 +13,15 @@ lorem ipsum
 
 lorem ipsum
 
+# Design
 
-# InnerArchitecture
+![IMAGE](/images/DESIGN1.jpg)
 
-![IMAGE](/images/INNER1.jpg)
+lorem ipsum
+
+# Innerarch
+
+![IMAGE](/images/INNER1.jpeg)
 
 lorem ipsum
 
@@ -31,6 +29,12 @@ lorem ipsum
 # 3D
 
 ![IMAGE](/images/3D1.jpg)
+
+lorem ipsum
+
+# Media
+
+![MEDIA](/images/BASE.jpg)
 
 lorem ipsum
 
