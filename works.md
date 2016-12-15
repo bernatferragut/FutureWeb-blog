@@ -21,7 +21,7 @@ lorem ipsum
 
 # Arch
 
-![IMAGE](/images/INNER1.jpeg)
+![IMAGE](/images/ARCH1.jpg)
 
 lorem ipsum
 
