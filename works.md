@@ -5,7 +5,12 @@ permalink: /works/
 
 >Visual Design Works Selection
 
-[VFX](#vfx) | [DESIGN](#design) | [INNERARCH](#innerarch) | [3D](#3D) | [MEDIA](#media) | [ART](#art)
+[VFX](#vfx) 
+[DESIGN](#design) 
+[INNERARCH](#innerarch) 
+[FUTURA](#futura) 
+[PRODUCT](#product) 
+[ART](#art)
 
 # Vfx
 
@@ -25,23 +30,15 @@ lorem ipsum
 
 lorem ipsum
 
+# Product
 
-# 3D
-
-![IMAGE](/images/3D1.jpg)
-
-lorem ipsum
-
-# Media
-
-![MEDIA](/images/BASE.jpg)
+![PRODUCT](/images/PRODUCT1.jpg)
 
 lorem ipsum
-
 
 # Art
 
-![IMAGE](/images/BASE.jpg)
+![IMAGE](/images/ART1.jpg)
 
 lorem ipsum
 
