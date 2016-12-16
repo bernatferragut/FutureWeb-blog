@@ -15,6 +15,8 @@ permalink: /vr/
 
 ### Objectives
 
+> Move in 3D through a Maze. Find a Key that opens the door to Finish the Experience. Movement through FPV and Waypoints.
+
 ![IMAGE](/images/P3.jpg)
 
 ### Code
@@ -59,13 +61,26 @@ public class Door : MonoBehaviour
 
 ![IMAGE](/images/P3b.jpg)
 
-### Conclusions
+### Aims
+
+1. Play with physics attched to the Main Camera
+2. Move between autowalk and teleport to see the potential effects combining both at the same time
+3. Inclusion and experimentation with waypoints to move between certain places where crossing is difficult
+4. Apply game logic to go from place to place and taking objects to open doors
+5. General Sound / and object especific inclusion
+6. Simple Interaction.
+7. Fun to play and really immersive because of the maze proportions
+8. A positive first moving experience inside VR
+9. Important feedback that gives as important clues about how to approach the next projects
 
 lorem ipsum
 
 # Planets
 
 ### Objectives
+
+> Follow the planet's translations in the universe while learning the names of each one orbits around you.
+
 
 ![IMAGE](/images/P2.jpg)
 
@@ -118,13 +133,22 @@ public class UniversalNameChanger : MonoBehaviour
 
 ```
 
-### Conclusions
+### Aims
 
-lorem ipsum
+1. Insert real textures to the scene.
+2. Create sort of photorealism .
+3. Inclusion of camera effect LensFlare when looking at the sun.
+4. We can see which planet we are looking at when gazing over through a script.
+5. Great Immersion.
+6. Simple Interaction.
+7. You can have real feeling of the distances and proportions of the different planets.
+8. More than a game is a learning experience.
 
 # Distances
 
 ### Objectives
+
+> Get a first 'feeling' of the 3D filed of view in VR and see which are the best distances to interact with objects.
 
 ![IMAGE](/images/P1a.jpg)
 
@@ -148,9 +172,13 @@ public class cubeScript : MonoBehaviour
 
 ![IMAGE](/images/P1b.jpg)
 
-### Conclusions
+### Aims
 
-lorem ipsum
+1. Presence
+2. 3D Positionnement
+3. Shapes and Colors
+4. Simple Interaction
+5. Feedback checkslist 5 Positionnement 6 Distances 7 Sizes and Colors 8 Interaction
 
 
 
