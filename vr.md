@@ -5,7 +5,7 @@ permalink: /vr/
 
 >Visual Design Works Selection
 
-[3.MAZE](#maze)|[2.PLANETS](#planets)|[1.DISTNCES](#distances)
+[3.MAZE](#maze)|[2.PLANETS](#planets)|[1.DISTANCES](#distances)
 
 # Maze
 
