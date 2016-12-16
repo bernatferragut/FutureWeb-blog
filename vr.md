@@ -2,8 +2,7 @@
 title: VR
 permalink: /vr/
 ---
-
-# VR PROJECTS
+> VR Projects
 
 1. Learn and understand VR fundamentals
 2. Made with Unity & coded in C#
