@@ -13,32 +13,32 @@ In VR, designers have diverse skills: 3D, Prototyping, Interaction Design, Visua
 
 ![IMAGE](/images/VFX1.jpg)
 
-> I have been Lead 3D Previz/Layout in diverse AAA 3D Stereoscopic Films so I understand well how Stereoscopy is created.
+> I have been 3D Lead 'Previz/Layout' in diverse AAA 3D Stereoscopic Films so I understand well how 3D and Stereoscopy works.
 
 ## Design
 
 ![IMAGE](/images/DESIGN1.jpg)
 
-> I have been done Renders for Engineers, Architects and Industrial designers for years mainly with Maya Autodesk.
+> I have been making Renders for Engineers, Architects and Industrial designers for years mainly with Maya Autodesk.
 
 ## Arch
 
 ![IMAGE](/images/ARCH1.jpg)
 
-> I have been designed and built 2 Eco Houses and the inside furniture. Real work from conception to product.
+> I have designed and built 2 Eco Houses and some of their inside furniture. Real 3D work from conception to product.
 
 ## Product
 
 ![PRODUCT](/images/PRODUCT1.jpg)
 
-> I have been designing products and branding them for several years with very good and happy results.
+> I have been designing products and branding them for several years always with 'simple and clean' design in mind.
 
 ## Art
 
 ![IMAGE](/images/ART1.jpg)
 
-> When I have time I Print Art. The process of bringing from the computer to real paper is very fullfiling. 
-> From VR1 to VR2 :)
+> From time to time I get involved in the process of Art Printing. 
+> The process of bringing from the computer to real paper is very fullfiling. From VR1 to VR2 :)
 
 
 
