@@ -30,7 +30,7 @@ using UnityEngine;
 
 public class Door : MonoBehaviour 
 {
-	// Create a boolean value called "locked" that can be checked in Update() 
+	// Create a boolean value called "locked" that can be checked in Update()::
 	public bool unlocked = false;
 	public Vector3 fullyRaised ;
 	public GameObject bravo;
