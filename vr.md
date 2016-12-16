@@ -72,14 +72,12 @@ public class Door : MonoBehaviour
 8. A positive first moving experience inside VR
 9. Important feedback that gives as important clues about how to approach the next projects
 
-lorem ipsum
 
 # Planets
 
 ### Objectives
 
 > Follow the planet's translations in the universe while learning the names of each one orbits around you.
-
 
 ![IMAGE](/images/P2.jpg)
 
@@ -144,6 +142,7 @@ public class UniversalNameChanger : MonoBehaviour
 6. Simple Interaction.
 7. You can have real feeling of the distances and proportions of the different planets.
 8. More than a game is a learning experience.
+
 
 # Distances
 
