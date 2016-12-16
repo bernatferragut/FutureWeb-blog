@@ -9,19 +9,22 @@ permalink: /vr/
 
 # Maze
 
-![IMAGE](/images/VFX1.jpg)
+![IMAGE](/images/P3.jpg)
+![IMAGE](/images/P3b.jpg)
 
 lorem ipsum
 
 # Planets
 
-![IMAGE](/images/DESIGN1.jpg)
+![IMAGE](/images/P2.jpg)
+![IMAGE](/images/P2b.jpg)
 
 lorem ipsum
 
 # Distances
 
-![IMAGE](/images/ARCH1.jpg)
+![IMAGE](/images/P1a.jpg)
+![IMAGE](/images/P1b.jpg)
 
 lorem ipsum
 
