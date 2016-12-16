@@ -133,6 +133,8 @@ public class UniversalNameChanger : MonoBehaviour
 
 ```
 
+![IMAGE](/images/P2b.jpg)
+
 ### Aims
 
 1. Insert real textures to the scene.
