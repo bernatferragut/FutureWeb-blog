@@ -1,6 +1,6 @@
 ---
-title: Works
-permalink: /works/
+title: Viual
+permalink: /visual/
 ---
 
 >Visual Design Works Selection
