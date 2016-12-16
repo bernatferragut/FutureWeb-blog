@@ -45,8 +45,10 @@ kramdown:
 nav:
   - name:           "About"
     url:            "/about"
-  - name:           "Works"
-    url:            "/works"   
+  - name:           "VR"
+    url:            "/vr"  
+  - name:           "Visual"
+    url:            "/visual"  
   - name:           "Archive"
     url:            "/archive"
   - name:           "Tags"
