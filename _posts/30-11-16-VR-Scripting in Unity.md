@@ -952,5 +952,27 @@ public class Loving : MonoBehaviour
     }
 }
 ```
+> **23. Instantitaion**
+
+```c#
+using UnityEngine;
+using System.Collections;
+
+public class Instantitaion : MonoBehaviour
+{
+    public Rigidbody rocketPrefab;
+    public Transform barrelEnd;
+    public float speed;
+
+    void Update()
+    {
+        if(Input.GetButtonDown("Fire1"))
+        {
+            Rigidbody rocketInstance;
+            rocketInstance = Instantiate(rocketPrefab, barrelEnd.transform, barrelEnd.rotation);
+            rocketInstance.AddForce(barrelEnd.forward * speed);
+        }
+    }
+}
 
 
