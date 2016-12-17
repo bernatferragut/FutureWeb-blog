@@ -180,8 +180,3 @@ public class cubeScript : MonoBehaviour
 4. Simple Interaction
 5. Feedback checkslist 5 Positionnement 6 Distances 7 Sizes and Colors 8 Interaction
 
-
-
-
-
-
