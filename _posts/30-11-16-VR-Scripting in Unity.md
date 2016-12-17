@@ -975,4 +975,16 @@ public class Instantitaion : MonoBehaviour
     }
 }
 
+using UnityEngine;
+using System.Collections;
+
+public class RocketsDestruction : MonoBehaviour
+{
+    void Start()
+    {
+        Destroy(gameObject, 1.5f);//after 1.5 seconds
+    }
+}
+```
+
 
