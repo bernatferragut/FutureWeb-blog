@@ -3,9 +3,9 @@ title: Visual
 permalink: /visual/
 ---
 
->Visual Design Works Selection
+>Visual Design Works
 
-In VR, designers have diverse skills: 3D, Prototyping, Interaction Design, Visual Design, Inner Architecture, Motion, Audio, Research as some examples. Here I present a 'broad' palette of skills in the design field that I can appply to new VR Experiences. 
+In VR, designers have diverse skills: 3D, Prototyping, Interaction Design, Visual Design, Inner Architecture, Motion, Audio and Research are some examples. They were 'different hats'. Following I present a 'broad' palette of skills in the design field that I can appply to the new VR Experiences field. 
 
 [VFX](#vfx)|[DESIGN](#design)|[ARCH](#arch)|[PRODUCT](#product)|[ART](#art)
 
