@@ -22,12 +22,12 @@ body {
 }
 
 .content-container {
-  max-width: 48rem;
+  max-width: 38rem;
   padding: 2rem 1.5rem;
   margin-left:  auto;
   margin-right: auto;
 
-  @media (min-width: 48rem){
+  @media (min-width: 38rem){
     padding: 5rem 1rem;
   }
 }
