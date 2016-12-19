@@ -171,10 +171,12 @@ blockquote {
 
 code,
 pre {
+  white-space: pre;
   font-family: $code-font;
 }
 
 code {
+  white-space: pre;
   padding: .25em .5em;
   font-size: 85%;
   color: $code-color;
@@ -183,6 +185,7 @@ code {
 }
 
 pre {
+  white-space: pre;
   display: block;
   margin-top: 0;
   margin-bottom: 1rem;
@@ -197,6 +200,7 @@ pre {
 }
 
 pre code {
+  white-space: pre;
   padding: 0;
   font-size: 100%;
   color: inherit;
