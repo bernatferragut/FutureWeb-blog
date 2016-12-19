@@ -43,7 +43,7 @@ In VR, designers have diverse skills: 3D, Prototyping, Interaction Design, Visua
 
 ![IMAGE](/images/CODE.png)
 
-> Coding is getting more and more interesting because of the limitless capabilities.
+> Coding is limitless. Coding can bre really fun!
 
 [Javascript pens](http://codepen.io/elbernat/)
 
