@@ -987,4 +987,25 @@ public class RocketsDestruction : MonoBehaviour
 }
 ```
 
+> **24. Arrays**
+
+```C#
+using UnityEngine;
+using System.Collections;
+
+public class Arrays : MonoBehaviour
+{
+    public GameObject[] players;
+
+    void Start()
+    {
+        players = GameObject.FindGameObjectsWithTag("player");
+
+        for (i=0; i<players.Length; i++)
+        {
+            Debug.Log("Player Number" +i+" is named" + players[i].name);            
+        }
+    }
+}
+```
 
