@@ -85,7 +85,7 @@ public class Door : MonoBehaviour
 
 > An example of Interaction design script from the 'Planets'.
 
-```c#
+````c#
 using UnityEngine;
 using System.Collections;
 
@@ -128,7 +128,7 @@ public class UniversalNameChanger : MonoBehaviour
 	}
 }
 
-```
+````
 
 ![IMAGE](/images/P2b.jpg)
 
