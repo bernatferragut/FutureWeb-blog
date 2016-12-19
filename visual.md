@@ -15,8 +15,6 @@ In VR, designers have diverse skills: 3D, Prototyping, Interaction Design, Visua
 
 > 3D Lead 'Previz/Layout' experience in diverse AAA 3D Stereoscopic Films. I understand well how 3D and Stereoscopy works.
 
-[ National Geographic's: Sea Monster's](http://www.nationalgeographic.com/seamonsters/)
-
 ## Design
 
 ![IMAGE](/images/DESIGN1.jpg)
@@ -29,15 +27,11 @@ In VR, designers have diverse skills: 3D, Prototyping, Interaction Design, Visua
 
 > Design, planning, direction and completion of 2 'Real' Eco Houses including some of their inside furniture.
 
-[ Inner Architecture ](http://lechantierdubonheur.blogspot.com/)
-
 ## Product
 
 ![PRODUCT](/images/PRODUCT1.jpg)
 
 > Experience as a designer & researcher branding products for several years always with 'simple and clean' design in mind.
-
-[ Branding Product ](http://www.laptitebrulerie.com/)
 
 ## Art
 
@@ -45,15 +39,7 @@ In VR, designers have diverse skills: 3D, Prototyping, Interaction Design, Visua
 
 > From time to time I get involved in the process of Art Printing. From 2D/3D conception to final Print.
 
-## Code
 
-<p data-height="265" data-theme-id="0" data-slug-hash="grZLap" data-default-tab="js,result" data-user="elbernat" data-embed-version="2" data-pen-title="THOUGHTS NUMBER" class="codepen">See the Pen <a href="https://codepen.io/elbernat/pen/grZLap/">THOUGHTS NUMBER</a> by Bernat Ferragut (<a href="http://codepen.io/elbernat">@elbernat</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
-
-<p data-height="265" data-theme-id="0" data-slug-hash="PGVLpr" data-default-tab="js,result" data-user="elbernat" data-embed-version="2" data-pen-title="The Game of Life" class="codepen">See the Pen <a href="https://codepen.io/elbernat/pen/PGVLpr/">The Game of Life</a> by Bernat Ferragut (<a href="http://codepen.io/elbernat">@elbernat</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
-
-> Javascript codepens
 
 
 
