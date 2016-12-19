@@ -171,12 +171,10 @@ blockquote {
 
 code,
 pre {
-  white-space: pre;
   font-family: $code-font;
 }
 
 code {
-  white-space: pre;
   padding: .25em .5em;
   font-size: 85%;
   color: $code-color;
@@ -185,7 +183,6 @@ code {
 }
 
 pre {
-  white-space: pre;
   display: block;
   margin-top: 0;
   margin-bottom: 1rem;
@@ -193,7 +190,6 @@ pre {
   font-size: .8rem;
   line-height: 1.4;
   white-space: pre;
-  white-space: pre-wrap;
   word-break: break-all;
   // word-wrap: break-word;
   background-color: $code-background-color;
