@@ -39,30 +39,24 @@ in New Technologies focusing in VR, their impact in our society and the way we c
   * UNITY
 * 3D Software
   * Maya
-  * Sketchup
-  * Voxel Magic
 * UX Design
   * Sketch
 * 2D Design
-  * Photoshop
-  * Illustrator
-  * In Design
-  * Premiere
+  * Adobe Suite
   
 >PROGRAMMING LANGUAGES
 
 * General
-  * Python
   * C#
+  * Python
 * Internet
   * HTML / CSS / Javascript
   
 >NATURAL LANGUAGES
 
 * English
-* Spanish
+* Spanish / Catalan
 * French
-* Catalan
 * German
 
 ## Interest
