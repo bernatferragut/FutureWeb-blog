@@ -44,7 +44,7 @@ Here I present the main points of his most recent video about it.[VR Michael Abr
 
 ## In Depth
 
-###FOV
+### FOV
 To achieve a 4K x 4K we will have to achieve: 'foveted rendering'.
 
 This is a technique where only the tiny portion of the image that lands 
@@ -52,14 +52,14 @@ on the fovea—the only part of the retina that can see significant detail—is
 rendered at full quality, with the rest blending to a much lower fidelity 
 (massively reducing rendering requirements).
 
-###EYE TRACKING
+### EYE TRACKING
 Estimating the position of the fovea requires “virtually perfect” eye tracking, 
 which Abrash describes as “not a solved problem at all” due to the variability of pupils, 
 eyelids, and the complexities of building a system that works across the full range 
 of eye motion for a broad userbase. But as it is so critical, Abrash believes it will be 
 tackled in five years, but admits it has the highest risk factor among his predictions.
 
-###VIRTUAL SOUND
+### VIRTUAL SOUND
 In addition, he expects advancements to the modelling of reflection, 
 diffraction and interference patterns will improve sound propagation to a more realistic
 level. Accurate audio is arguably even more complex than visual improvement due to the 
@@ -67,7 +67,7 @@ discernible effect of the speed of sound; despite these impressive advancements,
 real-time virtual sound propagation will likely remain simplified well beyond five years, 
 as it is so computationally expensive.
 
-###CONTROLLERS
+### CONTROLLERS
 On controllers, Abrash believes hand-held motion devices like Oculus Touch could remain 
 the default interaction technology “40 years from now”. Ergonomics, functionality and 
 accuracy will no doubt improve over that period, but this style of controller could well 
@@ -77,13 +77,13 @@ represent precise hand movements in VR, and particularly useful for expressive a
 and for simple interactions that don’t require holding a Touch-like controller, 
 such as web browsing or launching a movie.
 
-###HEADSETS
+### HEADSETS
 Headsets will be lighter in five years, with better weight distribution. 
 Plus, he says, they should have more convenient handling of prescription correction 
 (perhaps a bonus improvement that comes with depth of focus technology). 
 Most significantly, at the high end, VR headsets will become wireless.
 
-###AUGMENTED REALITY (AR)
+### AUGMENTED REALITY (AR)
 “Augmented VR”would scan your real environment to be rendered convincingly in the headset, 
 or it could place you in another scanned environment. This could serve as the ultimate 
 mixed-reality ‘chaperone’ system for confidently moving around your real space, 
@@ -95,7 +95,7 @@ with others, but staying on the right side of the uncanny valley will still be t
 in five years he believes. It could be decades before anyone gets close to feeling they 
 are in the presence of a “true human” in VR.
 
-###DREAMWORK SPACE
+### DREAMWORK SPACE
 Abrash revisited his “dream workspace” he discussed last year, with unlimited whiteboards, 
 monitors, or holographic displays in any size and configuration, instantly switchable 
 depending on the task at hand, for the most productive work environment possible. 
