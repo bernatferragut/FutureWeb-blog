@@ -12,35 +12,35 @@ share: true
 
 > Michael Abrash 
 
-Michael Abrash, writer of the classic graphics programming [Black Book](http://giant.pourri.ch/Graphics%20Programming%20Black%20Book/Graphics%20Programming%20Black%20Book.pdf)  
-and Oculus Chief Scientist, did very good predictions in the 2014 article: [What VR could, should and certainly will be in the next 2 years](http://media.steampowered.com/apps/abrashblog/Abrash%20Dev%20Days%202014.pdf)
+Michael Abrash, writer of the classic graphics programming [Black Book](http://giant.pourri.ch/Graphics%20Programming%20Black%20Book/Graphics%20Programming%20Black%20Book.pdf)  and Oculus Chief Scientist, 
+did very good predictions in his 2014 article: [What VR could, should and certainly will be in the next 2 years](http://media.steampowered.com/apps/abrashblog/Abrash%20Dev%20Days%202014.pdf).
 
-As what seems that it's starting to be a 'tradition', in his last Oculus Connect presentation has again thown his
-visionary but realistic predictions about where VR will be in the next 5 years. 
+As what seems it's starting to be a 'tradition', in his last Oculus Connect presentation has again thrown his
+visionaries and realistic predictions about where VR will be in the next 5 years. 
 
 Here I present the main points of his most recent video about it.[VR Michael Abrash Presentation](https://youtu.be/AtyE5qOB4gw)
 
 >Massive improvements in VR hardware and software over just five years will make current headsets seem like "something out of pre-history"
 
 ## 1.Panel Resolution
-Today: **1200 x 1080**
-In 5 years: **4K x 4K**
-What humans are capable of: **NA**
+* Today: **1200 x 1080**
+* In 5 years: **4K x 4K**
+* What humans are capable of: **NA**
 
 ## 2.Pixel Density
-Today: **15 pixels/degree**
-In 5 years: **30 pixels/degree**
-What humans are capable of: **120 pixels/degree**
+* Today: **15 pixels/degree**
+* In 5 years: **30 pixels/degree**
+* What humans are capable of: **120 pixels/degree**
 
 ## 3.Field of View
-Today: **90 degrees**
-In 5 years: **140 degrees**
-What humans are capable of: **220-320 degrees**
+* Today: **90 degrees**
+* In 5 years: **140 degrees**
+* What humans are capable of: **220-320 degrees**
 
 ## 4.Depth of Field
-Today: **fixed at 2m**
-In 5 years: **variable**
-What humans are capable of: **variable**
+* Today: **fixed at 2m**
+* In 5 years: **variable**
+* What humans are capable of: **variable**
 
 ## In Depth
 
@@ -67,7 +67,7 @@ discernible effect of the speed of sound; despite these impressive advancements,
 real-time virtual sound propagation will likely remain simplified well beyond five years, 
 as it is so computationally expensive.
 
-##CONTROLLERS
+###CONTROLLERS
 On controllers, Abrash believes hand-held motion devices like Oculus Touch could remain 
 the default interaction technology “40 years from now”. Ergonomics, functionality and 
 accuracy will no doubt improve over that period, but this style of controller could well 
@@ -77,13 +77,13 @@ represent precise hand movements in VR, and particularly useful for expressive a
 and for simple interactions that don’t require holding a Touch-like controller, 
 such as web browsing or launching a movie.
 
-##HEADSETS
+###HEADSETS
 Headsets will be lighter in five years, with better weight distribution. 
 Plus, he says, they should have more convenient handling of prescription correction 
 (perhaps a bonus improvement that comes with depth of focus technology). 
 Most significantly, at the high end, VR headsets will become wireless.
 
-##AUGMENTED REALITY (AR)
+###AUGMENTED REALITY (AR)
 “Augmented VR”would scan your real environment to be rendered convincingly in the headset, 
 or it could place you in another scanned environment. This could serve as the ultimate 
 mixed-reality ‘chaperone’ system for confidently moving around your real space, 
@@ -95,7 +95,7 @@ with others, but staying on the right side of the uncanny valley will still be t
 in five years he believes. It could be decades before anyone gets close to feeling they 
 are in the presence of a “true human” in VR.
 
-##DREAMWORK Space
+###DREAMWORK SPACE
 Abrash revisited his “dream workspace” he discussed last year, with unlimited whiteboards, 
 monitors, or holographic displays in any size and configuration, instantly switchable 
 depending on the task at hand, for the most productive work environment possible. 
