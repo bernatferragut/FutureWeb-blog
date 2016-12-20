@@ -799,7 +799,7 @@ public class DatatypeScript : MonoBehaviour
 }
 ```
 
-> **22. HowClassesWork**
+> **21. HowClassesWork**
 
 ```c#
 using UnityEngine;
@@ -952,7 +952,7 @@ public class Loving : MonoBehaviour
     }
 }
 ```
-> **23. Instantitaion**
+> **22. Instantitaion**
 
 ```c#
 using UnityEngine;
@@ -987,7 +987,7 @@ public class RocketsDestruction : MonoBehaviour
 }
 ```
 
-> **24. Arrays**
+> **23. Arrays**
 
 ```C#
 using UnityEngine;
@@ -1009,7 +1009,7 @@ public class Arrays : MonoBehaviour
 }
 ```
 
-> **25. Invoke**
+> **24. Invoke**
 
 ```C#
 using UnityEngine;
@@ -1049,7 +1049,7 @@ public class InvokeRepeating : MonoBehaviour
     }
 }
 ```
-> **26. Enumerations**
+> **25. Enumerations**
 
 ```C#
 using UnityEngine;
@@ -1080,7 +1080,7 @@ public class Enumscript : MonoBehaviour
     }
 }
 ```
-> **27. Switch**
+> **26. Switch**
 
 ```C#
 using UnityEngine;
@@ -1116,3 +1116,4 @@ public class Switch : MonoBehaviour
     }
 }
 ```
+> **End of Scripts as Behaviours Components**
