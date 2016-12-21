@@ -27,7 +27,7 @@ in New Technologies focusing in VR, their impact in our society and the way we c
 ## Work
 
 * UX / Visual Designer - Freelance -  [Bernat Ferragut](http://bernatferragut.co/)
-* 3D / Layout / Previz Designer / Steroscopic AAA Films - [DamnFX Montreal](#)
+* 3D / Layout / Previz Designer / Steroscopic AAA Films - [DamnFX Montreal](https://www.youtube.com/watch?v=0OZCyVEFVyY)
 * 3D / Visual Designer / Engineering Marketing Dept - [3TControl](http://3tcontrol.com/en/company.php)
 * 3D Maya Instructor - Teacher and Project Manager - [Image and Sound High School](http://www.cev.com/)
 
