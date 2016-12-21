@@ -22,6 +22,8 @@ Here I present the main points of his most recent video about it.[VR Michael Abr
 
 >Massive improvements in VR hardware and software over just five years will make current headsets seem like "something out of pre-history"
 
+![abrash](https://cloud.githubusercontent.com/assets/17754060/21386839/2344ea1c-c74b-11e6-8976-f8b9527aacf4.jpg)
+
 ## 1.Panel Resolution
 * Today: **1200 x 1080**
 * In 5 years: **4K x 4K**
