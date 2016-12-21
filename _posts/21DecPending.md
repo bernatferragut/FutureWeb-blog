@@ -2,7 +2,7 @@
 Not yet Set
 ---
 
-## Intermediate Gameplay Scripting Guide in C#
+## Intermediate Gameplay Scripting Guide in Csharp#
 
 > **01. Properties**
 
@@ -43,6 +43,18 @@ public class Player : MonoBehaviour
     }
     //This is an example of an autoimplemented property
     public int Health{ get; set;};
+}
+
+public class Game : MonoBehaviour
+{
+    void Start()
+    {
+        Player mPlayer = new Player();
+
+        //Properties can be used just like variables
+        mPlayer.Experience = 5;
+        int x = mPlayer.Experience;
+    }
 }
 
 ```
