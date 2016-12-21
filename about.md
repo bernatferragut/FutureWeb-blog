@@ -15,7 +15,7 @@ in New Technologies focusing in VR, their impact in our society and the way we c
 ## Specializations
 
 * VR Nanodegree in UX/VR - [Udacity](https://www.udacity.com/course/vr-developer-nanodegree--nd017)
-* Python Programming - [Universisty of Michigan](https://www.coursera.org/specializations/python)
+* Python Programming - [University of Michigan](https://www.coursera.org/specializations/python)
 * UX Design - [Interaction Design Foundation](https://www.interaction-design.org)
 * 3D Design & Animation - [Image and Sound High School](http://www.cev.com/)
 
