@@ -103,6 +103,22 @@ public class Enemy
    }
 }
 
+public class 
+{
+   public class Game
+   {
+       void Start()
+       {
+           Enemy enemy1 = new Enemy();
+           Enemy enemy2 = new Enemy();
+           Enemy enemy3 = new Enemy();
+
+           //You can access a static varaible by using
+           //the class and the dot operator
+           int x = Enemy.enemyCount;
+       }
+   }
+}
 
 
 
