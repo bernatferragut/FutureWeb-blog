@@ -134,6 +134,15 @@ public class Player : MonoBehaviour
    }
 }
 
+public class PlayerManager : MonoBehaviour
+{
+   void Start()
+   {
+       //You can access a static variable using the class
+       //name and the dot operator.
+       int x = Player.playerCount;
+   }
+}
 
 
 
