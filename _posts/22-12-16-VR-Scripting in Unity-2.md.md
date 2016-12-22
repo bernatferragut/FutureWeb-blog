@@ -12,7 +12,7 @@ share: true
 
 > **01. Properties**
 
-```C#
+```c#
 using UnityEngine;
 using System.Collections;
 
@@ -67,7 +67,7 @@ public class Game : MonoBehaviour
 
 > **02. TernaryOperator**
 
-```C#
+```c#
 using UnityEngine;
 using System.Collections;
 
@@ -86,7 +86,7 @@ public class TernaryOperator : MonoBehaviour
 ```
  > **03. Statics**
 
-```C#
+```c#
 using UnityEngine;
 using System.Collections;
 
