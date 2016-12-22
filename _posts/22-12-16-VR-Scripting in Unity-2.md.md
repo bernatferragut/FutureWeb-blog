@@ -1,5 +1,11 @@
 ---
-Not yet Set
+layout: post
+title: "VR - Scripting in Unity-2"
+description: "Intermediate C# Scripting in Unity"
+date: 2016-12-22
+tags: [virtual reality, unity]
+comments: true
+share: true
 ---
 
 ## Intermediate Gameplay Scripting Guide in Csharp#
