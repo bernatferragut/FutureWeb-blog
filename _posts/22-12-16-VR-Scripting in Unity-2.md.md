@@ -84,7 +84,24 @@ public class TernaryOperator : MonoBehaviour
     }
 }
 ```
+ > **03. Statics**
 
+```C#
+using UnityEngine;
+using System.Collections;
+
+public class Enemy
+{
+   //Static variables are shared across all instances of a class
+   public static int enemmyCount = 0;
+
+   public Enemy()
+   {
+       //Increment the static variable to know how many
+       //objects of this class have been created
+       enemmyCount++;
+   }
+}
 
 
 
