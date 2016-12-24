@@ -303,3 +303,34 @@ public class Fruit
         Debug.Log("Hello, I am a fruit");
     }
 }
+
+using UnityEngine;
+using System.Collections;
+
+//This is the derived class which is
+//also known as the Child class.
+public class Apple : Fruit
+{
+    //This is the first constructor for the Apple class.
+    //It calls the parent constructor immediately, even
+    //before it runs.
+    public Apple()
+    {
+        //Notice how Apple has access to the public variable
+        //color, which is a part of the Fruit Class.
+        color = "red";
+        Debug.Log("first Apple constructor called);
+    }
+
+
+    //This is the second constructor for the Apple class.
+    //It specifies which parent constructor will be called
+    //using the "base" keyword.
+    public Appl(string newColor) : base(newColor)
+    {
+        //Notice how this constructor does not set the color
+        //since the base constructor sets the coloe that 
+        //is passed as an arguments.
+        Debug.Log("2nd Apple Constructor Called");
+    }
+}
