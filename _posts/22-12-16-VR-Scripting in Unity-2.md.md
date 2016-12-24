@@ -265,3 +265,41 @@ public class GenericClassExample : MonoBehaviour
     }
 }
 ```
+> **05. Inheritance**
+
+```C#
+using UnityEngine;
+using System.Collections;
+
+//This is a base class which is
+//also known as the parent class
+public class Fruit
+{
+    public string color;
+
+    //This is the first constructor for the Fruit class
+    //ans is not inherited by any derived classes.
+    public Fruit()
+    {
+        color = "orange";
+        Debug.Log("1st Fruit Constructor Called");
+    }
+
+    //This is a second constructor for the fruit class
+    //and is not inherited by any derived classes.
+    public Fruit(string newColor)
+    {
+        color = newColor;
+        Debug.Log("2nd Fruit Constructor called");
+    }
+
+    public void Chop()
+    {
+        Debug.Log("The" + color + "fruit has been chopped");
+    }
+
+    public void SayHello()
+    {
+        Debug.Log("Hello, I am a fruit");
+    }
+}
