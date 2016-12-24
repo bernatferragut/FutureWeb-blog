@@ -334,3 +334,47 @@ public class Apple : Fruit
         Debug.Log("2nd Apple Constructor Called");
     }
 }
+
+using UnityEngine;
+using System.Collections;
+
+public class FruitSalad : MonoBehaviour
+{
+    void Start()
+    {
+        //Let's illustrate inheritance with the
+        //default constructors.
+        Debug.Log("Creating a Fruit");
+        Fruit myFruit = new Fruit();
+        Debug.Log("Creating the Apple");
+        Apple myApple = new Apple();
+
+        //Call the methods on the Fruit class.
+        myFruit.SayHello();
+        myFruit.Chop();
+
+        //Now let's illustrate inheritance with the 
+        //constructors that read in a string.
+        Debug.Log("Creating the fruit");
+        myFruit = new Fruit("yellow");
+        Debug.Log("Creating the apple");
+        myApple = new Apple("green");
+        
+        //Call the methods of the Fruit class.
+        myFruit.SayHello();
+        myFruit.Chop();
+
+        //Call the methods of theh Apple class.
+        //Notice how class Apple has access to all
+        //of the public methods of class Fruit.
+        myApple.SayHello();
+        myApple.Chop();
+
+        //Call the methods of the Apple class.
+        //Notice how ckass Apple has access to all
+        //of the public methods of the class Fruit.
+        myApple.SayHello();
+        myApple.Chop();
+    }
+}
+```
