@@ -203,6 +203,7 @@ public class SomeOtherClass : MonoBehaviour
 ```
 > **05. Generics**
 
+
 ```c#
 using UnityEngine;
 using System.Collections;
@@ -267,13 +268,12 @@ public class GenericClassExample : MonoBehaviour
 ```
 > **06. Inheritance**
 
+
 ```c#
 using UnityEngine;
 using System.Collections;
 
-//This is a base class which is
-//also known as the parent class
-public class Fruit
+public classs Fruit
 {
     public string color;
 
@@ -376,6 +376,7 @@ public class FruitSalad : MonoBehaviour
 
 > **07. Polymorphism**
 
+
 ```c#
 using UnityEngine;
 using System.Collections;
@@ -456,6 +457,7 @@ public class FruitSalad : MonoBehaviour
 }
 ```
 > **08. MemberHiding**
+
 
 ```c#
 using UnityEngine;
