@@ -304,8 +304,6 @@ public class Fruit
     }
 }
 
-using UnityEngine;
-using System.Collections;
 
 //This is the derived class which is
 //also known as the Child class.
@@ -334,9 +332,6 @@ public class Apple : Fruit
         Debug.Log("2nd Apple Constructor Called");
     }
 }
-
-using UnityEngine;
-using System.Collections;
 
 public class FruitSalad : MonoBehaviour
 {
