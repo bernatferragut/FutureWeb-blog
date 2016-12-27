@@ -165,7 +165,7 @@ public class  UtilitiesExample : MonoBehaviour
    }
 }
 ```
-> **03. MethodOverloading**
+> **04. MethodOverloading**
 
 ```c#
 using UnityEngine;
@@ -201,7 +201,7 @@ public class SomeOtherClass : MonoBehaviour
     }
 }
 ```
-> **04. Generics**
+> **05. Generics**
 
 ```c#
 using UnityEngine;
@@ -265,9 +265,9 @@ public class GenericClassExample : MonoBehaviour
     }
 }
 ```
-> **05. Inheritance**
+> **06. Inheritance**
 
-```C#
+```c#
 using UnityEngine;
 using System.Collections;
 
@@ -379,9 +379,9 @@ public class FruitSalad : MonoBehaviour
 }
 ```
 
-> **06. Polymorphism**
+> **07. Polymorphism**
 
-```C#
+```c#
 using UnityEngine;
 using System.Collections;
 
@@ -462,7 +462,7 @@ public class FruitSalad : MonoBehaviour
 ```
 > **08. MemberHiding**
 
-```C#
+```c#
 using UnityEngine;
 using System.Collections;
 
