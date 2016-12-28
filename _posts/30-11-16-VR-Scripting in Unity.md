@@ -799,7 +799,7 @@ public class DatatypeScript : MonoBehaviour
 }
 ```
 
-> **22. HowClassesWork**
+> **21. HowClassesWork**
 
 ```c#
 using UnityEngine;
@@ -952,7 +952,7 @@ public class Loving : MonoBehaviour
     }
 }
 ```
-> **23. Instantitaion**
+> **22. Instantitaion**
 
 ```c#
 using UnityEngine;
@@ -987,7 +987,7 @@ public class RocketsDestruction : MonoBehaviour
 }
 ```
 
-> **24. Arrays**
+> **23. Arrays**
 
 ```C#
 using UnityEngine;
@@ -1009,7 +1009,7 @@ public class Arrays : MonoBehaviour
 }
 ```
 
-> **25. Invoke**
+> **24. Invoke**
 
 ```C#
 using UnityEngine;
@@ -1049,4 +1049,71 @@ public class InvokeRepeating : MonoBehaviour
     }
 }
 ```
+> **25. Enumerations**
 
+```C#
+using UnityEngine;
+using System.Collections;
+
+public class Enumscript : MonoBehaviour
+{
+    enum Direction {North, East, South, West};
+
+    void Start()
+    {
+        Direction myDirection;
+        myDirection = Direction.North;
+    }
+
+    Direction ReverseDirection (Direction dir)
+    {
+        if(dir==Direction.North)
+            dir = Direction.South;
+        else if(dir==Direction.South)
+            dir = Direction.North;
+        else if(dir==Direction.East)
+            dir = Directio.West;
+        else if(dir==)Direction.West)
+            dir = Direction.East;
+        
+        return dir;
+    }
+}
+```
+> **26. Switch**
+
+```C#
+using UnityEngine;
+using System.Collections;
+
+public class Switch : MonoBehaviour
+{
+    public int intelligence = 5;
+
+    void Greet()
+    {
+        switch(intelligence)
+        {
+            case 5:
+                print("Super Intelligent");
+                break;
+            case 4:
+                print("Very Intelligent");
+                break;
+            case 3:
+                print("Intelligent");
+                break;
+            case 2:
+                print("Not so much");
+                break;
+            case 1:
+                print("mmmhhh");
+                break;
+            default:
+                print("Incorrect Intelligence level");
+                break;
+        }
+    }
+}
+```
+> **End of Scripts as Behaviours Components**
