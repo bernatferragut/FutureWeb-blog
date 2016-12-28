@@ -853,6 +853,200 @@ public class HowClassesWork : MonoBehaviour
         }
     }
 }
+
+// Here we do the same HowClassesWork but in 3 different scripts
+public class Inventory : MonoBehaviour
+{
+    public class Stuff
+    {
+        public int bullets;
+        public int grenades;
+        public int rockets;
+        public float fuel;
+
+         // Constructor 1
+        public Stuff()
+        {
+            bullets = 1;
+            grenades = 1;
+            rockets = 1;
+        }
+        // Constructor 2
+        public Stuff(int bul, int, gre, int roc);
+        {
+            bullets = bul;
+            grenades = gre;
+            rockets = roc;
+        }
+        // Constructor 3
+        public Stuff(int bul, float fu)
+        {
+            bullets = bul;
+            fuel = fu;
+        }
+    }
+
+    // Creating an Instance (an Object) of the Stuff class
+    public Stuff myStuff = new Stuff(50, 5, 5);
+
+    public Stuff myOtherStuff = new Stuff(50, 1.5f);
+
+    void Start()
+    {
+        Debug.Log(myStuff.bullets);
+    }
+}
+
+using UnityEngine;
+using System.Collections;
+
+public class MovementControls : MonoBehaviour
+{
+    public float speed;
+    public float turnSpeed;
+
+    void Update()
+    {
+        Movement();
+    }
+
+    voidMovement()
+    {
+        float forwardMovement = Input.GetAxis("Vertical")*speed*Time.deltaTime;
+        float turnMovement = Input.GetAxis("Horizontal")*turnSpeed*time.deltaTime;
+
+        transform.Translate(Vector3.forward*forwardMovement);
+        transform.Rotate(Vector3.up*turnMovement);
+    }
+}
+
+using UnityEngine;
+using System.Collections;
+
+public class Loving : MonoBehaviour
+{
+    public Rigidbody bulletPrefab;
+    public Transform firePosition;
+    public float bulletSpeed;
+
+    private Inventory inventory;
+
+    void Awake()
+    {
+        inventory = GetComponent<Inventory>();
+    }
+
+    void Update()
+    {
+        Shoot();
+    }
+
+    void Shoot()
+    {
+        if(Input.GetButtonDown("Fire1")&& inventory.myStuff.bullets > 0)
+        {
+            Rigidbody bulletInstance = Instantiate(bulletPrefab, firePosition.position, firePosition.rotation)as Rigidbody;
+            bulletInstance.AddForce(firePosition.position * bulletSpeed);
+            inventory.myStuff.bullets--;
+        }
+    }
+}
+```
+> **23. Instantitaion**
+
+```c#
+using UnityEngine;
+using System.Collections;
+
+public class Instantitaion : MonoBehaviour
+{
+    public Rigidbody rocketPrefab;
+    public Transform barrelEnd;
+    public float speed;
+
+    void Update()
+    {
+        if(Input.GetButtonDown("Fire1"))
+        {
+            Rigidbody rocketInstance;
+            rocketInstance = Instantiate(rocketPrefab, barrelEnd.transform, barrelEnd.rotation);
+            rocketInstance.AddForce(barrelEnd.forward * speed);
+        }
+    }
+}
+
+using UnityEngine;
+using System.Collections;
+
+public class RocketsDestruction : MonoBehaviour
+{
+    void Start()
+    {
+        Destroy(gameObject, 1.5f);//after 1.5 seconds
+    }
+}
 ```
 
+> **24. Arrays**
+
+```C#
+using UnityEngine;
+using System.Collections;
+
+public class Arrays : MonoBehaviour
+{
+    public GameObject[] players;
+
+    void Start()
+    {
+        players = GameObject.FindGameObjectsWithTag("player");
+
+        for (i=0; i<players.Length; i++)
+        {
+            Debug.Log("Player Number" +i+" is named" + players[i].name);            
+        }
+    }
+}
+```
+
+> **25. Invoke**
+
+```C#
+using UnityEngine;
+using System.Collections;
+
+public class Invoke : MonoBehaviour
+{
+    public GameObject target;
+
+    void Start()
+    {
+        Invoke("SpawnObject", 2); // 2 sec delay
+    }
+
+    void SpawnObject()
+    {
+        Instantiate(target, new Vector3(0, 2, 0), Quaternion.identity);
+        // You can only invoke void Functions
+    }
+}
+
+public class InvokeRepeating : MonoBehaviour
+{
+    public GameObject target;
+
+    void Start()
+    {
+        InovkeRepeat("SpawnObject", 2, 1);
+        // delay in sec after first spawn, and between them
+    }
+
+    void SpawnObject()
+    {
+        float x = Random.Range(-2.0f, 2.0f);
+        float z = Random.Range(-2.0f, 2.0f);
+        Instantiate(target, new Vector3(x, 2, z), Quaternion.identity);
+    }
+}
+```
 

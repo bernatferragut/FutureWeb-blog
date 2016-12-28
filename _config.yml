@@ -16,7 +16,7 @@ author:
 
 # Google-analytics
 google-analytics:
-  id:               ""
+  id:               "72270438"
 
 # Disqus
 disqus:
@@ -45,8 +45,12 @@ kramdown:
 nav:
   - name:           "About"
     url:            "/about"
-  - name:           "Works"
-    url:            "/works"
+  - name:           "VR"
+    url:            "/vr"  
+  - name:           "Visual"
+    url:            "/visual"
+  - name:           "Codpen"
+    url:            "http://codepen.io/elbernat/"
   - name:           "Archive"
     url:            "/archive"
   - name:           "Tags"
