@@ -600,10 +600,7 @@ public class FruitSalad : MonoBehaviour
 
 > **10. Interfaces**
 
-```C#
-using UnityEngine;
-using System.Collections;
-
+```c#
 using UnityEngine;
 using System.Collections;
 
@@ -639,5 +636,4 @@ public class Avatar : MonoBehaviour, IKillable, IDamageable<float>
         //Do something fun
     }
 }
-
 ```
