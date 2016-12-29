@@ -13,19 +13,23 @@ share: true
 
 > A Visionary Scientist supporting the VR nature of reality
 
-I discovered Tom Campbell in 2008, and read his trilogy [My BIG TOE](https://www.my-big-toe.com/) that same Summer and during the 
-Summer of 2009. At the time, I was already shocked by his vision that the nature of reality is purely VR and the fact that 'consciousness' is the 
-the 'Computer we live in'.
+I discovered Tom Campbell in 2008, and read his trilogy [My BIG TOE](https://www.my-big-toe.com/) during that same Summer and the Summer of 2009. 
+
+At the time, I was really absorved and shocked by his vision that the nature of reality is purely VR. Mainly by the fact that 'the consciousness' is the the 'Computer we live in'.
 
 The years have passed and as he predicted, his theory is taking place as a 'philosophical' and 'physical' view of the reality.
-The more I keep listening to him I understand why is so important that we understand and approach the future of VR understanding
-that there is un underlying AIM in the evolution of this new technology. 
 
-The AIM might seem strange, but it's beautiful and profound. We are here in this reality to decrease 'ENHROPY' or said in other words:
-TO LOVE. It's about the OTHER and not about OURSELVES. I do believe is very important the VR Community discovers him because he can
-help us drive the technology in a more 'cosntructive' way. Yes it's about PLAY, games and VR Experience but...deep inside it's About Love.
+The more I keep listening to him I get why is so important that we understand and approach the future of VR with a vision  of un underlying AIM in the evolution of this new technology. 
 
-Could not be better. Welcome to Tom Campbell's BIG TOE.
+The AIM might seem strange, but it's beautiful and profound. 
+
+We are here in this reality to decrease the 'ENHROPY' of the main system or said in other words: TO LOVE. 
+
+It's about the OTHER and not about OURSELVES. 
+
+I do believe is very important the VR Community discovers him because he can help us drive the technology in a more 'cosntructive' way. **Yes it's about Play, games and VR Experience but...deep inside it's About Love.**
+
+Could not be better. ** Welcome to Tom Campbell's BIG TOE.**
 
 ![tril-cover-for-web](https://cloud.githubusercontent.com/assets/17754060/21545056/d218a320-cdaa-11e6-868b-2cd573b1838e.jpg)
 
