@@ -48,7 +48,7 @@ The My Big TOE trilogy develops a complete derivation (in outline) of consciousn
 
 Since its publication, My Big Toe has garnered an international following with Campbell’s videos, as of December 31, 2015 having had more than 2 million views on YouTube and 309 videos of his lectures, public appearances, interviews, and fireside chats explaining fundamentals, nuances, implications and applications of his theory. He continues to lecture around the world, holding workshops on M.B.T., teaching workshops on the principles of simulation theory and speaking at conferences on the topic of consciousness.[8]
 
-## Recommended Videos to introduce to his Teory
+## Recommended Videos to introducing his Teory
 
 1.[VR Theory Introduction](https://www.youtube.com/watch?v=fT8LaMrn_MM)
 
