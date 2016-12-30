@@ -13,11 +13,11 @@ share: true
 
 > A Visionary Scientist supporting the VR nature of reality
 
-I discovered Tom Campbell in 2008, and read his trilogy [My BIG TOE](https://www.my-big-toe.com/) during that same Summer and the Summer of 2009. 
+I discovered Tom Campbell in 2008, and red throgh his trilogy [My BIG TOE](https://www.my-big-toe.com/) during that same Summer and the Summer of 2009. 
 
-At the time, I was really absorved and shocked by his vision that the nature of reality is purely VR. Mainly by the fact that 'the consciousness' is the the 'Computer we live in'.
+At the time, I was really absorved and profoundly shocked by his 'vision' that the nature of reality is purely VR. Mainly by the fact that 'the consciousness' is the the 'Computer we live in'.
 
-The years have passed and as he predicted, his theory is taking place as a 'philosophical' and 'physical' view of the reality.
+The years have passed and as he 'predicted', his theory is taking place as a 'philosophical' and 'physical' view of the reality. Against the traditional Science he is putting into place a theory that merges things like relativity and quantum physics for the first time. But How ? Well, because under his point of view we live in a Virtual Simulated Reality.
 
 The more I keep listening to him I get why is so important that we understand and approach the future of VR with a vision  of un underlying AIM in the evolution of this new technology. 
 
