@@ -598,3 +598,81 @@ public class FruitSalad : MonoBehaviour
 }
 ```
 
+> **10. Interfaces**
+
+```c#
+using UnityEngine;
+using System.Collections;
+
+//This is a basic interface with a single required
+//method.
+public interface IKillable
+{
+    void Kill();
+}
+
+//This is a generic interface where T is a placeholder
+//for a data type that will be provided by the 
+//implementing class.
+public interface IDamageable<T>
+{
+    void Damage(T damageTaken);
+}
+
+using UnityEngine;
+using System.Collections;
+
+public class Avatar : MonoBehaviour, IKillable, IDamageable<float>
+{
+    //The required method of the IKillable interface
+    public void Kill()
+    {
+        //Do something fun
+    }
+    
+    //The required method of the IDamageable interface
+    public void Damage(float damageTaken)
+    {
+        //Do something fun
+    }
+}
+```
+> **11. Extension Methods**
+
+```c#
+using UnityEngine;
+using System.Collections;
+
+//It is common to create a class to contain all of your
+//extension methods. This class must be static.
+public static class ExtensionMethods
+{
+    //Even though they are used like normal methods, extension
+    //methods must be declared static. Notice that the first
+    //parameter has the 'this' keyword followed by a Transform
+    //variable. This variable denotes which class the extension
+    //method becomes a part of.
+    public static void ResetTransformation(this Transform trans)
+    {
+        trans.position = Vector3.zero;
+        trans.localRotation = Quaternion.identity;
+        trans.localScale = new Vector3(1, 1, 1);
+    }
+}
+
+using UnityEngine;
+using System.Collections;
+
+public class SomeClass : MonoBehaviour 
+{
+    void Start () {
+        //Notice how you pass no parameter into this
+        //extension method even though you had one in the
+        //method declaration. The transform object that
+        //this method is called from automatically gets
+        //passed in as the first parameter.
+        transform.ResetTransformation();
+    }
+}
+
+```
