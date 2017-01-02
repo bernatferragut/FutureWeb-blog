@@ -23,6 +23,7 @@ We immerse the person into a loft with real measures and give them the possibili
 > An example of Interaction design script from the 'Loft'.
 
 #### ManagerScript
+
 ```c#
 using UnityEngine;
 using System.Collections;
@@ -33,7 +34,9 @@ public class ManagerScript : MonoBehaviour
 	public int dislikes;
 }
 ```
+
 #### SimpleLoad
+
 ```c#
 using UnityEngine;
 using UnityEngine.UI;
@@ -72,7 +75,9 @@ public class SimpleLoad : MonoBehaviour
 }
 
 ```
+
 #### SimpleSave
+
 ```c#
 using UnityEngine;
 using System.Collections;
@@ -91,7 +96,9 @@ public class SimpleSave : MonoBehaviour
 }
 
 ```
+
 #### Likes
+
 ```c#
 using UnityEngine;
 using System.Collections;
@@ -110,7 +117,9 @@ public class Likes : MonoBehaviour
 	}
 }
 ```
+
 ![end](https://cloud.githubusercontent.com/assets/17754060/21591995/e4e255ea-d0df-11e6-88fb-7ed78bb0dbe9.png)
+
 
 # Maze
 
