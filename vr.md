@@ -8,21 +8,21 @@ permalink: /vr/
 2. Made with Unity & coded in C#
 3. Made with GoogleVr SDK and for Android platform
 
-[1.LOFT](#loft)[2.MAZE](#maze)|[3.PLANETS](#planets)|[4.DISTANCES](#distances)
+[1.LOFT](#loft)|[2.MAZE](#maze)|[3.PLANETS](#planets)|[4.DISTANCES](#distances)
 
 # Loft
 
 ### Objectives
 
-The idea is to immerse the person into a 'real measures' loft and to give the possibility of Like/Dislike certain items and parts of the loft. Once the person has visited upstairs and downstairs we can see which are the objects that he/she liked and the ones he/she disliked through the use of a mini realtime DB in VR.
+We immerse the person into a loft with real measures and give them the possibility to Like/Dislike certain items in it. Once the person has visited upstairs and downstairs we can see which are the objects that he/she liked and the ones he/she disliked through the use of a mini realtime DB in VR.
 
 ![intro](https://cloud.githubusercontent.com/assets/17754060/21591996/e4e36066-d0df-11e6-8146-827f9b2e7819.png)
 
 ### Code
 
-> An example of Interaction design script from the 'Maze'.
+> An example of Interaction design script from the 'Loft'.
 
-###typeWriterEffect
+#### typeWriterEffect
 
 ```c#
 using UnityEngine;
@@ -52,9 +52,7 @@ public class typeWriterEffect : MonoBehaviour
 	}
 }
 ```
-==================
-###ManagerScript
-
+#### ManagerScript
 ```c#
 using UnityEngine;
 using System.Collections;
@@ -65,9 +63,8 @@ public class ManagerScript : MonoBehaviour
 	public int dislikes;
 }
 ```
-==================
-###SimpleLoad
 
+#### SimpleLoad
 ```c#
 using UnityEngine;
 using UnityEngine.UI;
@@ -106,9 +103,8 @@ public class SimpleLoad : MonoBehaviour
 }
 
 ```
-==================
-###SimpleSave
 
+#### SimpleSave
 ```c#
 using UnityEngine;
 using System.Collections;
