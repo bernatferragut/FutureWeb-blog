@@ -23,11 +23,11 @@ The more I keep listening to him the more I get why is so important to understan
 
 The AIM might seem strange, but it's beautiful and profound. 
 
-We are here in this reality to decrease the 'ENHROPY' of the main system or said in other words: TO LOVE. 
+We are here in this reality to decrease the 'ENTHROPY' of the main system or said in other words: TO LOVE. 
 
 It's about the OTHER and not about OURSELVES. 
 
-I do believe is very important the VR Community discovers him because he can help us drive the technology in a more 'cosntructive' way. **Yes it's about Play, games and VR Experience but...deep inside it's About Love.**
+I do believe is very important the VR Community discovers him because he can help us drive the technology in a more 'Cosntructive' way. **Yes it's about Play, games and VR Experience but...deep inside it's About Love.**
 
 Could not be better. ** Welcome to Tom Campbell's BIG TOE.**
 
