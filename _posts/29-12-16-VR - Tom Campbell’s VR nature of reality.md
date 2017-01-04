@@ -17,9 +17,9 @@ I discovered Tom Campbell in 2008, and read through his trilogy [My BIG TOE](htt
 
 At the time, I was really absorved and profoundly shocked by his 'vision' that the nature of reality is purely VR. Mainly by the fact that 'the consciousness' is the 'Computer we live in'.
 
-The years have passed and as he 'predicted', his theory is taking place as a 'philosophical' and 'physical' view of the reality. Against the 'traditional' Science, he is putting into place a theory that merges things like Relativity and Quantum Physics for the first time. But How ? Well, because under his point of view we live in a Virtual Simulated Reality, and this is the only way we can explain two different and oppsite theories.
+The years have passed and as he 'predicted', his theory is taking place as a 'philosophical' and 'physical' view of the reality. Against the 'traditional' Science, he is putting into place a theory that merges things like Relativity and Quantum Physics for the first time. But How ? Well, because under his point of view we live in a Virtual Simulated Reality, and this is the only way we can explain two different and opposite theories.
 
-The more I keep listening to him I get why is so important that we understand and approach the future of VR with a vision  of un underlying AIM in the evolution of this new technology. 
+The more I keep listening to him the more I get why is so important to understand and approach the future of VR with a 'VISION and AIM' on how it works the 'VR Rule Set' so we can impact for the better the evolution of this new technology. 
 
 The AIM might seem strange, but it's beautiful and profound. 
 
