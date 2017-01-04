@@ -27,9 +27,9 @@ We are here in this reality to decrease the 'ENTHROPY' of the main system or sai
 
 It's about the OTHER and not about OURSELVES. 
 
-I do believe is very important the VR Community discovers him because he can help us drive the technology in a more 'Cosntructive' way. **Yes it's about Play, games and VR Experience but...deep inside it's About Love.**
+I do believe it's very important the VR Community discovers him because he can help us drive the technology in a more 'Cosntructive' way. **Yes it's about Play, Yes it's about games and about VR Experience but...deep inside it's About Love.**
 
-Could not be better. ** Welcome to Tom Campbell's BIG TOE.**
+Couldn't be better, isn't it true? . ** Welcome to Tom Campbell's BIG TOE.**
 
 ![tril-cover-for-web](https://cloud.githubusercontent.com/assets/17754060/21545056/d218a320-cdaa-11e6-868b-2cd573b1838e.jpg)
 
