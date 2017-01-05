@@ -801,3 +801,34 @@ public class SomeOtherClass : MonoBehaviour
 }
 
 ```
+
+> **14. Coroutines**
+
+```c#
+using UnityEngine;
+using System.Collections;
+
+public class CoroutinesExample : MonoBhaviour
+{
+    public float smoothing = 1f;
+    public Transform target;
+
+    void Start()
+    {
+        StartCoroutine(MyCoroutine(target));
+    }
+
+    IEnumerator MyCoroutine (Transform target)
+    {
+        while(Vector3.Distance(transform.post, target.post) > 0.05f)
+        {
+            transform.position = Vector3.Ler(transform.position, target.position, smoothing * Time.deltaTime);
+            yield return null;
+        }
+    
+        print("Reached the target");
+        yield return new WaitForSeconds(3f);
+        print("MyCoroutine is now finished");
+    }
+}
+
