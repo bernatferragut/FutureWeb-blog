@@ -933,3 +933,15 @@ public class GravityScript : MonoBehaviour
         transform.Translate(0,0,3 *Time.deltaTime);
     }
 }
+
+using UnityEngine;
+using System.Collections;
+
+public class SomeClass : MonoBehaviour 
+{   
+    void Update () 
+    {
+        transform.rotation = Quaternion.identity;
+    }
+}
+```
