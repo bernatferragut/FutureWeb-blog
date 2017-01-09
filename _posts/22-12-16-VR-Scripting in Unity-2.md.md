@@ -945,3 +945,33 @@ public class SomeClass : MonoBehaviour
     }
 }
 ```
+> **13. Delegates**
+
+```c#
+using UnityEngine;
+using System.Collections;
+
+namespace DelegateScript : MonoBhaviour
+{
+    Delegate  void MyDelegate(int num);//function pattern def
+    MyDelegate myDelegate;//We pass functions through delegates
+
+    void Start()
+    {
+        myDelegate = PrintNum;//we assign the function to delegate
+        myDelegate(50);//Execution
+
+        myDelegate = DoubleNum;
+        myDelegate(50)
+    }
+
+    void PrintNum(int num)
+    {
+        print("Print Num: " + num);
+    }
+
+    void DoubleNum(int num)
+    {
+        print("Double Num: " + num * 2);
+    }
+}
