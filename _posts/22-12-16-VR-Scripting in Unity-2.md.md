@@ -1007,3 +1007,24 @@ namespace MultiCastScript : MonoBhaviour
 }
 
 ```
+
+> **17. Attributes**
+
+```c#
+using UnityEngine;
+using System.Collections;
+
+namespace SpinScript :MonoBhaviour
+{
+    [Range(-100, 100])]
+    public int speed = 0;
+
+    void Update()
+    {
+        transform.Rotate(new Vector3(0, speed * Time.deltaTime, 0);
+    }
+}
+
+
+
+```
