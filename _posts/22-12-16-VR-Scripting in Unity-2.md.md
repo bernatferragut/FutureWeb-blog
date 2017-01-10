@@ -945,7 +945,7 @@ public class SomeClass : MonoBehaviour
     }
 }
 ```
-> **13. Delegates**
+> **16. Delegates**
 
 ```c#
 using UnityEngine;
