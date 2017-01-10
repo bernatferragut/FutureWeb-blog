@@ -1026,5 +1026,16 @@ namespace SpinScript :MonoBhaviour
 }
 
 
+using UnityEngine;
+using System.Collections;
+
+[ExecuteEditMode]
+public class ColorScript : MonoBhaviour
+{
+    void Start()
+    {
+        renderer,sharedMaterial.color = Color.red;
+    }
+}
 
 ```
