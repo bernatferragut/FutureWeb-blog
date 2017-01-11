@@ -1,6 +1,6 @@
 ---
-title: About
-permalink: /about/
+title: Bernat
+permalink: /bernat/
 ---
 
 > A brief description of Bernat Ferragut
