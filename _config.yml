@@ -43,8 +43,8 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
-    url:            "/about"
+  - name:           "Bernat"
+    url:            "/bernat"
   - name:           "VR"
     url:            "/vr"  
   - name:           "Visual"
