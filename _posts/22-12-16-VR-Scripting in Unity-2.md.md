@@ -1039,3 +1039,23 @@ public class ColorScript : MonoBhaviour
 }
 
 ```
+> **18. Events**
+
+```c#
+using UnityEngine;
+using System.Collections;
+
+namespace EventManager :MonoBhaviour
+{
+   public delegate void ClickAction(); // Delegate declaration
+   public static event ClickAction OnClicked; // event declaration
+
+   void OnGUI()
+   {
+       if(GUI.Button(new Rect(Screen.width / 2 -50, 5, 100, 30), "Click"))
+       {
+           if(OnClicked != null)
+            OnClicked();
+       }
+   }
+}
