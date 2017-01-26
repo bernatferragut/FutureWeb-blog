@@ -1,8 +1,6 @@
-
----
 ---
 layout: post
-title: "VR - Storytelling in VR : my take"
+title: "VR - Storytelling in the New Medium : My take"
 description: "The importance of understanding what means VR in Storytelling"
 date: 2017-01-26
 tags: [design, virtual reality, storytelling]
