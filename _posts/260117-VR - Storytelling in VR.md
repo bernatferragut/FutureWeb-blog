@@ -8,9 +8,9 @@ comments: true
 share: true
 ---
 
-### Great Minds talking about VR Storytelling
+## Great minds talking about VR storytelling
 
-## ED CATMULL - Pixar Cofounder
+### ED CATMULL - Pixar Cofounder
 
 > "It's good buit it's not Storytelling (Linear Storytelling). The fact that you have changed the technology,
 and people are excited about it, doesn't change the underlying difficulty of the compelling narrative story. 
@@ -21,7 +21,7 @@ a very clear purpose. You are not just wandering around in the world. ( pretty t
 
 > " Games is a very successful. It's its own art form though, and it's not the same as linear narrative."
 
-### ROBERT STROMBERG - Oscar winning director & VFX Specialised ( worked with Sodebergs, Scorsese and Spielberg )
+### ROBERT STROMBERG - Oscar winning director & VFX Specialised
 
 > Creator of the " Martian VR Experience" and VRC Director
 
