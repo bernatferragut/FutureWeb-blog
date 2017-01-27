@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VR - Storytelling in the New Medium : My take"
+title: "VR - Storytelling in the New Medium : Part1"
 description: "The importance of understanding what means VR in Storytelling"
 date: 2017-01-26
 tags: [design, virtual reality, storytelling]
@@ -8,21 +8,17 @@ comments: true
 share: true
 ---
 
+### Great Minds talking about VR Storytelling
 
-###  VR Storytelling > Thoughts about the new medium
-===============================================
+## Ed Catmull - Pixar Cofounder
 
-1. Linear Storytelling vs NonLinear Storytelling
->  Examples
-2. Cinema Storytelling vs Game Storytelling
->  Examples
-3. The truth of Interaction ( this is a function of that)
-4. Interaction through Programming - The Key
-5. Gaming as a broader meaning
-6. The future of VR Storytelling / Trends
->  Examples
-7. Indie vs Big Productions
+> "It's good buit it's not Storytelling (Linear Storytelling). The fact that you have changed the technology,
+and people are excited about it, doesn't change the underlying difficulty of the compelling narrative story. 
+Just as books are not the same thigs as movies. They don't have to be."
 
-===============================================
+> "Linear narrative is an artfully directed telling of a story, where the lighting and the sound is all for 
+a very clear purpose. You are not just wandering around in the world. ( pretty tough one sir)"
 
-![Unity Classes](https://docs.unity3d.com/Manual/ScriptingImportantClasses.html)
+> " Games is a very successful. It's its own art form though, and it's not the same as linear narrative."
+
+### Robert Stromberg - VFX Specialised ( wokred with Sodebergs, Socrsese and Spielberg )
