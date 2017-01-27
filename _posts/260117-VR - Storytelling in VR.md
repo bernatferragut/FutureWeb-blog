@@ -32,3 +32,5 @@ I think that's going to be the definition of how you tell a story: Are you an ob
 
 > " One of the biggest things I learned from The Martian was that the brain was so tuned in that you had to make sure the horizon was accurate. Otherwise your mind tells you something's wrong. There was one portion where people had an uncomfortable feeling, but when we cracked the horizon issue it went away. So everything is still being wind tunnel tested. Over time we'll learn what does and doesn't make somebody comfortable. I think maybe there'll be a rating system for VR where you'll know going in what level you're comfortable with. "
 
+> "In VR we have to have enough entertainment value and enough content out there for people so it's an ongoing and growing part of people's daily lives."
+
