@@ -28,14 +28,14 @@ that when properly understood ( YES, you need to learn how to code OOP in 'C#') 
 
 We can imagine the Tree as the 'Process of design' and the Fruits as it's 'Artifacts or consecuences'.
 
-1. Design is a 'noun' and a 'verb'
+1.Design is a 'noun' and a 'verb'
 
-2. If you are a designer you DO design as an action
+2.If you are a designer you DO design as an action
 
 > Design is the process of human centered problem solving. Resolve problems FOR humans. Why? of the solution first.
 > The collection of delightful artifacts produced at the end of that process can be also design.
 
-3. The best design products have a tight iteration between design ( the WHY ) and ingeneering ( the HOW ).
+3.The best design products have a tight iteration between design ( the WHY ) and ingeneering ( the HOW ).
 
 ![creativity](https://cloud.githubusercontent.com/assets/17754060/22469441/6fae8c2e-e7a2-11e6-81ae-9cda3b6b5416.png)
 
