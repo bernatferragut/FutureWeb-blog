@@ -21,7 +21,8 @@ that when properly understood ( YES, you need to learn how to code OOP in 'C#') 
 
 > This gentlemen, Mr.Rick Barraza, seems to be the man who wants to point out how to use Unity with a different mindset than the classical gameOriented one where Art, Design and Creativity play a new role. Let's have a look on his interesting thoughts and advices.
 
-### [Rick Barraza](http://rbarraza.com/) (Design strategy and creative engineering at Microsoft)
+### [Rick Barraza](http://rbarraza.com/) 
+####(Design strategy and creative engineering at Microsoft)
 
 ### What is Design?
 
