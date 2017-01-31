@@ -8,7 +8,9 @@ comments: true
 share: true
 ---
 
-### Creative Coding
+![creativity](https://cloud.githubusercontent.com/assets/17754060/22469057/0cb0561c-e7a1-11e6-80a4-03fb77a18e3d.png)
+
+## Creative Coding
 
 > Since back in the action script Flash days, creative coding has been changing from platform to platform.
 More recently Programming languages like ![Processing](https://processing.org/)( Java inpsired ) and Ps5 ![P5js](https://p5js.org/)( Javascript based ) have made 
@@ -21,7 +23,7 @@ that when properly understood ( yes you need to learn how to code OOP in C#) the
 > This gentlemen, Rick Barraza seems to be the man who wants to point out how to use Unity with a different mindset than the
 classical gameOriented one where Art, Design and Creativity play a new role. 
 
-## ![Rick Barraza ](http://rbarraza.com/) (Design strategy and creative engineering at Microsoft)
+### ![Rick Barraza ](http://rbarraza.com/) (Design strategy and creative engineering at Microsoft)
 
 ### What is Design?
 
