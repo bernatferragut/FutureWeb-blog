@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-![creativity](https://cloud.githubusercontent.com/assets/17754060/22469057/0cb0561c-e7a1-11e6-80a4-03fb77a18e3d.png)
+![unity](https://cloud.githubusercontent.com/assets/17754060/22469440/6fa92b08-e7a2-11e6-93c2-4b2f661d5a2d.png)
 
 ## Creative Coding
 
@@ -37,6 +37,8 @@ We can imagine the Tree as the 'Process of design' and the Fruits as it's 'Artif
 > The collection of delightful artifacts produced at the end of that process can be also design.
 
 3. The best design products have a tight iteration between design ( the WHY ) and ingeneering ( the HOW ).
+
+![creativity](https://cloud.githubusercontent.com/assets/17754060/22469441/6fae8c2e-e7a2-11e6-81ae-9cda3b6b5416.png)
 
 ### What is Creativity?
 
@@ -76,3 +78,9 @@ A type of computer Programming where the goal is:
 2. Here the difference between Engeneering Software and Creative Coding
 
 3. Code as a 'second language' that enables to express your passion with code as the modern medium today.
+
+### MORE?
+
+> If there is ONE site that can bring up your creative coding skills with Unity and C# is this one:
+![CATLIKE CODING ](http://catlikecoding.com)
+
