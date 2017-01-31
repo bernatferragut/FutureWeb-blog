@@ -13,13 +13,13 @@ share: true
 ## Creative Coding
 
 > Since back in the ActionScript Flash days, creative coding has been changing from platform to platform.
-More recently Programming languages like [Processing](https://processing.org/)( Java inpsired ) and Ps5 [P5js](https://p5js.org/)( Javascript based ) have made great improvements on how to implement creative coding with the new technologies.
+More recently Programming languages like [Processing](https://processing.org/)( Java inspired ) and Ps5 [P5js](https://p5js.org/)( Javascript based ) have made great improvements in how to implement creative coding with new technologies.
 
-> Recently, because my main interests are VR and Creative Coding, I found out how big is the lack of creative coding projects
+> Recently, because my main interest is VR and Creative Coding, I found out how big is the lack of creative coding projects
 in the 3D Unity platform. The possibilities with Unity are amazing and I do agree is kind of the 'new Flash' or the new tool
-that when properly understood ( YES, you need to learn how to code OOP in 'C#') the possibilities are limitless.
+which when properly understood ( YES, you need to learn how to code OOP in 'C#') the possibilities are limitless.
 
-> This gentlemen, Mr.Rick Barraza, seems to be the man who wants to point out how to use Unity with a different mindset than the classical gameOriented one where Art, Design and Creativity play a new role. Let's have a look on his interesting thoughts and advices.
+> This gentlemen, Mr.Rick Barraza, seems to be the man who wants to point out how to use Unity with a more open mindset than the classical gameOriented ones where Art, Design and Creativity play a new role. Let's have a look on his interesting thoughts and advices.
 
 ### [Rick Barraza](http://rbarraza.com/)
 > Design strategy and creative engineering at Microsoft
