@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VR - Unity:  Creative Coding"
-description: "var unity = new Flash()"
+description: "var unity = new Flash();"
 date: 2017-01-31
 tags: [design, virtual reality, unity, creative coding]
 comments: true
