@@ -8,6 +8,8 @@ comments: true
 share: true
 ---
 
+![vuforiatest](https://cloud.githubusercontent.com/assets/17754060/22897205/ac781030-f201-11e6-97d4-243c6a0378e5.jpg)
+
 # AR - Vuforia Platform
 
 ## First impressions
@@ -17,7 +19,7 @@ difference between a Prius and a Volt, one it's an electric-gas hybrid and the o
 a full electric one.
 
 Exactly because this reason I have hesitated to enter and fiddle with AR for sometime
-but recently and thanks to some excellent tutorials from ![MatthewHallberg](https://www.youtube.com/channel/UClm2DY6pj3ygKoKhEVr7KFw) on the youtube channel
+but recently and thanks to some excellent tutorials from [MatthewHallberg](https://www.youtube.com/channel/UClm2DY6pj3ygKoKhEVr7KFw) on the youtube channel
 I decided to give it a try.
 
 > Note on the used versions
@@ -48,3 +50,5 @@ elements in our reality to help, entertain and hopefully make us happier are eno
 Happy to say that, I expected less and I will give it more chances in the near future.
 
 Give it a try :) 
+
+![vuf2](https://cloud.githubusercontent.com/assets/17754060/22897203/abb19702-f201-11e6-89c3-b42784ce56e6.jpg)
