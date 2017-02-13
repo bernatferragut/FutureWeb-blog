@@ -2,7 +2,7 @@
 layout: post
 title: "AR - Vuforia SDK for Unity"
 description: "First impression on using the Vuforia SDK for Unity"
-date: 2017-13-02
+date: 2017-02-13
 tags: [design, augmented reality, googleVR, unity]
 comments: true
 share: true
