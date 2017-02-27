@@ -10,6 +10,8 @@ share: true
 
 #### Future WEB
 
+![webvr](https://cloud.githubusercontent.com/assets/17754060/23359051/3f5dddc8-fcc3-11e6-8b37-4dd50eeb4448.png)
+
 # From Unity to WebVR
 
 ### 6 Months of Experimentation
@@ -60,7 +62,7 @@ Obviously at this stage Web VR is at it's 'infancy'. But after the first librari
 WebVR is an experimental JavaScript API that provides access to Virtual Reality devices, 
 such as the Oculus Rift, HTC Vive, Samsung Gear VR, or Google Cardboard, in your browser.
 
-## to WebVR .... to A AFrame
+## to WebVR .... and A AFrame
 
 WebVR is starting to put the standards for the Web. And new libraries like the Mozilla AFrame are giving for the first time the possibility to create relatively simple VR content. It's in it's infancy, it's not the 'high graphics super reollercoaster style' you might be imagining from The big Dogs of the Industry but:
 
@@ -68,6 +70,8 @@ WebVR is starting to put the standards for the Web. And new libraries like the M
 1 - It's on the Web, it's Universal ( everybody can access to it)
 2 - It's Cheap ( Everybody with a PC or Mobile can enjoy it)
 3 - It's Simple and now available ( with a bright Future )
+
+![aframe](https://cloud.githubusercontent.com/assets/17754060/23359052/412dd66c-fcc3-11e6-8cfc-cb08afa22d78.jpg)
 
 >[A-Frame](https://aframe.io/)
 A web framework for building virtual reality experiences
