@@ -80,5 +80,3 @@ with HTML and Entity-Component ecosystem. Works on Vive, Rift, desktop, mobile p
 ### The Future is Here
 
 I do believe this is the direction VR will take in the following months and years. Web VR will take over slowly but in a solid way, making small steps, first just as an option the traditional 2D Web and slowly building up to AR and VR. Tofay with great frameworks like Angular 2 and JS supersets like Typescript we can add these new VR frameworks and start experimenting and changing the web to one we can imagine. Its a great time for the Web, it's a great time for VR, it's a great time for All of us.
-
- ======================================
