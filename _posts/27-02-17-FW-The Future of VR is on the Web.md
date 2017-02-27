@@ -8,18 +8,18 @@ comments: true
 share: true
 ---
 
-#### Future WEB
+# Future WEB
 
-![webvr](https://cloud.githubusercontent.com/assets/17754060/23359051/3f5dddc8-fcc3-11e6-8b37-4dd50eeb4448.png)
+![webvr](https://cloud.githubusercontent.com/assets/17754060/23359355/a34a9cf8-fcc4-11e6-8658-fe5780dafd49.png)
 
-# From Unity to WebVR
+## From Unity to WebVR
 
-### 6 Months of Experimentation
+## 6 Months of Experimentation
 
 The VR movement goes at a fast pace. 
 I wanted to share my thoughts about these last months of learning and experimentation in this 'new world' of VR.
 
-## Unity and Unreal
+### Unity and Unreal
 
 They are the big dogs, and by that I mean they are the ones that produce products for all the big platforms. 
 See: Oculus, HTC Vibe, Hololens...etc. 
@@ -37,13 +37,13 @@ C# is a beautiful Programming language that comes with the best Tooling availabl
 (Although you can program in JS which is also great ). I do think that if you Unity 
 would put some effort in creating a Unity for the Web Environnement would be a big success. Probably they are doing it already...
 
-## Object Oriented Programming VS Component Oriented Programming
+### Object Oriented Programming VS Component Oriented Programming
 
 It's here where lies the main value of Unity. It is programmed with C#, an OOP language that itself is a Component Based Program. Here you can start to see how works the future of programming. Here you can feel that whatever will succed in the future will be Component based. Components are the Present and Future of programs...and the present and the future of evolution is on the web.
 
 > [Component Object Model](https://en.wikipedia.org/wiki/Component_Object_Model)
 
-## From  Three.js ...
+### From  Three.js ...
 
 After some time with Unity I think the future will be:
 
@@ -62,7 +62,7 @@ Obviously at this stage Web VR is at it's 'infancy'. But after the first librari
 WebVR is an experimental JavaScript API that provides access to Virtual Reality devices, 
 such as the Oculus Rift, HTC Vive, Samsung Gear VR, or Google Cardboard, in your browser.
 
-## to WebVR .... and A-Frame
+### to WebVR .... and A-Frame
 
 WebVR is starting to put the standards for the Web. And new libraries like the Mozilla AFrame are giving for the first time the possibility to create relatively simple VR content. It's in it's infancy, it's not the 'high graphics super reollercoaster style' you might be imagining from The big Dogs of the Industry but:
 
@@ -71,13 +71,13 @@ WebVR is starting to put the standards for the Web. And new libraries like the M
 2 - It's Cheap ( Everybody with a PC or Mobile can enjoy it)
 3 - It's Simple and now available ( with a bright Future )
 
-![aframe](https://cloud.githubusercontent.com/assets/17754060/23359052/412dd66c-fcc3-11e6-8cfc-cb08afa22d78.jpg)
+![aframe](https://cloud.githubusercontent.com/assets/17754060/23359358/a472cd94-fcc4-11e6-9181-4a9253bc92c0.jpg)
 
 >[A-Frame](https://aframe.io/)
 A web framework for building virtual reality experiences
 with HTML and Entity-Component ecosystem. Works on Vive, Rift, desktop, mobile platforms.
 
-## The Future is Here
+### The Future is Here
 
 I do believe this is the direction VR will take in the following months and years. Web VR will take over slowly but in a solid way, making small steps, first just as an option the traditional 2D Web and slowly building up to AR and VR. Tofay with great frameworks like Angular 2 and JS supersets like Typescript we can add these new VR frameworks and start experimenting and changing the web to one we can imagine. Its a great time for the Web, it's a great time for VR, it's a great time for All of us.
 
