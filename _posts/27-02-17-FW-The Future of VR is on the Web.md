@@ -62,7 +62,7 @@ Obviously at this stage Web VR is at it's 'infancy'. But after the first librari
 WebVR is an experimental JavaScript API that provides access to Virtual Reality devices, 
 such as the Oculus Rift, HTC Vive, Samsung Gear VR, or Google Cardboard, in your browser.
 
-## to WebVR .... and A AFrame
+## to WebVR .... and A-Frame
 
 WebVR is starting to put the standards for the Web. And new libraries like the Mozilla AFrame are giving for the first time the possibility to create relatively simple VR content. It's in it's infancy, it's not the 'high graphics super reollercoaster style' you might be imagining from The big Dogs of the Industry but:
 
