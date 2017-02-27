@@ -14,53 +14,44 @@ share: true
 
 ### 6 Months of Experimentation
 
-The VR movement goes at a fast pace. In these last months of learning and experimentation in this 'new world' I have learned a few things and 
-I wante to share my thoughts about where things are going to.
+The VR movement goes at a fast pace. 
+I wanted to share my thoughts about these last months of learning and experimentation in this 'new world' of VR.
 
 ## Unity and Unreal
 
-They are the big dogs, and by that I mean they are the ones that produce for all the big platforms. See: Oculus, HTC Vibe, Hololens...etc. 
+They are the big dogs, and by that I mean they are the ones that produce products for all the big platforms. 
+See: Oculus, HTC Vibe, Hololens...etc. 
 I have been learning specifically Unity in these last months and I have to say that is a very well designed Game Engine platform. 
 The main challenge has been to learn a new Programming language, in this case a real OOP language like C#.
 
-Although the learning curve is steep, once you learn how to work with Objects / Components and it's philosophy you can see the great potential
-such a platform. Not easy though, if you come from a stricitly visual design background it will take time but pay in the long run. At end of the 
-day, learnign how Unity works is learning how modern web developement works too: It's all about Components or in Unity's Game Objects.
+Although the learning curve is steep, once you learn how to work with Objects / Components and it's philosophy you can see the great potential of such a platform. I have to say that is not easy though. Coming from a stricitly visual design background it will take time but pay in the long run. At end of the day, learnign how Unity works is learning how modern web developement works too: It's all about Components or in Unity's platform, about Game Objects.
 
 > [Unity](https://unity3d.com)
 > [Unreal](https://www.unrealengine.com/what-is-unreal-engine-4)
 
-C# is a beautiful Programming language that comes with the best Tooling available to code - Visual Studio. And this makes a huge difference when 
-learning to program cause mistakes can be early detected and corrected. Refactoring and Intellisense are amazing tooling that increase your productivity
-from day one.
+C# is a beautiful Programming language that comes with the best Tooling available to code - Visual Studio. And this makes a huge difference when learning to program because mistakes can be early detected and corrected. Refactoring and Intellisense are amazing tools that increase your productivityfrom day one.
 
-> The only problem ? It's a closed software. Meaning is not on the Web.( Altough you can program in JS which is also great ). I do think thatif you Unity 
-would put some effort in creating a Unity for the Web Environnement would be a big success.
+> The only problem ? It's a closed software. Meaning it's not on the Web.
+(Although you can program in JS which is also great ). I do think that if you Unity 
+would put some effort in creating a Unity for the Web Environnement would be a big success. Probably they are doing it already...
 
 ## Object Oriented Programming VS Component Oriented Programming
 
-It's here where lies the main value of Unity. In that is programmed with C#, an OOP language but itself is a Component Based Program. 
-Here you can start to see how works the future of programming. Here you can feel that whatever will succed in the future will be Component based. 
-Components are the Present and future of programs...and the present and the future of evolution is on the web.
+It's here where lies the main value of Unity. It is programmed with C#, an OOP language that itself is a Component Based Program. Here you can start to see how works the future of programming. Here you can feel that whatever will succed in the future will be Component based. Components are the Present and Future of programs...and the present and the future of evolution is on the web.
 
 > [Component Object Model] (https://en.wikipedia.org/wiki/Component_Object_Model)
 
 ## From  Three.js ...
 
-After some time with Unity I have the feeling the future will be:
+After some time with Unity I think the future will be:
 
 1 - OPEN 
 2 - COMPONENT BASED
 3 - WEB MOBILE
 
-It has to be Open, meaning a sort of web based library that gives access to the Universal Web ( JS based and backed with a strong JS 
-superset like TS with it's super tooling ). It has to be Component based, it gives maximum control and flexibility this way of building
-applications. And it has to be Mobile, people want to access to VR Content from anywhere, not only from an expensive private super hightech 
-room that only few can pay for.
+It has to be Open, meaning a sort of web based library that gives access to the Universal Web ( JS based and backed with a strong JS superset like TS with it's super tooling ). It has to be Component based, it gives maximum control and flexibility this way of building applications. And it has to be Mobile, people want to access to VR Content from anywhere, not only from an expensive private super hightech room that only few can pay for.
 
-Obviously at this stage Web VR is at it's 'infancy'. But after the first libraries like 'Three.js' started giving the oportunity to put 3D
-content on the Web, new ones like WebVr, Google Chrome, or 'AFrame' from Mozilla, have been adding new possibilities to use VR Components
-and to create simple VR Experiences for the web. VR is starting to be democratied and being available to the main public for the first time.
+Obviously at this stage Web VR is at it's 'infancy'. But after the first libraries like 'Three.js' started giving the oportunity to put 3D content on the Web, new ones like WebVr, Google Chrome, or 'AFrame' from Mozilla, have been adding new possibilities to use VR Components and to create simple VR Experiences for the web. VR is starting to be democratized and being available to the main public for the first time.
 
 > [Three.js](https://threejs.org/)
 
@@ -71,9 +62,7 @@ such as the Oculus Rift, HTC Vive, Samsung Gear VR, or Google Cardboard, in your
 
 ## to WebVR .... to A AFrame
 
-WebVR is starting to put the standards for the Web. And new libraries like the Mozilla AFrame are giving for the first time the possibility
-of creating relatively simple VR content. It's in it's infancy, it's not the 'high graphics super reollercoaster style' you might be imagining
-from The big Dogs of the Industry but:
+WebVR is starting to put the standards for the Web. And new libraries like the Mozilla AFrame are giving for the first time the possibility to create relatively simple VR content. It's in it's infancy, it's not the 'high graphics super reollercoaster style' you might be imagining from The big Dogs of the Industry but:
 
 0 - It's Component based ( It's the way Present and Future Apps will work )
 1 - It's on the Web, it's Universal ( everybody can access to it)
@@ -86,9 +75,6 @@ with HTML and Entity-Component ecosystem. Works on Vive, Rift, desktop, mobile p
 
 ## The Future is Here
 
-I do believe this is the direction VR will take in the following months and years. Web VR will take over slowly but in a solid way,
-making small steps, first just as an option the traditional 2D Web and slowly building up to AR and VR. Tofay with great frameworks 
-like Angular 2 and JS supersets like Typescript we can add these new VR frameworks and start experimenting and changing the web to
-one we imagine. Its a great time for the Web, it's a great time for VR, it's a great time for All of us.
+I do believe this is the direction VR will take in the following months and years. Web VR will take over slowly but in a solid way, making small steps, first just as an option the traditional 2D Web and slowly building up to AR and VR. Tofay with great frameworks like Angular 2 and JS supersets like Typescript we can add these new VR frameworks and start experimenting and changing the web to one we can imagine. Its a great time for the Web, it's a great time for VR, it's a great time for All of us.
 
  ======================================
