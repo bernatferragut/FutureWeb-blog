@@ -14,7 +14,7 @@ share: true
 
 ## From Unity to WebVR
 
-## 6 Months of Experimentation
+### 4 Months of Experimentation
 
 The VR movement goes at a fast pace. 
 I wanted to share my thoughts about these last months of learning and experimentation in this 'new world' of VR.
