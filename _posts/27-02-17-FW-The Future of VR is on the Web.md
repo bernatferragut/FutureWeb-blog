@@ -2,7 +2,7 @@
 layout: post
 title: "FW - Future Web:  The Future of VR is on the Web"
 description: "From Unity to A-Frame"
-date: 2017-27-02
+date: 2017-02-27
 tags: [design, future web, webvr, angular]
 comments: true
 share: true
