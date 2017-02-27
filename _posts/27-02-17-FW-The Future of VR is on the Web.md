@@ -39,7 +39,7 @@ would put some effort in creating a Unity for the Web Environnement would be a b
 
 It's here where lies the main value of Unity. It is programmed with C#, an OOP language that itself is a Component Based Program. Here you can start to see how works the future of programming. Here you can feel that whatever will succed in the future will be Component based. Components are the Present and Future of programs...and the present and the future of evolution is on the web.
 
-> [Component Object Model] (https://en.wikipedia.org/wiki/Component_Object_Model)
+> [Component Object Model](https://en.wikipedia.org/wiki/Component_Object_Model)
 
 ## From  Three.js ...
 
