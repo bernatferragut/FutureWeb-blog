@@ -32,12 +32,12 @@ HTML is one of the easiest languages to understand, and many of us are already f
   </body>
 </html>
 ```
-<a-scene> contains all of the objects in our 3D scene. It also handles all of the setup that is traditionally required for 3D: setting up WebGL, the canvas, camera, lights, renderer, render loop as well as out of the box VR support on platforms such as HTC Vive, Oculus Rift, Samsung GearVR, and smartphones (Google Cardboard). Tons of repeated code eliminated with one clean line of HTML.
+### A-SCENE
+/<a-scene>/ contains all of the objects in our 3D scene. It also handles all of the setup that is traditionally required for 3D: setting up WebGL, the canvas, camera, lights, renderer, render loop as well as out of the box VR support on platforms such as HTC Vive, Oculus Rift, Samsung GearVR, and smartphones (Google Cardboard). Tons of repeated code eliminated with one clean line of HTML.
 
-Then we can place objects within our scene using assorted primitive elements that come with A-Frame such as <a-box> or <a-sphere>. This is extremely readable, and we could copy and paste this HTML to any other scene and it would behave the same. And we can use the browser’s DOM Inspector just as we would with for any other web site.
+Then we can place objects within our scene using assorted primitive elements that come with A-Frame such as /<a-box>/ or /<a-sphere>/. This is extremely readable, and we could copy and paste this HTML to any other scene and it would behave the same. And we can use the browser’s DOM Inspector just as we would with for any other web site.
 
-### Javascript
-
+### Javascript 
 We can use traditional JavaScript DOM APIs to manipulate A-Frame scenes to add logic, behavior, and functionality:
 
 We do this in the same way we would with Unity:
