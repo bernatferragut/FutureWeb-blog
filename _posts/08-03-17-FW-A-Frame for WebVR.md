@@ -10,6 +10,8 @@ share: true
 
 # A-frame
 
+![aframe360](https://cloud.githubusercontent.com/assets/17754060/23701921/b7103940-03d7-11e7-853a-823dce17c88b.png)
+
 ### What is A-frame
 
 A-Frame is a web framework for building virtual reality experiences. It was started by Mozilla VR to make WebVR content creation easier, faster, and more accessible.
@@ -81,6 +83,8 @@ Then once defined, we can plug this bundle of appearance, behavior, or functiona
 
 > <a-entity foo="bar: 5; baz: qux"></a-entity>
 
+![a-frame](https://cloud.githubusercontent.com/assets/17754060/23701920/b6fe0810-03d7-11e7-8934-252b804307e3.png)
+
 ### Component Ecosystem
 
 A-Frame ships with several components, but since A-Frame is fully extensible at its core, the community has filled the ecosystem with tons of components such as physics, particle systems, audio visualizations, and Leap Motion controls. This ecosystem is the lifeblood of A-Frame. A developer can build a component and publish it, and then someone else can take that component and use it straight from HTML without even having to know any JavaScript.
@@ -100,7 +104,4 @@ After having started to play with a-frame for few days I have to admit that is b
 ### Links
 
 >[A-Frame](https://aframe.io/)
-
-![a-frame](https://cloud.githubusercontent.com/assets/17754060/23701920/b6fe0810-03d7-11e7-8934-252b804307e3.png)
-![aframe360](https://cloud.githubusercontent.com/assets/17754060/23701921/b7103940-03d7-11e7-853a-823dce17c88b.png)
 
