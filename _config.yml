@@ -54,8 +54,8 @@ nav:
     url:            "http://codepen.io/elbernat/"
   - name:           "Archive"
     url:            "/archive"
-  - name:           "Tags"
-    url:            "/tags"
+  - name:           "Art"
+    url:            "https://www.behance.net/elbernate038"
   - name:           "Github"
     url:            "https://github.com/bernatferragut"
 
