@@ -50,15 +50,12 @@ nav:
     url:            "/vr"  
   - name:           "Visual"
     url:            "/visual"
-  - name:           "Codpen"
-    url:            "http://codepen.io/elbernat/"
-  - name:           "Archive"
-    url:            "/archive"
   - name:           "Art"
     url:            "https://www.behance.net/elbernate038"
+  - name:           "Archive"
+    url:            "/archive"
   - name:           "Github"
     url:            "https://github.com/bernatferragut"
-
 
 
 # Sass
