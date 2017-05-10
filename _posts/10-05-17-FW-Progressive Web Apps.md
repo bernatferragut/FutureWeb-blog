@@ -43,4 +43,4 @@ To show how complex are getting Apps I have created this visual design so we can
 
 ![pwa-small](https://cloud.githubusercontent.com/assets/17754060/25920003/cdf221b8-35a6-11e7-8ed6-4847afb5cfe5.jpg)
 
-> link to GitHub
+> [link to GitHub App](https://github.com/bernatferragut/ionic2-places-app)
