@@ -8,8 +8,9 @@ comments: true
 share: true
 ---
 
+![cover4-small](https://cloud.githubusercontent.com/assets/17754060/25919804/379c0a94-35a6-11e7-9275-6d8141a91b45.png)
 
-# Future web - Progressive Web Apps- the new core technologies of the web
+# Progressive Web Apps- the new core technologies of the web
 
 ## Everything changes
 
@@ -40,8 +41,6 @@ After only 3 seconds half of your potential clients will leave your website if y
 
 To show how complex are getting Apps I have created this visual design so we can see how many lines of code are being produced to generate a standard Web App today. As a comparison the 1991 first Unix Os system had 20K lines of code. We are entering in an age of hyper complexity where the gap between people who can understand code and the people who cannot is getting bigger.
 
-//pic
-
-//pic
+![pwa-small](https://cloud.githubusercontent.com/assets/17754060/25919801/3661577e-35a6-11e7-9558-d6772446fdc7.png)
 
 > link to GitHub
