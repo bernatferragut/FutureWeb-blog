@@ -10,7 +10,7 @@ share: true
 
 ![cover-small](https://cloud.githubusercontent.com/assets/17754060/25920001/cb5f5e0c-35a6-11e7-837f-18fb7734b445.jpg)
 
-# Progressive Web Apps- the new core technologies of the web
+# Progressive Web Apps- Core technologies of the web
 
 ## Everything changes
 
