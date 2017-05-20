@@ -5,7 +5,7 @@ permalink: /visual/
 
 >Visual Design Works
 
-In VR, designers have diverse skills: 3D, Prototyping, Interaction Design, Visual Design, Inner Architecture, Motion, Audio and Research are some examples. They were 'different hats'. Following I present a 'broad' palette of skills in the design field that I can appply to the new VR Experiences field. 
+In Viusal Design, designers have diverse skills: 3D, Prototyping, Interaction Design, Grpahic Design, Inner Architecture, Motion, Audio and Research are some examples. They were 'different hats'. Following I present a 'broad' palette of skills in the design field that I can appply to the new technology fields. 
 
 [VFX](#vfx)|[DESIGN](#design)|[ARCH](#arch)|[PRODUCT](#product)|[ART](#art)|[CODE](#code)
 
