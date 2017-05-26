@@ -5,7 +5,7 @@ permalink: /bernat/
 
 > A brief description of Bernat Ferragut
 
-![bernatferragut200](https://cloud.githubusercontent.com/assets/17754060/20561006/910a3a16-b152-11e6-9219-fb614ee86870.png)
+![ber2](https://cloud.githubusercontent.com/assets/17754060/26494963/6689bd6a-41ef-11e7-94fe-e850d2ef4182.png)
 
 ## Intro
 
