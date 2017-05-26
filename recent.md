@@ -8,7 +8,7 @@ permalink: /recent/
 2. Front End Developement
 3. VR Design and Developement
 
-[1.WEB](#web)|[2.MOBILE](#mobile)|[3.MEAN](#mean|[4.VR](#vr)
+[1.WEB](#web)|[2.MOBILE](#mobile)|[3.MEAN](#mean)|[4.VR](#vr)
 
 # WEB HTML5 - CSS3 - Javascript
 
