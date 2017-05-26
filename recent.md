@@ -1,6 +1,6 @@
 ---
-title: VR
-permalink: /vr/
+title: Recent Projects
+permalink: /recent/
 ---
 > VR Projects
 
