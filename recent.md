@@ -2,11 +2,7 @@
 title: Recent Projects
 permalink: /recent/
 ---
-> Recent Projects
-
-1. Visual Design
-2. Front End Developement
-3. VR Design and Developement
+> Recent Projects : Visual Design / Front End / Mobile / Full Stack / VR
 
 [1.WEB](#web)|[2.MOBILE](#mobile)|[3.MEAN](#mean)|[4.VR](#vr)
 
