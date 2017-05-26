@@ -46,8 +46,8 @@ kramdown:
 nav:
   - name:           "Bernat"
     url:            "/bernat"
-  - name:           "VR"
-    url:            "/vr"  
+  - name:           "Recent"
+    url:            "/recent"  
   - name:           "Visual"
     url:            "/visual"
   - name:           "Art"
