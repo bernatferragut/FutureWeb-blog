@@ -14,7 +14,7 @@ in New Technologies focusing in VR, their impact in our society and the way we c
 
 ## Specializations
 
-* VR Nanodegree in UX/VR - [Udacity](https://www.udacity.com/course/vr-developer-nanodegree--nd017)
+* Nanodegree in UX/VR - [Udacity](https://www.udacity.com/course/vr-developer-nanodegree--nd017)
 * Python Programming - [University of Michigan](https://www.coursera.org/specializations/python)
 * UX Design - [Interaction Design Foundation](https://www.interaction-design.org)
 * 3D Design & Animation - [Image and Sound High School](http://www.cev.com/)
@@ -50,7 +50,7 @@ in New Technologies focusing in VR, their impact in our society and the way we c
   * C#
   * Python
 * Internet
-  * HTML / CSS / Javascript
+  * HTML / CSS / Javascript -Tsc
   
 >NATURAL LANGUAGES
 
@@ -70,10 +70,7 @@ in New Technologies focusing in VR, their impact in our society and the way we c
 ## Contact
 
 * By mail: [Bernat Ferragut](mailto: elbernat@gmail.com)
-* Any of the contacts down the page (^-^)
-
-Inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.
-Powered by [Jekyll](http://jekyllrb.com).Hosted on [Github Pages](https://pages.github.com).
+* Tlf: (438) 830-3793
 
 
 
