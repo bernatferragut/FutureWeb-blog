@@ -64,24 +64,11 @@ We immerse the person into a loft with real measures and give them the possibili
 
 ![intro](https://cloud.githubusercontent.com/assets/17754060/21591996/e4e36066-d0df-11e6-8146-827f9b2e7819.png)
 
->[VR-Loft](https://github.com/bernatferragut/vr-projects)
+>[VR-Loft](https://github.com/bernatferragut/vr-projects/tree/master/VR-P4)
 
 ### Code
 
 > An example of Interaction design script from the 'Loft'.
-
-#### ManagerScript
-
-```c#
-using UnityEngine;
-using System.Collections;
-
-public class ManagerScript : MonoBehaviour 
-{
-	public int likes;
-	public int dislikes;
-}
-```
 
 #### SimpleLoad
 
