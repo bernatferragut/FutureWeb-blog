@@ -66,6 +66,8 @@ We immerse the person into a loft with real measures and give them the possibili
 
 >[VR-Loft](https://github.com/bernatferragut/vr-projects/tree/master/VR-P4)
 
+> [Loft VR - Android Build App](https://github.com/bernatferragut/vr-projects/blob/master/VR-P4/3-VR-Build/LoftVR.apk)
+
 ### Code
 
 > An example of Interaction design script from the 'Loft'.
