@@ -9,8 +9,7 @@ permalink: /bernat/
 
 ## Intro
 
-I'm a Freelance Visual Designer & Programmer. I have a BSc in Eng. and a passion for Design 
-in New Technologies focusing in VR, their impact in our society and the way we can use them to obtain a better change.
+Freelance Visual Designer and Front-End developer. I have a BSc in Eng. And a passion in how new technologies & good design affects our society.
 
 ## Specializations
 
