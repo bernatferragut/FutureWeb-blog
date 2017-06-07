@@ -47,6 +47,7 @@ At the same time I have created two more pages to show a more in depth amount of
 The result gives us a beautiful, simple and well design UX where I can see clearly and big exactly the data I'm interersted in real time.
 
 > Final result: [RxJs and Cryptocurrencies App](https://bernatferragut.neocities.org/#/home)
+
 > Final code: [RxJs and Cryptocurrencies github code](https://github.com/bernatferragut/cryptos)
 
 ### Rxjs
