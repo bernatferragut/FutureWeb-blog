@@ -30,11 +30,11 @@ It takes some time to 'pick up' how it works but once you understand the combina
 
 Here I present you with 3 tutorials that I do believe are the best I have found about Observables.
 
-1. [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+1.[The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
-2. [This is a quick introduction into the concept of Reactive Programming in Angular with RxJS.](https://codecraft.tv/courses/angular/reactive-programming-with-rxjs/overview/)
+2.[This is a quick introduction into the concept of Reactive Programming in Angular with RxJS.](https://codecraft.tv/courses/angular/reactive-programming-with-rxjs/overview/)
 
-3. [An Animated Intro to RxJS](https://css-tricks.com/animated-intro-rxjs/)
+3.[An Animated Intro to RxJS](https://css-tricks.com/animated-intro-rxjs/)
 
 
 ## Bitcoin and Ethereum PWA
