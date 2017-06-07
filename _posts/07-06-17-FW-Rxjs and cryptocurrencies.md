@@ -8,6 +8,8 @@ comments: true
 share: true
 ---
 
+![crypto-1](https://user-images.githubusercontent.com/17754060/26887893-5bf9bbd4-4b77-11e7-9ee7-498dd20bc893.jpg)
+
 ## CRYPTOS & RxJS
 
 Since 2015 I have been very interested in purchasing Cryptocurrencies. During this time I have seen how almost all the sites that deal with Cryptocurrencies have to offer 'Real Time' information to their clients, it's critical for any exchange to provide this kind of reactive data service all the time.
@@ -55,3 +57,5 @@ The result gives us a beautiful, simple and well design UX where I can see clear
 This is only the beginnng, I'm very excited to learn and create more with this new technology, this will be the bread and butter of the internet in the near future. I hope you got the interest to start investigating about it !
 
 > [RxJs library](http://reactivex.io/)
+
+![crypto-3](https://user-images.githubusercontent.com/17754060/26887894-5bfa1f5c-4b77-11e7-8780-227da6fe22af.jpg)
