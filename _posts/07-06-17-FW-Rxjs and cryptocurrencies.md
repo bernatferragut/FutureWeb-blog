@@ -2,8 +2,8 @@
 layout: post
 title: "RxJs and Cryptocurrencies
 description: "How the RxJs library is changing the web"
-date: 2017-06-07
-tags: [future web, javascript, visual design]
+date: 2017-07-06
+tags: [design, future web, webvr, angular]
 comments: true
 share: true
 ---
