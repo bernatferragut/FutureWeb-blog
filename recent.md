@@ -4,7 +4,20 @@ permalink: /recent/
 ---
 > Recent Projects : Visual Design / Front End / Mobile / Full Stack / VR
 
-[1.WEB](#web)|[2.MOBILE](#mobile)|[3.MEAN](#mean)|[4.VR](#vr)
+[1.PWA](#pwa) [2.WEB](#web)|3.MOBILE](#mobile)|[4.MEAN](#mean)|[5.VR](#vr)
+
+
+# PWA 
+
+### Objectives
+
+To apply some of the possibilities that Observables bring to us I've decided to make my own Progressive Web App with Angular2 about these Cryptocurrencies that are surrounding us more and more. I have created an PWA where I can see in real time the trading values of the two main currencies I own: The bitcoin BTC and the Ethereum ETH.
+
+### Images
+
+![crypto-design2](https://user-images.githubusercontent.com/17754060/26887892-5bf9577a-4b77-11e7-8889-e254bfa0f84c.jpg)
+
+> [BTC & ETH Cryptocurrencies](https://bernatferragut.neocities.org/#/home)
 
 # WEB 
 
