@@ -65,7 +65,7 @@ B. A Portafolio Website made with connections to the BEHANCE API. It takes the i
 
 ![portafolio-design2](https://cloud.githubusercontent.com/assets/17754060/26530451/c4d4acea-43a2-11e7-92a7-7d5bbcd80efd.jpg)
 
-> [Portafolio Web App](https://bernatferragut.neocities.org/)
+> [Portafolio Web App](https://github.com/bernatferragut/portafolio-app)
 
 
 
