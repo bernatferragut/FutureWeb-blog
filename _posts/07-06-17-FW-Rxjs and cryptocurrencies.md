@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-# CRYPTOS & RxJS
+## CRYPTOS & RxJS
 
 Since 2015 I have been very interested in purchasing Cryptocurrencies. During this time I have seen how almost all the sites that deal with Cryptocurrencies have to offer 'Real Time' information to their clients, it's critical for any exchange to provide this kind of reactive data service all the time.
 
@@ -16,7 +16,7 @@ And it's here where I discovered the reason why everybody is talking about 'reac
 
 Rxjs is not a new concept, it was first implemented nearly a decade ago (2009), stemming from ideas by Conal Elliott and Paul Hudak two decades ago (1997), in describing functional reactive animations (interesting). So it's really battle-tested.
 
-# Observables - The heart of React Javascript
+## Observables - The heart of React Javascript
 
 Instead of creating variables that change state in specific times a new concept called 'streams' is introduced. Streams allow to use lists ov values that change asynchronously over a period of time. These values can be anything: an array of numbers, strings or objects and they are called 'Observables'. 
 
@@ -26,7 +26,7 @@ So when you are subscribed you recieve a stream of data that is updated in real 
 
 It takes some time to 'pick up' how it works but once you understand the combinational possibilities they offer with their 'operators' the sky is the limit.
 
-## Tutorials
+### Tutorials
 
 Here I present you with 3 tutorials that I do believe are the best I have found about Observables.
 
@@ -37,7 +37,7 @@ Here I present you with 3 tutorials that I do believe are the best I have found 
 3. [An Animated Intro to RxJS](https://css-tricks.com/animated-intro-rxjs/)
 
 
-# Bitcoin and Ethereum PWA
+## Bitcoin and Ethereum PWA
 
 To apply some of the possibilities that Observables bring to us I decided to make my own Progressive Web App with Angular2 about these
 Cryptocurrencies that are surrounding us more and more. I have created a main page where I can update manually the trading values of the two main currencies: The bitcoin BTC and the Ethereum ETH.
@@ -49,7 +49,7 @@ The result gives us a beautiful, simple and well design UX where I can see clear
 > You can see the fina l result here : [RxJs and Cryptocurrencies App](https://bernatferragut.neocities.org/#/home)
 > And the code for it is here: [RxJs and Cryptocurrencies github code](https://github.com/bernatferragut/cryptos)
 
-## Rxjs
+### Rxjs
 
 This is only the beginnng, I'm very excited to learn and create more with this new technology, this will be the bread and butter of the internet in the near future. I hope you got the interest to start investigating about it !
 
