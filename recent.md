@@ -4,7 +4,7 @@ permalink: /recent/
 ---
 > Recent Projects : Visual Design / Front End / Mobile / Full Stack / VR
 
-[1.PWA](#pwa) [2.WEB](#web)|3.MOBILE](#mobile)|[4.MEAN](#mean)|[5.VR](#vr)
+[1.PWA](#pwa)|[2.WEB](#web)|[3.MOBILE](#mobile)|[4.MEAN](#mean)|[5.VR](#vr)
 
 
 # PWA 
