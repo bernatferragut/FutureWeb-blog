@@ -40,7 +40,7 @@ It's a comnbination of mainly 2 concepts:
 > VANILLA JS
 > OOP - Object Oriented Programming
 
-[CODEPEN](https://codepen.io/elbernat/)
+> [CODEPEN - New Creative Coding Projects](https://codepen.io/elbernat/)
 
 ![eye](https://user-images.githubusercontent.com/17754060/33526972-aec39be2-d816-11e7-9426-eb6abcb78dc6.png)
 
