@@ -14,7 +14,7 @@ share: true
 
 ### 3 Months of Teaching Creative Coding to Kids
 
-The last 6 months have been what could be seen as an involution if we only scratch the surface. I wanted to teach how to code since the last year but the opportunity did not appear because allmy travels. Once I was back to Montreal finally I could start to teach coding through an amazing NGO called kidscodejeunesse.org. These last 3 months have been a blast from a human perspective because of the amount of things I could give and the amount of things that came in return because of the kids. It's been an amazing experience that I'd like to continue doing for a while, even to bring it down south to my beloved South America in the near future.
+The last 6 months have been what could be seen as an involution if we only scratch the surface. I wanted to teach how to code since the last year but the opportunity did not appear because all my travels. Once I was back to Montreal finally I could start to teach coding through an amazing NGO called kidscodejeunesse.org. These last 3 months have been a blast from a human perspective because of the amount of things I could give and the amount of things that came in return because of the kids. It's been an amazing experience that I'd like to continue doing for a while, even to bring it down south to my beloved South America in the near future.
 
 > [KIDSCODEJEUNESSE.ORG](http://www.kidscodejeunesse.org/)
 
@@ -30,11 +30,11 @@ Here I give you a link to the online software. The actual version is in Flash an
 
 ### From complex Libraries like Angular to Just Vanilla JS
 
-And this was a relief my friends. After so much time learning different frameworks last year I decided to comeback to the basics and come back to creative coding with just plane JS or Vanilla JS as it's also coined.
+And this was a relief my friends. After so much time learning different frameworks last year I decided to come back to the basics, to creative coding with just plane JS or Vanilla JS as it's also coined.
 
 Here you can see some examples that have been done recently and applied in Codpen. 
 
-It's a comnbination of mainly 2 concepts:
+It's a comnbination of mainly 3 concepts:
 
 > CANVAS HTML5
 > VANILLA JS
@@ -50,7 +50,6 @@ Few years ago it was ActionScript and Flash, later came Processing ( with JAVA )
 Processing called P5JS. Although everything can be done with plane JS, I have to admit that a good library like P5JS helps a lot in most cases.
 
 If you are into Creative Coding and Generative Art the P5JS library is the best choice I can recommend. P5JS link:
-
 
 > [P5JS](https://p5js.org/)
 
