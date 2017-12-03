@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FW - Future Web:  Creative Coding and the Art of Teaching"
+title: "FW - Creative Coding and the Art of Teaching"
 description: "Evolving as a person through teaching how to code"
 date: 2017-12-03
 tags: [design, future web, creative coding, art of teaching]
