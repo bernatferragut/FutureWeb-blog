@@ -24,6 +24,8 @@ to bring it down south to my beloved South America in the future.
 
 > [KIDSCODEJEUNESSE.ORG](http://www.kidscodejeunesse.org/)
 
+![mtl-kids](https://user-images.githubusercontent.com/17754060/33527029-84d05d1a-d817-11e7-9af3-ee36b0b5f0ea.jpg)
+
 ### Scratch
 
 Don't fool yourself because it looks like an innocent Lego Blocks game. Scratch is a programming language developped by the MIT especifically to bring 
@@ -48,7 +50,7 @@ Here you can see some examples that have been done recently and applied in Codpe
 
 [CODEPEN](https://codepen.io/elbernat/)
 
-![dancing](https://user-images.githubusercontent.com/17754060/33526971-aeb764a8-d816-11e7-85e1-6a5b4d0b0a13.png)
+![eye](https://user-images.githubusercontent.com/17754060/33526972-aec39be2-d816-11e7-9426-eb6abcb78dc6.png)
 
 ### P5JS
 
@@ -64,6 +66,6 @@ From Physics Simulations, to Fractals. From OOP to Biological Algorythms, P5JS h
 grow as a creative coder. I will post my work that it's being made at the moment mixing Lullian creative creative code and Biological 
 algorythms in the following 2018. Happy end of the year 2017 and I wish you a super exciting 2018 !!!
 
-![eye](https://user-images.githubusercontent.com/17754060/33526972-aec39be2-d816-11e7-9426-eb6abcb78dc6.png)
+![dancing](https://user-images.githubusercontent.com/17754060/33526971-aeb764a8-d816-11e7-85e1-6a5b4d0b0a13.png)
 
 
