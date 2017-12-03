@@ -10,7 +10,7 @@ share: true
 
 # Creative Coding and the Art of Teaching
 
-![webvr](https://cloud.githubusercontent.com/assets/17754060/23359355/a34a9cf8-fcc4-11e6-8658-fe5780dafd49.png)
+![big-o](https://user-images.githubusercontent.com/17754060/33526970-aea8ca1a-d816-11e7-846a-47a54b8af1b6.png)
 
 ## How too many JS libraries brought me to the basics
 
@@ -46,7 +46,9 @@ Here you can see some examples that have been done recently and applied in Codpe
 > VANILLA JS
 > OOP - Object Oriented Programming
 
+[CODEPEN](https://codepen.io/elbernat/)
 
+![dancing](https://user-images.githubusercontent.com/17754060/33526971-aeb764a8-d816-11e7-85e1-6a5b4d0b0a13.png)
 
 ### P5JS
 
@@ -62,7 +64,6 @@ From Physics Simulations, to Fractals. From OOP to Biological Algorythms, P5JS h
 grow as a creative coder. I will post my work that it's being made at the moment mixing Lullian creative creative code and Biological 
 algorythms in the following 2018. Happy end of the year 2017 and I wish you a super exciting 2018 !!!
 
-<iframe height='196' scrolling='no' title='Generative Art -Big O' src='//codepen.io/elbernat/embed/pdvmWZ/?height=196&theme-id=0&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/elbernat/pen/pdvmWZ/'>Generative Art -Big O</a> by Bernat Ferragut (<a href='https://codepen.io/elbernat'>@elbernat</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+![eye](https://user-images.githubusercontent.com/17754060/33526972-aec39be2-d816-11e7-9426-eb6abcb78dc6.png)
 
 
