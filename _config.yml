@@ -54,9 +54,10 @@ nav:
     url:            "https://www.behance.net/elbernate038"
   - name:           "Archive"
     url:            "/archive"
+  - name:           "Codepen"
+    url:            "https://codepen.io/elbernat/"
   - name:           "Github"
     url:            "https://github.com/bernatferragut"
-
 
 # Sass
 sass:
