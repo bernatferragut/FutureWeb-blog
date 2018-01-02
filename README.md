@@ -2,4 +2,4 @@
 
 > Personal Blog about modern web developement, creative coding and how to teach all of them.
 
-# https://bernatferragut.github.io/vr-blog/
+# https://bernatferragut.github.io/FutureWeb-blog/
