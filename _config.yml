@@ -24,7 +24,7 @@ disqus:
   id:               "http://disqus.com/by/bernatferragut"
 
 # URL
-url:               "https://bernatferragut.github.io/vr-blog/" # the base hostname & protocol for your site
+url:               "https://github.com/bernatferragut/FutureWeb-blog" #https://bernatferragut.github.io/vr-blog/" # the base hostname & protocol for your site
 #url:                "http://bernatferragut.co" # use this url when develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
