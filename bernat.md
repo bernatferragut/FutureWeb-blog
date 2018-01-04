@@ -25,8 +25,8 @@ Freelance Visual Designer and Front-End developer. I have a BSc in Eng. And a pa
 
 ## Work
 
-* UX / Visual Designer - Freelance -  [Bernat Ferragut](http://bernatferragut.co/)
-* 3D / Layout / Previz Designer / Steroscopic AAA Films - [DamnFX Montreal](https://www.youtube.com/watch?v=0OZCyVEFVyY)
+* UX / Visual Designer - Freelance -  [Bernat Ferragut](http://bernatferragut.com/)
+* 3D / Layout / Previz Designer / Steroscopic AAA Films - [DamnFX Montreal](https://www.youtube.com/watch?v=hEfQKSpONX8)
 * 3D / Visual Designer / Engineering Marketing Dept - [3TControl](http://3tcontrol.com/en/company.php)
 * 3D Maya Instructor - Teacher and Project Manager - [Image and Sound High School](http://www.cev.com/)
 
