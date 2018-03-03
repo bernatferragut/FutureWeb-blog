@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-<img width="1280" alt="cryptov2" src="https://user-images.githubusercontent.com/17754060/36936396-062eb30a-1ed3-11e8-8a86-f4af3a0c4add.png">
+<img width="1145" alt="cryptov2" src="https://user-images.githubusercontent.com/17754060/36936645-f9d5e558-1ed5-11e8-876b-383b9396271b.png">
 
 # You have to take the power back - Part1
 
