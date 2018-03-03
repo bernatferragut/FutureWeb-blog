@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-# CryptoWallet: You have to take the power back - Part One
+# You have to take the power back - Part One
 
 > You made it you bought different Altcoins and Bitcoins...now you have to track them
 
