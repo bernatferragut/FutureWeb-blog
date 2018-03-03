@@ -12,25 +12,27 @@ share: true
 
 # You have to take the power back - Part1
 
-> You made it you bought different Altcoins and Bitcoins...now you have to track them
+> You made it ... you bought different Altcoins and a Bitcoin...and now ... you need to track them because there are lots!
 
 ## Crypto Folios - How to track your assets
 
-Once you have spend more than you wanted in cryptos, one day you wake up and you realize that is a big mess what you are doing. Some of your assets are in the Trezor, others in the Ledger, other in digital bitbox. And it's all good you check out in Internet...sure there is a dude who has created a free online Portfolio.
+Once you have spend more than you wanted in cryptos, one day you wake up and you realize that's a big mess what you are doing. Some of your assets are in the Trezor, others in the Ledger, and few in the digital bitbox. And it's all good if you check out in the Internet...sure there is a dude who has created a free online Portfolio.
 
-And then you check them all...and after a deep research you pick up 3 of them like:
+And then you check them all...and after a deep research you pick up 3 of the ones you like the most:
 1. CryptoCompare
 2. AltPocket
 3. BlockFolio
 
-And then you introduce your data to their website...and while you are doing...you think, wait a moment...what the hell I'm doing?
+And then you introduce your data to their website...and while you are doing it...you think, wait a moment...what the hell I'm doing? ... yes, you are going to give your data to the world for free ... and these are your holding...no one should know about what you have...isn't it?
 
 ## Everybody knows ... but only if you want
 
-> There must be a better way of doing this no? YES - CODE IT
+> There must be a better way of doing this no? YES - YOU MUST CODE IT
 
-So that's a small intro to the small adventure of creating your own Crypto Folio App.
-An App that will run solely in from your Computer and in this way you and only you will be able to see which are your holding...or your HODLS.
+So that's a small intro to the small adventure of creating your own Crypto Folio App. So you can be sure you are the one 
+who has the data and access the Internet when you desire.
+
+An App that will run solely from your Computer so only you will be able to see which are your holding...or your HODLS ;)
 
 ## Crypto Folio V.1.0
 
