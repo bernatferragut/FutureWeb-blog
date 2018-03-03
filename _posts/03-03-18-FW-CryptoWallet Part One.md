@@ -8,6 +8,8 @@ comments: true
 share: true
 ---
 
+<img width="1280" alt="cryptov2" src="https://user-images.githubusercontent.com/17754060/36936350-4c4730de-1ed2-11e8-85e0-9bc2eb4057c0.png">
+
 # You have to take the power back - Part One
 
 > You made it you bought different Altcoins and Bitcoins...now you have to track them
