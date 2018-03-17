@@ -79,7 +79,7 @@ class BlockChain {
 }
 ```
 
-> 4. We test the chain creating a new Blockchain and trying to hack it
+> 4. We test the chain creating a new Blockchain and try to hack it
 
 ```javascript
 let bernieCoin = new BlockChain();
@@ -97,7 +97,7 @@ return false
 console.log(JSON.stringify(bernieCoin, null, 2));
 ```
 
-> 5. And the JSON version of the created BRLOCKCHAIN
+> 5. The JSON version of the created BRLOCKCHAIN
 
 ```javascript
 {
