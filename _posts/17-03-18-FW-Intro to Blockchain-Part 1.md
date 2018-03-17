@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-<img width="1145" alt="cryptov2" src="https://user-images.githubusercontent.com/17754060/36936645-f9d5e558-1ed5-11e8-876b-383b9396271b.png">
+![blockchain-1](https://user-images.githubusercontent.com/17754060/37556920-454c3c50-29d3-11e8-9566-a8c09920351d.jpg)
 
 # How to Build your own BlockChain with Javascript
 
