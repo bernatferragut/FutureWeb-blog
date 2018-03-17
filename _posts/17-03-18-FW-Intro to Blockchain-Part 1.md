@@ -17,11 +17,13 @@ share: true
 ## BlockChain creation - Foundation
 
 > 1. Load the npm library crypto-js where we can find all the encryption functions, like the sha256
+
 ```javascript
 const SHA256 = require('crypto-js/sha256');
 ```
 
 > 2. Create a BLOCK with the following properties: Index, timeStamp, data, previousHash and hash.
+
 ```javascript
 class Block {
     constructor(index, timeStamp, data, previousHash='') {
@@ -39,6 +41,7 @@ class Block {
 ```
 
 > 3. Create a CHAIN or a list of BLOCKS
+
 ```javascript
 class BlockChain {
     constructor(){
@@ -77,6 +80,7 @@ class BlockChain {
 ```
 
 > 4. We test the chain creating a new Blockchain and trying to hack it
+
 ```javascript
 let bernieCoin = new BlockChain();
 bernieCoin.addBlock(new Block(1, '03/03/2018', { amount: 4 }));
@@ -94,6 +98,7 @@ console.log(JSON.stringify(bernieCoin, null, 2));
 ```
 
 > 5. And the JSON version of the created BRLOCKCHAIN
+
 ```javascript
 {
   "chain": [
@@ -126,4 +131,4 @@ console.log(JSON.stringify(bernieCoin, null, 2));
 
 ## GITHUB REPO
 
-> [GITHUB Repo: Crypto Wallet v.2.0](https://github.com/bernatferragut/BlockChain)
+> [GITHUB Repo: BLOCKCHAIN-part1](https://github.com/bernatferragut/BlockChain)
