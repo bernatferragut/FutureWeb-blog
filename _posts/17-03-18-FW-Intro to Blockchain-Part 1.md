@@ -10,7 +10,7 @@ share: true
 
 ![blockchain-1](https://user-images.githubusercontent.com/17754060/37556920-454c3c50-29d3-11e8-9566-a8c09920351d.jpg)
 
-# How to Build your own BlockChain with Javascript
+# Build your own BlockChain with JS
 
 > This Article will be technical. I will comment the code explaining each of the parts as well as I can. Follow the steps and enjoy the creation of a simple blockchain. Let's lay a good foundation, let's code, let's create a blockchain.
 
