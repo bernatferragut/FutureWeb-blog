@@ -126,4 +126,4 @@ console.log(JSON.stringify(bernieCoin, null, 2));
 
 ## GITHUB REPO
 
-> [GITHUB Repo: Crypto Wallet v.2.0](https://github.com/bernatferragut/Cryptos-VanillaJS)
+> [GITHUB Repo: Crypto Wallet v.2.0](https://github.com/bernatferragut/BlockChain)
