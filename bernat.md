@@ -69,7 +69,7 @@ Code Lead Instructor, Visual Designer and Front-End developer. I have a BSc in E
 
 ## Contact
 
-* By mail: [Bernat Ferragut](mailto: elbernat@gmail.com) | bernat@kidscodejeunesse.org
+* By mail: [Bernat Ferragut](mailto: elbernat@gmail.com)
 * Tlf: +01 (438) 830-3793
 
 
