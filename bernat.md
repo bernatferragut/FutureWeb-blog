@@ -13,11 +13,11 @@ Code Lead Instructor, Visual Designer and Front-End developer. I have a BSc in E
 
 ## Work
 
-* KCJ Code Lead Instructor, Québec Regions at [kidscodejeunesse.org](http://kidscodejeunesse.org) | July 2017 - Present
+* KCJ Code Lead Instructor, Québec Regions at [kidscodejeunesse.org](http://kidscodejeunesse.org) - July 2017 to Present
 * UX / Visual Designer - Freelance -  [Bernat Ferragut](http://bernatferragut.com/) | 2010-2015
-* 3D / Layout / Previz Designer / Steroscopic AAA Films - [DamnFX Montreal](https://www.youtube.com/watch?v=hEfQKSpONX8) | 2006-2008
-* 3D / Visual Designer / Engineering Marketing Dept - [3TControl](http://3tcontrol.com/en/company.php) | 2004-2006
-* 3D Maya Instructor - Teacher and Project Manager - [Image and Sound High School](http://www.cev.com/) | 2002-2004
+* 3D / Layout / Previz Designer / Steroscopic AAA Films - [DamnFX Montreal](https://www.youtube.com/watch?v=hEfQKSpONX8) - 2006 to 2008
+* 3D / Visual Designer / Engineering Marketing Dept - [3TControl](http://3tcontrol.com/en/company.php) - 2004 to 2006
+* 3D Maya Instructor - Teacher and Project Manager - [Image and Sound High School](http://www.cev.com/) - 2002 to 2004
 
 ## Studies
 
