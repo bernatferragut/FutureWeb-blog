@@ -17,7 +17,7 @@ Code Lead Instructor, Visual Designer and Front-End developer. I have a BSc in E
 * UX / Visual Designer-Freelance at [Bernat Ferragut](http://bernatferragut.com/) - 2010 to 2015
 * 3D / Layout-Previz Designer / Stereo AAA Films - [DamnFX Montreal](https://www.youtube.com/watch?v=hEfQKSpONX8) - 2006 to 2008
 * Visual Designer / Engineering Marketing - [3TControl](http://3tcontrol.com/en/company.php) - 2004 to 2006
-* 3D Maya Instructor - Teacher and Manager - [Image and Sound High School](http://www.cev.com/) - 2002 to 2004
+* 3D Maya Instructor and Manager - [Image and Sound High School](http://www.cev.com/) - 2002 to 2004
 
 ## Studies
 
