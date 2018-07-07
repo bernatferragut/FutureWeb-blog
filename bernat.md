@@ -9,7 +9,20 @@ permalink: /bernat/
 
 ## Intro
 
-Freelance Visual Designer and Front-End developer. I have a BSc in Eng. And a passion in how new technologies & good design affects our society.
+Code Lead Instructor, Visual Designer and Front-End developer. I have a BSc in Eng. And a passion in how new technologies & good design affects our society.
+
+## Work
+
+* KCJ Code Lead Instructor, Québec Regions at [kidscodejeunesse.org](http://kidscodejeunesse.org) | July 2017 - Present
+* UX / Visual Designer - Freelance -  [Bernat Ferragut](http://bernatferragut.com/) | 2010-2015
+* 3D / Layout / Previz Designer / Steroscopic AAA Films - [DamnFX Montreal](https://www.youtube.com/watch?v=hEfQKSpONX8) | 2006-2008
+* 3D / Visual Designer / Engineering Marketing Dept - [3TControl](http://3tcontrol.com/en/company.php) | 2004-2006
+* 3D Maya Instructor - Teacher and Project Manager - [Image and Sound High School](http://www.cev.com/) | 2002-2004
+
+## Studies
+
+* MSc.Clean Technologies - [Newcastle University](http://www.ncl.ac.uk/postgraduate/courses/degrees/clean-technology-msc-pgdip/#profile)
+* BSc. Eng - [Barcelona Tech](https://www.euetib.upc.edu/)
 
 ## Specializations
 
@@ -17,18 +30,6 @@ Freelance Visual Designer and Front-End developer. I have a BSc in Eng. And a pa
 * Python Programming - [University of Michigan](https://www.coursera.org/specializations/python)
 * UX Design - [Interaction Design Foundation](https://www.interaction-design.org)
 * 3D Design & Animation - [Image and Sound High School](http://www.cev.com/)
-
-## Studies
-
-* MSc.Clean Technologies - [Newcastle University](http://www.ncl.ac.uk/postgraduate/courses/degrees/clean-technology-msc-pgdip/#profile)
-* BSc. Eng - [Barcelona Tech](https://www.euetib.upc.edu/)
-
-## Work
-
-* UX / Visual Designer - Freelance -  [Bernat Ferragut](http://bernatferragut.com/)
-* 3D / Layout / Previz Designer / Steroscopic AAA Films - [DamnFX Montreal](https://www.youtube.com/watch?v=hEfQKSpONX8)
-* 3D / Visual Designer / Engineering Marketing Dept - [3TControl](http://3tcontrol.com/en/company.php)
-* 3D Maya Instructor - Teacher and Project Manager - [Image and Sound High School](http://www.cev.com/)
 
 ## Knowhow
 
@@ -43,15 +44,15 @@ Freelance Visual Designer and Front-End developer. I have a BSc in Eng. And a pa
 * 2D Design
   * Adobe Suite
   
->PROGRAMMING LANGUAGES
+> PROGRAMMING LANGUAGES
 
-* General
+1. General
   * C#
   * Python
-* Internet
-  * HTML / CSS / Javascript -Tsc
+2. Internet
+  * HTML / CSS / Javascript - Typescript
   
->NATURAL LANGUAGES
+> NATURAL LANGUAGES
 
 * English
 * Spanish / Catalan
@@ -68,8 +69,8 @@ Freelance Visual Designer and Front-End developer. I have a BSc in Eng. And a pa
 
 ## Contact
 
-* By mail: [Bernat Ferragut](mailto: elbernat@gmail.com)
-* Tlf: (438) 830-3793
+* By mail: [Bernat Ferragut](mailto: elbernat@gmail.com) | bernat@kidscodejeunesse.org
+* Tlf: +01 (438) 830-3793
 
 
 
