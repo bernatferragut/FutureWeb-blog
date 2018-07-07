@@ -62,8 +62,8 @@ Code Lead Instructor, Visual Designer and Front-End developer. I have a BSc in E
 ## Interest
 
 * Design - [Art & Architecture](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD)
-* Virtual Reality - [Philosophical implications](https://github.com/bernatferragut/vr-100-questions)
-* Eco Building Design - [I have actually built 2 Strawbale Houses!](http://www.terracines.ca/)
+* Blockchain - [and its implications](https://en.wikipedia.org/wiki/Blockchain)
+* Eco Building Design - [Camp Kawartha](https://campkawartha.ca/)
 * Meditation - [Focus and Presence from classical traditions](http://www.suttama.dhamma.org/Dhamma-Suttama.4045.0.html?&L=0)
 * Ramon Llull - [The Father of Computer Thinking](http://quisestlullus.narpan.net/eng/611_info_eng.html)
 
