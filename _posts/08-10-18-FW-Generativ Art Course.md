@@ -7,6 +7,9 @@ tags: [design, future web, creative coding]
 comments: true
 share: true
 ---
+
+# GENERATIVE ART 
+
 [GO TO EDITOR](https://editor.p5js.org/bernatferragut/sketches/rkMk2btKm)
 
 <iframe
@@ -21,8 +24,6 @@ border-radius: 6px;
 overflow: hidden;
 position: relative;"
 src="https://editor.p5js.org/embed/rkMk2btKm"></iframe>
-
-# GENERATIVE ART 
 
 (LINK TO THE ONLINE FREE COURSE)[http://kcj-nba.surge.sh/]
 
