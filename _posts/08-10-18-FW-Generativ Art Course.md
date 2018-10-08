@@ -10,7 +10,7 @@ share: true
 
 # GENERATIVE ART 
 
-[GO TO EDITOR](https://editor.p5js.org/bernatferragut/sketches/rkMk2btKm)
+[GO TO EDITOR](http://ga-course.surge.sh/)
 
 <iframe
 frameborder="0"
