@@ -2,13 +2,15 @@
 layout: post
 title: "FW - Generative Art Course"
 description: "Intro to Generative Art with P5JS"
-date: 2018-08-10
+date: 2018-10-08
 tags: [design, future web, creative coding]
 comments: true
 share: true
 ---
 
-# GENERATIVE ART  - (LINK TO THE ONLINE FREE COURSE)[link]
+# GENERATIVE ART 
+
+(LINK TO THE ONLINE FREE COURSE)[http://kcj-nba.surge.sh/]
 
 ## Introduction
 
