@@ -25,7 +25,7 @@ overflow: hidden;
 position: relative;"
 src="https://editor.p5js.org/embed/rkMk2btKm"></iframe>
 
-(LINK TO THE ONLINE FREE COURSE)[http://kcj-nba.surge.sh/]
+[LINK TO THE ONLINE FREE COURSE](http://kcj-nba.surge.sh/)
 
 ## Introduction
 
@@ -71,10 +71,10 @@ Insert this piece of code in the head tag of your html file and you will be good
 
 ### Respect and inspiration
 
-* (Processing.org)[https://processing.org/]
-* (P5js.org)[https://p5js.org/]
-* (DanielShiffman)[https://shiffman.net/]
-* (AllisonParish)[http://www.decontextualize.com/]
-* (bok.org)[https://bost.ocks.org/mike/]
+* [Processing.org](https://processing.org/)
+* [P5js.org](https://p5js.org/)
+* [DanielShiffman](https://shiffman.net/)
+* [AllisonParish](http://www.decontextualize.com/)
+* [bok.org](https://bost.ocks.org/mike/)
 
 
