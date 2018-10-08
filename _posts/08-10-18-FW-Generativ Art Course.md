@@ -48,7 +48,7 @@ I ask people to know at least a little bit of javascript, enough so can follow t
 
 If you need a more introductory course here I give a fantastic link of (AllisonParish)[http://www.decontextualize.com/] who has been another great inspiration to create this course for me and I do believe it's a perfect complement for better understanding some of the concepts we will dive into.
 
-### Concepts you will learn
+### Concepts
 * Programming: variables, for loops, classes, p5js functions.
 * Mathematics: translations, modulo, sin and cosinus functions, random.
 
