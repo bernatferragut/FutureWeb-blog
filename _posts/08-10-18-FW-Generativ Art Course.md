@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "FW - Generative Art Course"
+title: "FW - Generative Art Course Creation"
 description: "Intro to Generative Art with P5JS"
-date: 2018-08-10
+date: 2018-10-08
 tags: [design, future web, creative coding]
 comments: true
 share: true
