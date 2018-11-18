@@ -25,7 +25,7 @@ overflow: hidden;
 position: relative;"
 src="https://editor.p5js.org/embed/rkMk2btKm"></iframe>
 
-[LINK TO THE ONLINE FREE COURSE](http://ga-course.surge.sh/)
+# [LINK TO THE ONLINE FREE COURSE](http://ga-course.surge.sh/)
 
 ## Introduction
 
