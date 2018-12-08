@@ -7,6 +7,9 @@ tags: [design, future web, creative coding]
 comments: true
 share: true
 ---
+
+#ORIGINS
+
 [GO TO EDITOR](https://editor.p5js.org/bernatferragut/sketches/HkO4HfkAX)
 
 <iframe 
@@ -24,7 +27,7 @@ src="https://editor.p5js.org/bernatferragut/embed/HkO4HfkAX"></iframe>
 
 ## [LINK - ARS INFUSA](http://ars-infusa.surge.sh/)
 
-## Computational Thinking Origins
+## Computational Thinking
 
 The outstanding Catalan philosopher and theologian Ramon Llull (c.1232–1316) encourages us to reread the late Middle Ages. 
 Llull, not only theoretically and linguistically invented a new method of knowledge acquisition, like an engineer, 
