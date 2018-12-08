@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-# THE ORIGINS OF THE COM
+# THE ORIGINS OF THE COMPUTATIONAL THINKING
 
 [GO TO EDITOR](https://editor.p5js.org/bernatferragut/sketches/HkO4HfkAX)
 
@@ -25,7 +25,7 @@ overflow: hidden;
 position: relative;"
 src="https://editor.p5js.org/bernatferragut/embed/HkO4HfkAX"></iframe>
 
-# [LINK TO THE ARS INFUSA DEEP DIVE COMPUTATIONAL THINKING ORIGINS](http://ars-infusa.surge.sh/)
+# [LINK - ARS INFUSA](http://ars-infusa.surge.sh/)
 
 # Computational Thinking Origins
 
@@ -53,7 +53,7 @@ and contemporary point of view.
 
 I hope you like it and more important that you try to use it...so to say ... let's compute with Llull again.
 
-# [LINK TO THE ARS INFUSA DEEP DIVE COMPUTATIONAL THINKING ORIGINS](http://ars-infusa.surge.sh/)
+# [LINK - COMPUTATIONAL THINKING ORIGINS](http://ars-infusa.surge.sh/)
 
 
 
