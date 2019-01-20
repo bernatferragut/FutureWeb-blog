@@ -10,8 +10,9 @@ share: true
 
 # ORIGINS
 
-* This Tutorial has been accepted by the [Processing Foundation](https://processing.org), [P5.js](http://p5js.org) and [Lauren McCarthy](http://www.lauren-mccarthy.com).
-* And can be visited on their offical page:[Link to the Processing Foundation P5JS Ressources GitHub Page](https://github.com/processing/p5.js/wiki/Educational-Resources)
+* Tutorial featured by the [Processing Foundation](https://processing.org), [P5.js](http://p5js.org) and [Lauren McCarthy](http://www.lauren-mccarthy.com).
+* Visit the offical page:[Link to the Processing Foundation P5JS Ressources GitHub Page](https://github.com/processing/p5.js/wiki/Educational-Resources)
+* [ARS-INFUSA main link](http://ars-infusa.surge.sh/)
 
 [GO TO EDITOR](https://editor.p5js.org/bernatferragut/sketches/HkO4HfkAX)
 
@@ -26,10 +27,8 @@ border: 4px solid #000000;
 border-radius: 6px; 
 overflow: hidden;
 position: relative;"
-scroll = "no"
+scrolling = "no"
 src="https://editor.p5js.org/bernatferragut/embed/HkO4HfkAX"></iframe>
-
-## [LINK - ARS INFUSA](http://ars-infusa.surge.sh/)
 
 ## Computational Thinking
 
