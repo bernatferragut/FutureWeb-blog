@@ -44,13 +44,11 @@ which has “computational thinking” at its core.
 After diving into it's most known piece of art, the Ars Brevis ( the smaller version of the Ars Ultima ), I have found the need
 to rewrite a brand new site with the foundations of his computational thinking.
 
-Following the steps of the Llullist Yannis Dambers I have reedited the Ars Infusa English translation of the original latin one.
+Following the steps of the 'Llullist' Yannis Dambergs I have reedited the Ars Infusa English translation of the original latin one.
 
-Adding the code in javascript for each of the pieces has created a rather new mix of old and new, that puts on to the table 
-the incredible moment to study again this pioneet of computational thinking and re evaluate and study all his theories from a modern
-and contemporary point of view.
+Building the Llullian figures with javascript code creates a rather original mix of old and new, showing the incredible momentum of the Llullian ideas.  It's time to rediscover this Computational Thinkning pioneer and study all his theories from a modern and contemporary point of view.
 
-I hope you like it and more important that you try to use it...so to say ... let's compute with Llull again.
+I hope you like try to use it...and as Leibniz ( Llull's fan ) use to say ... let's compute with Llull again.
 
 ## [LINK - COMPUTATIONAL THINKING ORIGINS](http://ars-infusa.surge.sh/)
 
