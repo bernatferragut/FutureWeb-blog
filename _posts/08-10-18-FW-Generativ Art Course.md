@@ -29,8 +29,6 @@ position: relative;"
 scrolling="no"
 src="https://editor.p5js.org/embed/rkMk2btKm"></iframe>
 
-# [LINK TO THE ONLINE FREE COURSE](http://ga-course.surge.sh/)
-
 ## Introduction
 
 ### Long time ago, in a far away galaxy...
