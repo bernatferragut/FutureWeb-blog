@@ -10,6 +10,9 @@ share: true
 
 # ORIGINS
 
+* This Tutorial has been accepted by the [Processing Foundation](https://processing.org), [P5.js](http://p5js.org) and [Lauren McCarthy](http://www.lauren-mccarthy.com).
+* [Link to the Processing Foundation P5JS Ressources GitHub Page](https://github.com/processing/p5.js/wiki/Educational-Resources)
+
 [GO TO EDITOR](https://editor.p5js.org/bernatferragut/sketches/HkO4HfkAX)
 
 <iframe 
@@ -23,6 +26,7 @@ border: 4px solid #000000;
 border-radius: 6px; 
 overflow: hidden;
 position: relative;"
+scroll = "no"
 src="https://editor.p5js.org/bernatferragut/embed/HkO4HfkAX"></iframe>
 
 ## [LINK - ARS INFUSA](http://ars-infusa.surge.sh/)
