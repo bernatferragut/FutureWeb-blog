@@ -9,6 +9,9 @@ share: true
 ---
 
 # GENERATIVE ART 
+* Tutorial accepted by the [Processing Foundation](https://processing.org), [P5.js](http://p5js.org) and [Lauren McCarthy](http://www.lauren-mccarthy.com).
+* [Educational-Resources GitHub page](https://github.com/processing/p5.js/wiki/Educational-Resources)
+* [GENERATIVE-ART tutorial page](http://ga-course.surge.sh/)
 
 [GO TO EDITOR](http://ga-course.surge.sh/)
 
@@ -23,6 +26,7 @@ border: 4px solid #000000;
 border-radius: 6px;
 overflow: hidden;
 position: relative;"
+scrolling: "no";
 src="https://editor.p5js.org/embed/rkMk2btKm"></iframe>
 
 # [LINK TO THE ONLINE FREE COURSE](http://ga-course.surge.sh/)
