@@ -26,7 +26,7 @@ border: 4px solid #000000;
 border-radius: 6px;
 overflow: hidden;
 position: relative;"
-scrolling: "no";
+scrolling="no"
 src="https://editor.p5js.org/embed/rkMk2btKm"></iframe>
 
 # [LINK TO THE ONLINE FREE COURSE](http://ga-course.surge.sh/)
