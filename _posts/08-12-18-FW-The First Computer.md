@@ -10,9 +10,9 @@ share: true
 
 # ORIGINS
 
-* Tutorial featured by the [Processing Foundation](https://processing.org), [P5.js](http://p5js.org) and [Lauren McCarthy](http://www.lauren-mccarthy.com).
-* Visit the offical page:[Link to the Processing Foundation P5JS Ressources GitHub Page](https://github.com/processing/p5.js/wiki/Educational-Resources)
-* [ARS-INFUSA main link](http://ars-infusa.surge.sh/)
+* Tutorial accepted by the [Processing Foundation](https://processing.org), [P5.js](http://p5js.org) and [Lauren McCarthy](http://www.lauren-mccarthy.com).
+* Educational-Resources page:[Processing Foundation P5JS Educational-Resources GitHub Page](https://github.com/processing/p5.js/wiki/Educational-Resources)
+* [ARS-INFUSA project](http://ars-infusa.surge.sh/)
 
 [GO TO EDITOR](https://editor.p5js.org/bernatferragut/sketches/HkO4HfkAX)
 
