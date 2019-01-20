@@ -10,10 +10,6 @@ share: true
 
 # ORIGINS
 
-* Tutorial accepted by the [Processing Foundation](https://processing.org), [P5.js](http://p5js.org) and [Lauren McCarthy](http://www.lauren-mccarthy.com).
-* [Educational-Resources GitHub page](https://github.com/processing/p5.js/wiki/Educational-Resources)
-* [ARS-INFUSA project page](http://ars-infusa.surge.sh/)
-
 [GO TO EDITOR](https://editor.p5js.org/bernatferragut/sketches/HkO4HfkAX)
 
 <iframe 
