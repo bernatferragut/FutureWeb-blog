@@ -9,7 +9,7 @@ permalink: /bernat/
 
 ## Intro
 
-Code Lead Instructor, Visual Designer and Front-End developer. I have a BSc in Eng. And a passion in how new technologies & good design affects our society.
+Media Artist, Visual Designer and Front-End developer. I have a BSc in Eng. And a passion in how new technologies & good design affects our society.
 
 ## Work
 
