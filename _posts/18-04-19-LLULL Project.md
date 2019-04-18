@@ -61,4 +61,4 @@ Project proposal for the Mutek festival (Montreal, 2019) dedicated to [Ramon Llu
   >MSc. (Cognitive Psychology), Coding instructor, DJ, radio producer (CHYZ and CKIA FM) and founder of La Face B web radio, Jean-Denis Theriault is mainly interested in the links between humans, technologies and music.
 
 
-> [GITHUB REPO:](https://github.com/JD-RD/LLULL)
+> [GITHUB REPO CODE](https://github.com/JD-RD/LLULL)
