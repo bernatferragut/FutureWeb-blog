@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FW - LLULL Audio-Visual Project"
-description: "Mutek festival Project (Montreal, 2019) dedicated to Ramon Llull, pioneer of computational thinking"
+description: "Mutek festival Project dedicated to Ramon Llull, pioneer of computational thinking"
 date: 2019-04-18
 tags: [design, future web, creative coding]
 comments: true
