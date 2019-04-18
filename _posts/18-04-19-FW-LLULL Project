@@ -27,12 +27,11 @@ Project proposal for the Mutek festival (Montreal, 2019) dedicated to [Ramon Llu
 ### Summary
 * Synthetic and minimal music (1 synthesizer + 1 drum machine) live
 * **Generative Art** (written in JavaScript) customized and **controlled live**
-  * [Description of the project’s visual components (PDF)](/PDF/LLULL-visuals-v1.pdf)
+  * [Description of the project’s visual components (PDF)](https://www.behance.net/gallery/75345145/LLULL-PROJECT-CODING-VISUALS)
 * **Simultaneous control** of sound and image with the synthesizer and the drum machine (via MIDI control)
 * Length: 30 minutes
 
 ## Ramon Llull
-
 >Still today, Llull inspires a large number of creators working in multiple fields (visual arts, music, philosophy, politics, etc.). Amongst other things, the combinatorial and algorithmic principles developed by Llull have played a fundamental role in the evolution of human thought. Llull's work has certainly fostered all kinds of technological advances that led to the digital and artistic revolution in which we live today
 
 ## Concept
@@ -58,3 +57,6 @@ Project proposal for the Mutek festival (Montreal, 2019) dedicated to [Ramon Llu
 
 * Jean-Denis Thériault
   >MSc. (Cognitive Psychology), Coding instructor, DJ, radio producer (CHYZ and CKIA FM) and founder of La Face B web radio, Jean-Denis Theriault is mainly interested in the links between humans, technologies and music.
+
+
+> [GITHUB REPO:](https://github.com/JD-RD/LLULL)
